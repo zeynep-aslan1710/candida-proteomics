@@ -1,0 +1,29 @@
+file	sample_name	experiment	group	replicate	note
+Ahinara_S1704_143.raw	CH2O2R1	H2O2	ctrl	1	
+Ahinara_S1704_144.raw	5mMH2O2R1	H2O2	5mM	1	
+Ahinara_S1704_145.raw	10mMH2O2R1	H2O2	10mM	1	
+Ahinara_S1704_146.raw	CH2O2R2	H2O2	ctrl	2	
+Ahinara_S1704_147.raw	5mMH2O2R2	H2O2	5mM	2	
+Ahinara_S1704_148.raw	10mMH2O2R2	H2O2	10mM	2	
+Ahinara_S1704_150.raw	CH2O2R3	H2O2	ctrl	3	
+Ahinara_S1704_151.raw	5mMH2O2R3	H2O2	5mM	3	
+Ahinara_S1704_152.raw	10mMH2O2R3	H2O2	10mM	3	
+Ahinara_S1704_153.raw	CH2O2R4	H2O2	ctrl	4	
+Ahinara_S1704_154.raw	5mMH2O2R4	H2O2	5mM	4	
+Ahinara_S1704_155.raw	10mMH2O2R4	H2O2	10mM	4	
+Ahinara_S1705_127.raw	CC40R1	AA	ctrl_40	1	
+Ahinara_S1705_128.raw	AA40R1	AA	40mM	1	
+Ahinara_S1705_129.raw	CC40R2	AA	ctrl_40	2	
+Ahinara_S1705_130.raw	AA40R2	AA	40mM	2	
+Ahinara_S1705_131.raw	CC40R3	AA	ctrl_40	3	
+Ahinara_S1705_132.raw	AA40R3	AA	40mM	3	
+Ahinara_S1705_133.raw	CC40R4	AA	ctrl_40	4	
+Ahinara_S1705_134.raw	AA40R4	AA	40mM	4	
+Ahinara_S1705_139.raw	AA60R1	AA	60mM	1	
+Ahinara_S1705_140.raw	CC60R2	AA	ctrl_60	2	
+Ahinara_S1705_141.raw	AA60R2	AA	60mM	2	
+Ahinara_S1705_142.raw	CC60R3	AA	ctrl_60	3	
+Ahinara_S1705_143.raw	AA60R3	AA	60mM	3	
+Ahinara_S1705_144.raw	CC60R4	AA	ctrl_60	4	
+Ahinara_S1705_145.raw	AA60R4	AA	60mM	4	
+Ahinara_S1705_149.raw	AA40R3	AA	40mM	3	repeated injection of an earlier sample

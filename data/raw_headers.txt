@@ -1,0 +1,1175 @@
+=== Ahinara_S1704_143.raw ===
+Finnigan
+Xcalibur_System
+Thermo
+r_System
+CH2O2R1
+C:\Xcalibur\methods\PreColumnSetup\Standard\DIA_120min_400-1200Da_600bar.meth
+D:\Ahinara\Ahinara_S1704_143.raw
+D:\Ahinara
+6x8 vials
+Study
+Client
+Laboratory
+Company
+Phone
+DQC6ZZ1
+D:\Ahinara\DIA_120min_400-1200Da_600bar_48ecff39-ab48-4580-a8f7-602b607aef93..meth
+Thermo EASY-nLC
+Proxeon_EASY-nLC
+Q Exactive Plus - Orbitrap MS
+Thermo Exactive
+Root Entry
+Text
+Data
+Sample pickup:
+Volume [
+l]         :     2.00
+Flow [
+l / min]     :    20.00
+Sample loading:
+l]         :    10.00
+l / min]     :     5.00
+Max. pressure [Bar] :   600.00
+Gradient:
+Time [mm:ss]   Duration [mm:ss]   Flow [nl/min]   Mixture [%B]
+00:00              00:00             300              3
+05:00              05:00             300              3
+125:00              120:00             300             35
+130:00              05:00             300             95
+135:00              05:00             300             95
+Pre-column equilibration:
+
+=== Ahinara_S1704_144.raw ===
+Finnigan
+Xcalibur_System
+Thermo
+r_System
+5mMH2O2R1
+C:\Xcalibur\methods\PreColumnSetup\Standard\DIA_120min_400-1200Da_600bar.meth
+D:\Ahinara\Ahinara_S1704_144.raw
+D:\Ahinara
+6x8 vials
+Study
+Client
+Laboratory
+Company
+Phone
+DQC6ZZ1
+D:\Ahinara\DIA_120min_400-1200Da_600bar_b6571a86-afe5-4d9a-93f7-68130b945a52..meth
+Thermo EASY-nLC
+Proxeon_EASY-nLC
+Q Exactive Plus - Orbitrap MS
+Thermo Exactive
+Root Entry
+Text
+Data
+Sample pickup:
+Volume [
+l]         :     2.00
+Flow [
+l / min]     :    20.00
+Sample loading:
+l]         :    10.00
+l / min]     :     5.00
+Max. pressure [Bar] :   600.00
+Gradient:
+Time [mm:ss]   Duration [mm:ss]   Flow [nl/min]   Mixture [%B]
+00:00              00:00             300              3
+05:00              05:00             300              3
+125:00              120:00             300             35
+130:00              05:00             300             95
+135:00              05:00             300             95
+Pre-column equilibration:
+
+=== Ahinara_S1704_145.raw ===
+Finnigan
+Xcalibur_System
+Thermo
+r_System
+10mMH2O2R1
+C:\Xcalibur\methods\PreColumnSetup\Standard\DIA_120min_400-1200Da_600bar.meth
+D:\Ahinara\Ahinara_S1704_145.raw
+D:\Ahinara
+6x8 vials
+Study
+Client
+Laboratory
+Company
+Phone
+DQC6ZZ1
+D:\Ahinara\DIA_120min_400-1200Da_600bar_87e7f9c1-f441-4038-aaf6-bf94011dc709..meth
+Thermo EASY-nLC
+Proxeon_EASY-nLC
+Q Exactive Plus - Orbitrap MS
+Thermo Exactive
+Root Entry
+Text
+Data
+Sample pickup:
+Volume [
+l]         :     2.00
+Flow [
+l / min]     :    20.00
+Sample loading:
+l]         :    10.00
+l / min]     :     5.00
+Max. pressure [Bar] :   600.00
+Gradient:
+Time [mm:ss]   Duration [mm:ss]   Flow [nl/min]   Mixture [%B]
+00:00              00:00             300              3
+05:00              05:00             300              3
+125:00              120:00             300             35
+130:00              05:00             300             95
+135:00              05:00             300             95
+Pre-column equilibration:
+
+=== Ahinara_S1704_146.raw ===
+Finnigan
+Xcalibur_System
+Thermo
+r_System
+CH2O2R2
+C:\Xcalibur\methods\PreColumnSetup\Standard\DIA_120min_400-1200Da_600bar.meth
+D:\Ahinara\Ahinara_S1704_146.raw
+D:\Ahinara
+6x8 vials
+Study
+Client
+Laboratory
+Company
+Phone
+DQC6ZZ1
+D:\Ahinara\DIA_120min_400-1200Da_600bar_eb8f5e02-c7fa-4f25-af62-4e3ab47c101f..meth
+Thermo EASY-nLC
+Proxeon_EASY-nLC
+Q Exactive Plus - Orbitrap MS
+Thermo Exactive
+Root Entry
+Text
+Data
+Sample pickup:
+Volume [
+l]         :     2.00
+Flow [
+l / min]     :    20.00
+Sample loading:
+l]         :    10.00
+l / min]     :     5.00
+Max. pressure [Bar] :   600.00
+Gradient:
+Time [mm:ss]   Duration [mm:ss]   Flow [nl/min]   Mixture [%B]
+00:00              00:00             300              3
+05:00              05:00             300              3
+125:00              120:00             300             35
+130:00              05:00             300             95
+135:00              05:00             300             95
+Pre-column equilibration:
+
+=== Ahinara_S1704_147.raw ===
+Finnigan
+Xcalibur_System
+Thermo
+r_System
+5mMH2O2R2
+C:\Xcalibur\methods\PreColumnSetup\Standard\DIA_120min_400-1200Da_600bar.meth
+D:\Ahinara\Ahinara_S1704_147.raw
+D:\Ahinara
+6x8 vials
+Study
+Client
+Laboratory
+Company
+Phone
+DQC6ZZ1
+D:\Ahinara\DIA_120min_400-1200Da_600bar_988c7404-f4af-45c5-817e-4c2af1eccd0c..meth
+Thermo EASY-nLC
+Proxeon_EASY-nLC
+Q Exactive Plus - Orbitrap MS
+Thermo Exactive
+Root Entry
+Text
+Data
+Sample pickup:
+Volume [
+l]         :     2.00
+Flow [
+l / min]     :    20.00
+Sample loading:
+l]         :    10.00
+l / min]     :     5.00
+Max. pressure [Bar] :   600.00
+Gradient:
+Time [mm:ss]   Duration [mm:ss]   Flow [nl/min]   Mixture [%B]
+00:00              00:00             300              3
+05:00              05:00             300              3
+125:00              120:00             300             35
+130:00              05:00             300             95
+135:00              05:00             300             95
+Pre-column equilibration:
+
+=== Ahinara_S1704_148.raw ===
+Finnigan
+Xcalibur_System
+Thermo
+r_System
+10mMH2O2R2
+C:\Xcalibur\methods\PreColumnSetup\Standard\DIA_120min_400-1200Da_600bar.meth
+D:\Ahinara\Ahinara_S1704_148.raw
+D:\Ahinara
+6x8 vials
+Study
+Client
+Laboratory
+Company
+Phone
+DQC6ZZ1
+D:\Ahinara\DIA_120min_400-1200Da_600bar_fd350893-d318-4813-a317-bdaa4bdc7b7f..meth
+Thermo EASY-nLC
+Proxeon_EASY-nLC
+Q Exactive Plus - Orbitrap MS
+Thermo Exactive
+Root Entry
+Text
+Data
+Sample pickup:
+Volume [
+l]         :     2.00
+Flow [
+l / min]     :    20.00
+Sample loading:
+l]         :    10.00
+l / min]     :     5.00
+Max. pressure [Bar] :   600.00
+Gradient:
+Time [mm:ss]   Duration [mm:ss]   Flow [nl/min]   Mixture [%B]
+00:00              00:00             300              3
+05:00              05:00             300              3
+125:00              120:00             300             35
+130:00              05:00             300             95
+135:00              05:00             300             95
+Pre-column equilibration:
+
+=== Ahinara_S1704_150.raw ===
+Finnigan
+Xcalibur_System
+Thermo
+r_System
+CH2O2R3
+C:\Xcalibur\methods\PreColumnSetup\Standard\DIA_120min_400-1200Da_600bar.meth
+D:\Ahinara\Ahinara_S1704_150.raw
+D:\Ahinara
+6x8 vials
+Study
+Client
+Laboratory
+Company
+Phone
+DQC6ZZ1
+D:\Ahinara\DIA_120min_400-1200Da_600bar_f5b1bb10-e238-4a34-8431-98753388a6c2..meth
+Thermo EASY-nLC
+Proxeon_EASY-nLC
+Q Exactive Plus - Orbitrap MS
+Thermo Exactive
+Root Entry
+Text
+Data
+Sample pickup:
+Volume [
+l]         :     2.00
+Flow [
+l / min]     :    20.00
+Sample loading:
+l]         :    10.00
+l / min]     :     5.00
+Max. pressure [Bar] :   600.00
+Gradient:
+Time [mm:ss]   Duration [mm:ss]   Flow [nl/min]   Mixture [%B]
+00:00              00:00             300              3
+05:00              05:00             300              3
+125:00              120:00             300             35
+130:00              05:00             300             95
+135:00              05:00             300             95
+Pre-column equilibration:
+
+=== Ahinara_S1704_151.raw ===
+Finnigan
+Xcalibur_System
+Thermo
+r_System
+5mMH2O2R3
+C:\Xcalibur\methods\PreColumnSetup\Standard\DIA_120min_400-1200Da_600bar.meth
+D:\Ahinara\Ahinara_S1704_151.raw
+D:\Ahinara
+6x8 vials
+Study
+Client
+Laboratory
+Company
+Phone
+DQC6ZZ1
+D:\Ahinara\DIA_120min_400-1200Da_600bar_dd15a380-a796-416d-b537-f1ab0a80e302..meth
+Thermo EASY-nLC
+Proxeon_EASY-nLC
+Q Exactive Plus - Orbitrap MS
+Thermo Exactive
+Root Entry
+Text
+Data
+Sample pickup:
+Volume [
+l]         :     2.00
+Flow [
+l / min]     :    20.00
+Sample loading:
+l]         :    10.00
+l / min]     :     5.00
+Max. pressure [Bar] :   600.00
+Gradient:
+Time [mm:ss]   Duration [mm:ss]   Flow [nl/min]   Mixture [%B]
+00:00              00:00             300              3
+05:00              05:00             300              3
+125:00              120:00             300             35
+130:00              05:00             300             95
+135:00              05:00             300             95
+Pre-column equilibration:
+
+=== Ahinara_S1704_152.raw ===
+Finnigan
+Xcalibur_System
+Thermo
+r_System
+10mMH2O2R3
+C:\Xcalibur\methods\PreColumnSetup\Standard\DIA_120min_400-1200Da_600bar.meth
+D:\Ahinara\Ahinara_S1704_152.raw
+D:\Ahinara
+6x8 vials
+Study
+Client
+Laboratory
+Company
+Phone
+DQC6ZZ1
+D:\Ahinara\DIA_120min_400-1200Da_600bar_e538fab9-c364-41fc-bb5f-b419ed866a59..meth
+Thermo EASY-nLC
+Proxeon_EASY-nLC
+Q Exactive Plus - Orbitrap MS
+Thermo Exactive
+Root Entry
+Text
+Data
+Sample pickup:
+Volume [
+l]         :     2.00
+Flow [
+l / min]     :    20.00
+Sample loading:
+l]         :    10.00
+l / min]     :     5.00
+Max. pressure [Bar] :   600.00
+Gradient:
+Time [mm:ss]   Duration [mm:ss]   Flow [nl/min]   Mixture [%B]
+00:00              00:00             300              3
+05:00              05:00             300              3
+125:00              120:00             300             35
+130:00              05:00             300             95
+135:00              05:00             300             95
+Pre-column equilibration:
+
+=== Ahinara_S1704_153.raw ===
+Finnigan
+Xcalibur_System
+Thermo
+r_System
+CH2O2R4
+C:\Xcalibur\methods\PreColumnSetup\Standard\DIA_120min_400-1200Da_600bar.meth
+D:\Ahinara\Ahinara_S1704_153.raw
+D:\Ahinara
+6x8 vials
+Study
+Client
+Laboratory
+Company
+Phone
+DQC6ZZ1
+D:\Ahinara\DIA_120min_400-1200Da_600bar_34a08db6-982f-4535-89ff-4f520349a821..meth
+Thermo EASY-nLC
+Proxeon_EASY-nLC
+Q Exactive Plus - Orbitrap MS
+Thermo Exactive
+Root Entry
+Text
+Data
+Sample pickup:
+Volume [
+l]         :     2.00
+Flow [
+l / min]     :    20.00
+Sample loading:
+l]         :    10.00
+l / min]     :     5.00
+Max. pressure [Bar] :   600.00
+Gradient:
+Time [mm:ss]   Duration [mm:ss]   Flow [nl/min]   Mixture [%B]
+00:00              00:00             300              3
+05:00              05:00             300              3
+125:00              120:00             300             35
+130:00              05:00             300             95
+135:00              05:00             300             95
+Pre-column equilibration:
+
+=== Ahinara_S1704_154.raw ===
+Finnigan
+Xcalibur_System
+Thermo
+r_System
+5mMH2O2R4
+C:\Xcalibur\methods\PreColumnSetup\Standard\DIA_120min_400-1200Da_600bar.meth
+D:\Ahinara\Ahinara_S1704_154.raw
+D:\Ahinara
+6x8 vials
+Study
+Client
+Laboratory
+Company
+Phone
+DQC6ZZ1
+D:\Ahinara\DIA_120min_400-1200Da_600bar_f031c180-ace3-4ddf-ba70-204c56e28fa8..meth
+Thermo EASY-nLC
+Proxeon_EASY-nLC
+Q Exactive Plus - Orbitrap MS
+Thermo Exactive
+Root Entry
+Text
+Data
+Sample pickup:
+Volume [
+l]         :     2.00
+Flow [
+l / min]     :    20.00
+Sample loading:
+l]         :    10.00
+l / min]     :     5.00
+Max. pressure [Bar] :   600.00
+Gradient:
+Time [mm:ss]   Duration [mm:ss]   Flow [nl/min]   Mixture [%B]
+00:00              00:00             300              3
+05:00              05:00             300              3
+125:00              120:00             300             35
+130:00              05:00             300             95
+135:00              05:00             300             95
+Pre-column equilibration:
+
+=== Ahinara_S1704_155.raw ===
+Finnigan
+Xcalibur_System
+Thermo
+r_System
+10mMH2O2R4
+C:\Xcalibur\methods\PreColumnSetup\Standard\DIA_120min_400-1200Da_600bar.meth
+D:\Ahinara\Ahinara_S1704_155.raw
+D:\Ahinara
+6x8 vials
+Study
+Client
+Laboratory
+Company
+Phone
+DQC6ZZ1
+D:\Ahinara\DIA_120min_400-1200Da_600bar_939dfb4f-be58-4d44-b2aa-6b1c417748ca..meth
+Thermo EASY-nLC
+Proxeon_EASY-nLC
+Q Exactive Plus - Orbitrap MS
+Thermo Exactive
+Root Entry
+Text
+Data
+Sample pickup:
+Volume [
+l]         :     2.00
+Flow [
+l / min]     :    20.00
+Sample loading:
+l]         :    10.00
+l / min]     :     5.00
+Max. pressure [Bar] :   600.00
+Gradient:
+Time [mm:ss]   Duration [mm:ss]   Flow [nl/min]   Mixture [%B]
+00:00              00:00             300              3
+05:00              05:00             300              3
+125:00              120:00             300             35
+130:00              05:00             300             95
+135:00              05:00             300             95
+Pre-column equilibration:
+
+=== Ahinara_S1705_127.raw ===
+Finnigan
+Xcalibur_System
+Thermo
+r_System
+CC40R1
+C:\Xcalibur\methods\PreColumnSetup\Standard\DIA_120min_400-1200Da_600bar.meth
+D:\Ahinara\Ahinara_S1705_127.raw
+D:\Ahinara
+6x8 vials
+Study
+Client
+Laboratory
+Company
+Phone
+DQC6ZZ1
+D:\Ahinara\DIA_120min_400-1200Da_600bar_25577347-0427-467a-bc0f-85936ed33e0d..meth
+Thermo EASY-nLC
+Proxeon_EASY-nLC
+Q Exactive Plus - Orbitrap MS
+Thermo Exactive
+Root Entry
+Text
+Data
+Sample pickup:
+Volume [
+l]         :     2.00
+Flow [
+l / min]     :    20.00
+Sample loading:
+l]         :    10.00
+l / min]     :     5.00
+Max. pressure [Bar] :   600.00
+Gradient:
+Time [mm:ss]   Duration [mm:ss]   Flow [nl/min]   Mixture [%B]
+00:00              00:00             300              3
+05:00              05:00             300              3
+125:00              120:00             300             35
+130:00              05:00             300             95
+135:00              05:00             300             95
+Pre-column equilibration:
+
+=== Ahinara_S1705_128.raw ===
+Finnigan
+Xcalibur_System
+Thermo
+r_System
+AA40R1
+C:\Xcalibur\methods\PreColumnSetup\Standard\DIA_120min_400-1200Da_600bar.meth
+D:\Ahinara\Ahinara_S1705_128.raw
+D:\Ahinara
+6x8 vials
+Study
+Client
+Laboratory
+Company
+Phone
+DQC6ZZ1
+D:\Ahinara\DIA_120min_400-1200Da_600bar_d4b06fab-6c50-42ca-8710-f1f4c941a82a..meth
+Thermo EASY-nLC
+Proxeon_EASY-nLC
+Q Exactive Plus - Orbitrap MS
+Thermo Exactive
+Root Entry
+Text
+Data
+Sample pickup:
+Volume [
+l]         :     2.00
+Flow [
+l / min]     :    20.00
+Sample loading:
+l]         :    10.00
+l / min]     :     5.00
+Max. pressure [Bar] :   600.00
+Gradient:
+Time [mm:ss]   Duration [mm:ss]   Flow [nl/min]   Mixture [%B]
+00:00              00:00             300              3
+05:00              05:00             300              3
+125:00              120:00             300             35
+130:00              05:00             300             95
+135:00              05:00             300             95
+Pre-column equilibration:
+
+=== Ahinara_S1705_129.raw ===
+Finnigan
+Xcalibur_System
+Thermo
+r_System
+CC40R2
+C:\Xcalibur\methods\PreColumnSetup\Standard\DIA_120min_400-1200Da_600bar.meth
+D:\Ahinara\Ahinara_S1705_129.raw
+D:\Ahinara
+6x8 vials
+Study
+Client
+Laboratory
+Company
+Phone
+DQC6ZZ1
+D:\Ahinara\DIA_120min_400-1200Da_600bar_bebd9eda-dbfb-4ec7-81cb-53076917e2ba..meth
+Thermo EASY-nLC
+Proxeon_EASY-nLC
+Q Exactive Plus - Orbitrap MS
+Thermo Exactive
+Root Entry
+Text
+Data
+Sample pickup:
+Volume [
+l]         :     2.00
+Flow [
+l / min]     :    20.00
+Sample loading:
+l]         :    10.00
+l / min]     :     5.00
+Max. pressure [Bar] :   600.00
+Gradient:
+Time [mm:ss]   Duration [mm:ss]   Flow [nl/min]   Mixture [%B]
+00:00              00:00             300              3
+05:00              05:00             300              3
+125:00              120:00             300             35
+130:00              05:00             300             95
+135:00              05:00             300             95
+Pre-column equilibration:
+
+=== Ahinara_S1705_130.raw ===
+Finnigan
+Xcalibur_System
+Thermo
+r_System
+AA40R2
+C:\Xcalibur\methods\PreColumnSetup\Standard\DIA_120min_400-1200Da_600bar.meth
+D:\Ahinara\Ahinara_S1705_130.raw
+D:\Ahinara
+6x8 vials
+Study
+Client
+Laboratory
+Company
+Phone
+DQC6ZZ1
+D:\Ahinara\DIA_120min_400-1200Da_600bar_20d3ba1a-d1da-4707-aba4-aae51e172b1d..meth
+Thermo EASY-nLC
+Proxeon_EASY-nLC
+Q Exactive Plus - Orbitrap MS
+Thermo Exactive
+Root Entry
+Text
+Data
+Sample pickup:
+Volume [
+l]         :     2.00
+Flow [
+l / min]     :    20.00
+Sample loading:
+l]         :    10.00
+l / min]     :     5.00
+Max. pressure [Bar] :   600.00
+Gradient:
+Time [mm:ss]   Duration [mm:ss]   Flow [nl/min]   Mixture [%B]
+00:00              00:00             300              3
+05:00              05:00             300              3
+125:00              120:00             300             35
+130:00              05:00             300             95
+135:00              05:00             300             95
+Pre-column equilibration:
+
+=== Ahinara_S1705_131.raw ===
+Finnigan
+Xcalibur_System
+Thermo
+r_System
+CC40R3
+C:\Xcalibur\methods\PreColumnSetup\Standard\DIA_120min_400-1200Da_600bar.meth
+D:\Ahinara\Ahinara_S1705_131.raw
+D:\Ahinara
+6x8 vials
+Study
+Client
+Laboratory
+Company
+Phone
+DQC6ZZ1
+D:\Ahinara\DIA_120min_400-1200Da_600bar_89d3658d-9a61-4a0e-bacc-382b104d191a..meth
+Thermo EASY-nLC
+Proxeon_EASY-nLC
+Q Exactive Plus - Orbitrap MS
+Thermo Exactive
+Root Entry
+Text
+Data
+Sample pickup:
+Volume [
+l]         :     2.00
+Flow [
+l / min]     :    20.00
+Sample loading:
+l]         :    10.00
+l / min]     :     5.00
+Max. pressure [Bar] :   600.00
+Gradient:
+Time [mm:ss]   Duration [mm:ss]   Flow [nl/min]   Mixture [%B]
+00:00              00:00             300              3
+05:00              05:00             300              3
+125:00              120:00             300             35
+130:00              05:00             300             95
+135:00              05:00             300             95
+Pre-column equilibration:
+
+=== Ahinara_S1705_132.raw ===
+Finnigan
+Xcalibur_System
+Thermo
+r_System
+AA40R3
+C:\Xcalibur\methods\PreColumnSetup\Standard\DIA_120min_400-1200Da_600bar.meth
+D:\Ahinara\Ahinara_S1705_132.raw
+D:\Ahinara
+6x8 vials
+Study
+Client
+Laboratory
+Company
+Phone
+DQC6ZZ1
+D:\Ahinara\DIA_120min_400-1200Da_600bar_a55b857f-0ffd-4af7-a652-dec4b0f03aae..meth
+Thermo EASY-nLC
+Proxeon_EASY-nLC
+Q Exactive Plus - Orbitrap MS
+Thermo Exactive
+Root Entry
+Text
+Data
+Sample pickup:
+Volume [
+l]         :     2.00
+Flow [
+l / min]     :    20.00
+Sample loading:
+l]         :    10.00
+l / min]     :     5.00
+Max. pressure [Bar] :   600.00
+Gradient:
+Time [mm:ss]   Duration [mm:ss]   Flow [nl/min]   Mixture [%B]
+00:00              00:00             300              3
+05:00              05:00             300              3
+125:00              120:00             300             35
+130:00              05:00             300             95
+135:00              05:00             300             95
+Pre-column equilibration:
+
+=== Ahinara_S1705_133.raw ===
+Finnigan
+Xcalibur_System
+Thermo
+r_System
+CC40R4
+C:\Xcalibur\methods\PreColumnSetup\Standard\DIA_120min_400-1200Da_600bar.meth
+D:\Ahinara\Ahinara_S1705_133.raw
+D:\Ahinara
+6x8 vials
+Study
+Client
+Laboratory
+Company
+Phone
+DQC6ZZ1
+D:\Ahinara\DIA_120min_400-1200Da_600bar_b48d929b-e1b1-43a7-b179-1e283feb7a67..meth
+Thermo EASY-nLC
+Proxeon_EASY-nLC
+Q Exactive Plus - Orbitrap MS
+Thermo Exactive
+Root Entry
+Text
+Data
+Sample pickup:
+Volume [
+l]         :     2.00
+Flow [
+l / min]     :    20.00
+Sample loading:
+l]         :    10.00
+l / min]     :     5.00
+Max. pressure [Bar] :   600.00
+Gradient:
+Time [mm:ss]   Duration [mm:ss]   Flow [nl/min]   Mixture [%B]
+00:00              00:00             300              3
+05:00              05:00             300              3
+125:00              120:00             300             35
+130:00              05:00             300             95
+135:00              05:00             300             95
+Pre-column equilibration:
+
+=== Ahinara_S1705_134.raw ===
+Finnigan
+Xcalibur_System
+Thermo
+r_System
+AA40R4
+C:\Xcalibur\methods\PreColumnSetup\Standard\DIA_120min_400-1200Da_600bar.meth
+D:\Ahinara\Ahinara_S1705_134.raw
+D:\Ahinara
+6x8 vials
+Study
+Client
+Laboratory
+Company
+Phone
+DQC6ZZ1
+D:\Ahinara\DIA_120min_400-1200Da_600bar_bfba847e-ae20-4aee-9cd0-145b2b0be4fe..meth
+Thermo EASY-nLC
+Proxeon_EASY-nLC
+Q Exactive Plus - Orbitrap MS
+Thermo Exactive
+Root Entry
+Text
+Data
+Sample pickup:
+Volume [
+l]         :     2.00
+Flow [
+l / min]     :    20.00
+Sample loading:
+l]         :    10.00
+l / min]     :     5.00
+Max. pressure [Bar] :   600.00
+Gradient:
+Time [mm:ss]   Duration [mm:ss]   Flow [nl/min]   Mixture [%B]
+00:00              00:00             300              3
+05:00              05:00             300              3
+125:00              120:00             300             35
+130:00              05:00             300             95
+135:00              05:00             300             95
+Pre-column equilibration:
+
+=== Ahinara_S1705_139.raw ===
+Finnigan
+Xcalibur_System
+Thermo
+r_System
+AA60R1
+C:\Xcalibur\methods\PreColumnSetup\Standard\DIA_120min_400-1200Da_600bar.meth
+D:\Ahinara\Ahinara_S1705_139.raw
+D:\Ahinara
+6x8 vials
+Study
+Client
+Laboratory
+Company
+Phone
+DQC6ZZ1
+D:\Ahinara\DIA_120min_400-1200Da_600bar_110ffa36-5597-41cc-ad04-1548304f1a0a..meth
+Thermo EASY-nLC
+Proxeon_EASY-nLC
+Q Exactive Plus - Orbitrap MS
+Thermo Exactive
+Root Entry
+Text
+Data
+Sample pickup:
+Volume [
+l]         :     2.00
+Flow [
+l / min]     :    20.00
+Sample loading:
+l]         :    10.00
+l / min]     :     5.00
+Max. pressure [Bar] :   600.00
+Gradient:
+Time [mm:ss]   Duration [mm:ss]   Flow [nl/min]   Mixture [%B]
+00:00              00:00             300              3
+05:00              05:00             300              3
+125:00              120:00             300             35
+130:00              05:00             300             95
+135:00              05:00             300             95
+Pre-column equilibration:
+
+=== Ahinara_S1705_140.raw ===
+Finnigan
+Xcalibur_System
+Thermo
+r_System
+CC60R2
+C:\Xcalibur\methods\PreColumnSetup\Standard\DIA_120min_400-1200Da_600bar.meth
+D:\Ahinara\Ahinara_S1705_140.raw
+D:\Ahinara
+6x8 vials
+Study
+Client
+Laboratory
+Company
+Phone
+DQC6ZZ1
+D:\Ahinara\DIA_120min_400-1200Da_600bar_d20d074d-a190-46bd-af52-804f89ea0eab..meth
+Thermo EASY-nLC
+Proxeon_EASY-nLC
+Q Exactive Plus - Orbitrap MS
+Thermo Exactive
+Root Entry
+Text
+Data
+Sample pickup:
+Volume [
+l]         :     2.00
+Flow [
+l / min]     :    20.00
+Sample loading:
+l]         :    10.00
+l / min]     :     5.00
+Max. pressure [Bar] :   600.00
+Gradient:
+Time [mm:ss]   Duration [mm:ss]   Flow [nl/min]   Mixture [%B]
+00:00              00:00             300              3
+05:00              05:00             300              3
+125:00              120:00             300             35
+130:00              05:00             300             95
+135:00              05:00             300             95
+Pre-column equilibration:
+
+=== Ahinara_S1705_141.raw ===
+Finnigan
+Xcalibur_System
+Thermo
+r_System
+AA60R2
+C:\Xcalibur\methods\PreColumnSetup\Standard\DIA_120min_400-1200Da_600bar.meth
+D:\Ahinara\Ahinara_S1705_141.raw
+D:\Ahinara
+6x8 vials
+Study
+Client
+Laboratory
+Company
+Phone
+DQC6ZZ1
+D:\Ahinara\DIA_120min_400-1200Da_600bar_9fca85cc-e8af-494e-883b-43f59d178ab6..meth
+Thermo EASY-nLC
+Proxeon_EASY-nLC
+Q Exactive Plus - Orbitrap MS
+Thermo Exactive
+Root Entry
+Text
+Data
+Sample pickup:
+Volume [
+l]         :     2.00
+Flow [
+l / min]     :    20.00
+Sample loading:
+l]         :    10.00
+l / min]     :     5.00
+Max. pressure [Bar] :   600.00
+Gradient:
+Time [mm:ss]   Duration [mm:ss]   Flow [nl/min]   Mixture [%B]
+00:00              00:00             300              3
+05:00              05:00             300              3
+125:00              120:00             300             35
+130:00              05:00             300             95
+135:00              05:00             300             95
+Pre-column equilibration:
+
+=== Ahinara_S1705_142.raw ===
+Finnigan
+Xcalibur_System
+Thermo
+r_System
+CC60R3
+C:\Xcalibur\methods\PreColumnSetup\Standard\DIA_120min_400-1200Da_600bar.meth
+D:\Ahinara\Ahinara_S1705_142.raw
+D:\Ahinara
+6x8 vials
+Study
+Client
+Laboratory
+Company
+Phone
+DQC6ZZ1
+D:\Ahinara\DIA_120min_400-1200Da_600bar_7cbe1800-27a8-4d7b-8ab6-2aec2e5912df..meth
+Thermo EASY-nLC
+Proxeon_EASY-nLC
+Q Exactive Plus - Orbitrap MS
+Thermo Exactive
+Root Entry
+Text
+Data
+Sample pickup:
+Volume [
+l]         :     2.00
+Flow [
+l / min]     :    20.00
+Sample loading:
+l]         :    10.00
+l / min]     :     5.00
+Max. pressure [Bar] :   600.00
+Gradient:
+Time [mm:ss]   Duration [mm:ss]   Flow [nl/min]   Mixture [%B]
+00:00              00:00             300              3
+05:00              05:00             300              3
+125:00              120:00             300             35
+130:00              05:00             300             95
+135:00              05:00             300             95
+Pre-column equilibration:
+
+=== Ahinara_S1705_143.raw ===
+Finnigan
+Xcalibur_System
+Thermo
+r_System
+AA60R3
+C:\Xcalibur\methods\PreColumnSetup\Standard\DIA_120min_400-1200Da_600bar.meth
+D:\Ahinara\Ahinara_S1705_143.raw
+D:\Ahinara
+6x8 vials
+Study
+Client
+Laboratory
+Company
+Phone
+DQC6ZZ1
+D:\Ahinara\DIA_120min_400-1200Da_600bar_069a062b-a496-40ca-92d4-05164f49086d..meth
+Thermo EASY-nLC
+Proxeon_EASY-nLC
+Q Exactive Plus - Orbitrap MS
+Thermo Exactive
+Root Entry
+Text
+Data
+Sample pickup:
+Volume [
+l]         :     2.00
+Flow [
+l / min]     :    20.00
+Sample loading:
+l]         :    10.00
+l / min]     :     5.00
+Max. pressure [Bar] :   600.00
+Gradient:
+Time [mm:ss]   Duration [mm:ss]   Flow [nl/min]   Mixture [%B]
+00:00              00:00             300              3
+05:00              05:00             300              3
+125:00              120:00             300             35
+130:00              05:00             300             95
+135:00              05:00             300             95
+Pre-column equilibration:
+
+=== Ahinara_S1705_144.raw ===
+Finnigan
+Xcalibur_System
+Thermo
+r_System
+CC60R4
+C:\Xcalibur\methods\PreColumnSetup\Standard\DIA_120min_400-1200Da_600bar.meth
+D:\Ahinara\Ahinara_S1705_144.raw
+D:\Ahinara
+6x8 vials
+Study
+Client
+Laboratory
+Company
+Phone
+DQC6ZZ1
+D:\Ahinara\DIA_120min_400-1200Da_600bar_72c35f7a-c542-45b8-988e-7e53dcd182b3..meth
+Thermo EASY-nLC
+Proxeon_EASY-nLC
+Q Exactive Plus - Orbitrap MS
+Thermo Exactive
+Root Entry
+Text
+Data
+Sample pickup:
+Volume [
+l]         :     2.00
+Flow [
+l / min]     :    20.00
+Sample loading:
+l]         :    10.00
+l / min]     :     5.00
+Max. pressure [Bar] :   600.00
+Gradient:
+Time [mm:ss]   Duration [mm:ss]   Flow [nl/min]   Mixture [%B]
+00:00              00:00             300              3
+05:00              05:00             300              3
+125:00              120:00             300             35
+130:00              05:00             300             95
+135:00              05:00             300             95
+Pre-column equilibration:
+
+=== Ahinara_S1705_145.raw ===
+Finnigan
+Xcalibur_System
+Thermo
+r_System
+AA60R4
+C:\Xcalibur\methods\PreColumnSetup\Standard\DIA_120min_400-1200Da_600bar.meth
+D:\Ahinara\Ahinara_S1705_145.raw
+D:\Ahinara
+6x8 vials
+Study
+Client
+Laboratory
+Company
+Phone
+DQC6ZZ1
+D:\Ahinara\DIA_120min_400-1200Da_600bar_0fcc95d6-85e7-421d-8373-b62089b6a22d..meth
+Thermo EASY-nLC
+Proxeon_EASY-nLC
+Q Exactive Plus - Orbitrap MS
+Thermo Exactive
+Root Entry
+Text
+Data
+Sample pickup:
+Volume [
+l]         :     2.00
+Flow [
+l / min]     :    20.00
+Sample loading:
+l]         :    10.00
+l / min]     :     5.00
+Max. pressure [Bar] :   600.00
+Gradient:
+Time [mm:ss]   Duration [mm:ss]   Flow [nl/min]   Mixture [%B]
+00:00              00:00             300              3
+05:00              05:00             300              3
+125:00              120:00             300             35
+130:00              05:00             300             95
+135:00              05:00             300             95
+Pre-column equilibration:
+
+=== Ahinara_S1705_149.raw ===
+Finnigan
+Xcalibur_System
+Thermo
+r_System
+AA40R3
+C:\Xcalibur\methods\PreColumnSetup\Standard\DIA_120min_400-1200Da_600bar.meth
+D:\Ahinara\Ahinara_S1705_149.raw
+D:\Ahinara
+6x8 vials
+Study
+Client
+Laboratory
+Company
+Phone
+DQC6ZZ1
+D:\Ahinara\DIA_120min_400-1200Da_600bar_cb988d35-14f1-45d3-ba97-c49f44ee812e..meth
+Thermo EASY-nLC
+Proxeon_EASY-nLC
+Q Exactive Plus - Orbitrap MS
+Thermo Exactive
+Root Entry
+Text
+Data
+Sample pickup:
+Volume [
+l]         :     2.00
+Flow [
+l / min]     :    20.00
+Sample loading:
+l]         :    10.00
+l / min]     :     5.00
+Max. pressure [Bar] :   600.00
+Gradient:
+Time [mm:ss]   Duration [mm:ss]   Flow [nl/min]   Mixture [%B]
+00:00              00:00             300              3
+05:00              05:00             300              3
+125:00              120:00             300             35
+130:00              05:00             300             95
+135:00              05:00             300             95
+Pre-column equilibration:
