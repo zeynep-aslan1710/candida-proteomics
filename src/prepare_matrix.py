@@ -1,8 +1,8 @@
 """Combine the DIA-NN protein table with the sample annotation.
 
 Reads the DIA-NN protein group matrix, renames the run columns to readable
-sample labels (e.g. H2O2_5mM_R1), log2-transforms the quantities and saves
-the result together with a per-sample summary.
+sample labels (e.g. H2O2_5mM_R1), log2-transforms and median-normalises the
+quantities and saves the result together with a per-sample summary.
 """
 from pathlib import Path, PureWindowsPath
 
@@ -22,6 +22,18 @@ def make_label(row: pd.Series) -> str:
     return label
 
 
+def median_normalise(log2: pd.DataFrame) -> tuple[pd.DataFrame, pd.Series]:
+    """Shift every sample so that all samples have the same median.
+
+    The median is taken over proteins quantified in every sample, so that
+    samples with more missing values are not compared on a different set of
+    proteins. Assumes that most proteins do not change between samples.
+    """
+    common = log2.dropna()
+    shift = common.median() - common.median().median()
+    return log2 - shift, shift
+
+
 def main() -> None:
     pg = pd.read_csv(PG_MATRIX, sep="\t")
     ann = pd.read_csv(ANNOTATION, sep="\t", dtype={"replicate": str})
@@ -36,13 +48,14 @@ def main() -> None:
     # Missing values can appear as empty cells or zeros; log2 needs NaN for both
     log2 = np.log2(quant.replace(0, np.nan))
     log2 = log2[ann["label"]]  # same order as the annotation table
+    log2, shift = median_normalise(log2)
 
     OUT_DIR.mkdir(parents=True, exist_ok=True)
     pd.concat([info, log2], axis=1).to_csv(OUT_DIR / "protein_log2.tsv", sep="\t", index=False)
 
     summary = ann[["label", "file", "sample_name"]].copy()
     summary["proteins_quantified"] = log2.notna().sum().values
-    summary["median_log2"] = log2.median().round(2).values
+    summary["normalisation_shift"] = shift.round(2).values
     summary.to_csv(OUT_DIR / "sample_summary.tsv", sep="\t", index=False)
 
     print(f"{len(log2)} protein groups x {log2.shape[1]} samples\n")
