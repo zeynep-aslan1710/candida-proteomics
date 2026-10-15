@@ -1,0 +1,1351 @@
+Protein.Group	Genes	Protein.Names	First.Protein.Description	stress	direction	mean_log2FC	in_other_stress
+A0A1D8PDN9	PRN1	A0A1D8PDN9_CANAL	Prn1p	H2O2	up	4.43	False
+Q5AHH4	HSP21	HSP21_CANAL	Small heat shock protein 21	H2O2	up	4.34	False
+Q59ZI2	CAALFM_C205060CA	Q59ZI2_CANAL	Sulfiredoxin	H2O2	up	4.34	False
+Q59RB8	ICL1	Q59RB8_CANAL	Isocitrate lyase	H2O2	up	3.71	False
+A0A1D8PI34	CAALFM_C208200WA	A0A1D8PI34_CANAL	Uncharacterized protein	H2O2	up	2.96	False
+A0A1D8PLB5	ERG251	A0A1D8PLB5_CANAL	Erg251p	H2O2	down	-2.86	False
+A0A1D8PHQ6	GRE2	A0A1D8PHQ6_CANAL	Gre2p	H2O2	up	2.8	False
+A0A1D8PMP0	OYE32	A0A1D8PMP0_CANAL	Oye32p	H2O2	up	2.68	False
+Q5AJA1	CAALFM_C301540WA	Q5AJA1_CANAL	HIG1 domain-containing protein	H2O2	down	-2.67	False
+Q59L72	PGA52	PGA52_CANAL	Probable circularly permuted 1,3-beta-glucanase PGA52	H2O2	down	-2.56	True
+A0A1D8PPI6	CIP1	A0A1D8PPI6_CANAL	Cip1p	H2O2	up	2.55	True
+Q5A894	OYE22	Q5A894_CANAL	Oye22p	H2O2	up	2.47	False
+A0A1D8PMC5	ARO9	A0A1D8PMC5_CANAL	Aromatic-amino-acid:2-oxoglutarate transaminase	H2O2	up	2.45	False
+A0A1D8PQE3	CAALFM_C604410CA	A0A1D8PQE3_CANAL	Enoyl reductase (ER) domain-containing protein	H2O2	up	2.31	False
+Q59X49	DDR48	DDR48_CANAL	Stress protein DDR48	H2O2	down	-2.3	True
+Q5ABU8	BMT6	BMT6_CANAL	Beta-mannosyltransferase 6	H2O2	down	-2.27	True
+A0A1D8PPM9	OYE23	A0A1D8PPM9_CANAL	Probable NADPH dehydrogenase	H2O2	up	2.22	False
+A0A1D8PS45	ADH5	A0A1D8PS45_CANAL	Adh5p	H2O2	down	-2.19	True
+Q59LL5	HIS3	Q59LL5_CANAL	Imidazoleglycerol-phosphate dehydratase	H2O2	up	2.13	False
+O13318	PHR2	PHR2_CANAL	pH-responsive protein 2	H2O2	down	-2.11	True
+Q5AKX2	OSM2	Q5AKX2_CANAL	Fumarate reductase	H2O2	down	-2.06	True
+A0A1D8PPM0	OYE2	A0A1D8PPM0_CANAL	Probable NADPH dehydrogenase	H2O2	up	1.95	True
+A0A1D8PQE6	CAALFM_C604420WA	A0A1D8PQE6_CANAL	CipC-like antibiotic response protein	H2O2	down	-1.92	True
+A0A1D8PIF6	MET10	A0A1D8PIF6_CANAL	assimilatory sulfite reductase (NADPH)	H2O2	down	-1.9	True
+A0A1D8PHL8	ECM17	A0A1D8PHL8_CANAL	Sulfite reductase [NADPH] subunit beta	H2O2	down	-1.89	True
+P40954	CHT3	CHI3_CANAL	Chitinase 3	H2O2	down	-1.87	False
+Q5AFN8	SSR1	CCW14_CANAL	Covalently-linked cell wall protein 14	H2O2	down	-1.85	True
+Q5A4H5	CRZ1	CRZ1_CANAL	Transcriptional regulator CRZ1	H2O2	down	-1.82	False
+Q5AJY5	PGA4	PGA4_CANAL	1,3-beta-glucanosyltransferase PGA4	H2O2	down	-1.79	True
+A0A1D8PPK1	EBP1	EBP1_CANAL	Probable NADPH dehydrogenase	H2O2	up	1.78	True
+Q9Y872	MET3	MET3_CANAL	Sulfate adenylyltransferase	H2O2	down	-1.7	True
+P83779	PDC11	PDC1_CANAL	Pyruvate decarboxylase	H2O2	down	-1.69	False
+Q59ST2	PTR22	Q59ST2_CANAL	Ptr22p	H2O2	down	-1.67	False
+P78599	SPE1	DCOR_CANAL	Ornithine decarboxylase	H2O2	down	-1.62	False
+A0A1D8PSY8	CRG1	A0A1D8PSY8_CANAL	Crg1p	H2O2	up	1.61	False
+Q59TU5	MRF1	Q59TU5_CANAL	enoyl-[acyl-carrier-protein] reductase	H2O2	up	1.6	True
+Q5A5A0	PRX1	Q5A5A0_CANAL	Thioredoxin peroxidase	H2O2	down	-1.58	True
+Q59WW7	GPX31	Q59WW7_CANAL	Glutathione peroxidase	H2O2	up	1.58	False
+Q5AC29	ISA1	Q5AC29_CANAL	Iron-sulfur assembly protein 1	H2O2	up	1.58	True
+Q59MA6	RHD1	BMT2_CANAL	Beta-mannosyltransferase 2	H2O2	down	-1.57	False
+A0A1D8PGS2	MET1	A0A1D8PGS2_CANAL	Uroporphyrinogen-III C-methyltransferase	H2O2	down	-1.57	False
+Q59RF7	CAALFM_C604650WA	PFF1_CANAL	Vacuolar membrane protease	H2O2	down	-1.56	True
+Q59NG2	RAD52	Q59NG2_CANAL	DNA repair and recombination protein RAD52	H2O2	up	1.55	False
+Q5ABB1	TTR1	Q5ABB1_CANAL	Dithiol glutaredoxin	H2O2	up	1.55	False
+Q9B8C9	NAD5	NU5M_CANAL	NADH-ubiquinone oxidoreductase chain 5	H2O2	down	-1.54	True
+G1UB11	ERG5	ERG5_CANAL	C-22 sterol desaturase ERG5	H2O2	down	-1.54	False
+Q5A925	CAALFM_C101210WA	Q5A925_CANAL	Uncharacterized protein	H2O2	up	1.54	False
+Q5AML6	CPA1	CARA_CANAL	Carbamoyl phosphate synthase arginine-specific small chain	H2O2	down	-1.54	False
+Q5AA33	PGA45	PGA45_CANAL	Predicted GPI-anchored protein 45	H2O2	up	1.52	True
+A0A1D8PQJ8	CAALFM_C700350CA	A0A1D8PQJ8_CANAL	Uncharacterized protein	H2O2	up	1.52	False
+A0A1D8PDC5	IFE1	A0A1D8PDC5_CANAL	Dehydrogenase	H2O2	down	-1.51	False
+A0A1D8PGR9	DLD1	A0A1D8PGR9_CANAL	D-lactate dehydrogenase (cytochrome)	H2O2	down	-1.49	False
+A0A1D8PP33	CAALFM_C504950CA	A0A1D8PP33_CANAL	PhoD-like phosphatase domain-containing protein	H2O2	up	1.49	True
+Q5A9Y7	CAALFM_C300940WA	Q5A9Y7_CANAL	Ubiquitin-protein ligase	H2O2	up	1.48	False
+Q59X23	PMT4	PMT4_CANAL	Dolichyl-phosphate-mannose--protein mannosyltransferase 4	H2O2	down	-1.47	False
+Q5A668	SCS7	Q5A668_CANAL	Ceramide very long chain fatty acid hydroxylase	H2O2	down	-1.46	True
+A0A1D8PCS2	CAALFM_C102410CA	A0A1D8PCS2_CANAL	TM115/pdh1/UBAC2 rhomboid-like domain-containing protein	H2O2	down	-1.44	False
+Q59NH8	CDC14	CDC14_CANAL	Tyrosine-protein phosphatase CDC14	H2O2	up	1.44	False
+Q5ABS1	QCR7	QCR7_CANAL	Cytochrome b-c1 complex subunit 7, mitochondrial	H2O2	down	-1.44	False
+A0A1D8PFV0	FTR1	A0A1D8PFV0_CANAL	High-affinity iron permease	H2O2	down	-1.43	False
+Q5AF03	GLX3	HSP31_CANAL	Glyoxalase 3	H2O2	up	1.41	True
+A0A1D8PP43	ADH1	A0A1D8PP43_CANAL	alcohol dehydrogenase	H2O2	down	-1.41	False
+Q59WT3	FAD2	Q59WT3_CANAL	Fad2p	H2O2	down	-1.39	False
+Q9B8D1	NAD3	NU3M_CANAL	NADH-ubiquinone oxidoreductase chain 3	H2O2	down	-1.38	False
+Q5A8A6	CPA2	Q5A8A6_CANAL	Carbamoyl phosphate synthase arginine-specific large chain	H2O2	down	-1.37	True
+O13289	CAT1	CATA_CANAL	Peroxisomal catalase	H2O2	up	1.36	False
+A0A1D8PM83	ARG8	A0A1D8PM83_CANAL	Acetylornithine aminotransferase, mitochondrial	H2O2	down	-1.35	True
+Q5AB84	CAALFM_C100160CA	Q5AB84_CANAL	RRM domain-containing protein	H2O2	up	1.34	True
+Q874I4	URA9	PYRD_CANAL	Dihydroorotate dehydrogenase (quinone), mitochondrial	H2O2	down	-1.33	False
+A0A1D8PG81	HGT7	A0A1D8PG81_CANAL	Hgt7p	H2O2	down	-1.33	False
+A0A1D8PJH2	CAALFM_C302620CA	A0A1D8PJH2_CANAL	Mitochondrial pyruvate carrier	H2O2	down	-1.32	False
+A0A1D8PCY4	ECM33	A0A1D8PCY4_CANAL	Ecm33p	H2O2	down	-1.32	False
+Q59Z38	ZTA1	Q59Z38_CANAL	Zeta-crystallin	H2O2	up	1.32	False
+A0A1D8PJF0	CAALFM_C302140CA	A0A1D8PJF0_CANAL	Mannan endo-1,6-alpha-mannosidase	H2O2	down	-1.3	True
+Q5ANE2	CAALFM_C304920CA	Q5ANE2_CANAL	Uncharacterized protein	H2O2	up	1.3	True
+Q59PA1	FRE10	Q59PA1_CANAL	Fre10p	H2O2	down	-1.3	False
+Q5AGW8	NUP	NUP_CANAL	Purine nucleoside permease	H2O2	down	-1.28	True
+Q5AG80	MSW1	Q5AG80_CANAL	Tryptophan--tRNA ligase, mitochondrial	H2O2	up	1.28	False
+A0A1D8PK00	CUP5	A0A1D8PK00_CANAL	V-type proton ATPase proteolipid subunit	H2O2	down	-1.28	False
+Q59QC6	CBP4	CBP4_CANAL	Assembly factor CBP4	H2O2	down	-1.28	False
+Q5A688	PMT6	PMT6_CANAL	Dolichyl-phosphate-mannose--protein mannosyltransferase 6	H2O2	down	-1.28	False
+Q59US5	MET15	Q59US5_CANAL	Homocysteine/cysteine synthase	H2O2	down	-1.27	True
+Q5A318	ECI1	Q5A318_CANAL	Dodecenoyl-CoA isomerase	H2O2	down	-1.27	True
+A0A1D8PF26	CAALFM_C110730WA	A0A1D8PF26_CANAL	Selenoprotein O	H2O2	up	1.27	False
+Q5ADQ9	BMT1	BMT1_CANAL	Beta-mannosyltransferase 1	H2O2	down	-1.26	True
+Q59T91	UBC8	Q59T91_CANAL	E2 ubiquitin-conjugating protein	H2O2	up	1.26	False
+A0A1D8PHP8	FRP3	A0A1D8PHP8_CANAL	Ammonium permease	H2O2	down	-1.26	True
+Q5A2J7	YVC1	YVC1_CANAL	Calcium channel YVC1	H2O2	down	-1.25	False
+Q59PA6	VAC7	Q59PA6_CANAL	Vac7p	H2O2	down	-1.25	False
+A0A1D8PU95	PRO1	A0A1D8PU95_CANAL	Glutamate 5-kinase	H2O2	down	-1.24	True
+A0A1D8PTW9	CAALFM_CR09100CA	A0A1D8PTW9_CANAL	Pyridoxine 4-dehydrogenase	H2O2	up	1.23	False
+Q5AJ71	NCE103	CAN_CANAL	Carbonic anhydrase	H2O2	up	1.22	False
+A0A1D8PIF8	LEU42	A0A1D8PIF8_CANAL	2-isopropylmalate synthase	H2O2	up	1.21	False
+Q5AMT2	BGL2	BGL2_CANAL	Glucan 1,3-beta-glucosidase BGL2	H2O2	down	-1.21	True
+A0A1D8PU03	WAL1	A0A1D8PU03_CANAL	Actin-binding protein	H2O2	up	1.21	False
+Q59QH4	KTR4	Q59QH4_CANAL	Mannosyltransferase	H2O2	down	-1.2	False
+A0A1D8PKD1	RCT1	A0A1D8PKD1_CANAL	Rct1p	H2O2	down	-1.2	False
+Q59WE0	CAALFM_C107390WA	Q59WE0_CANAL	UBX domain-containing protein	H2O2	up	1.2	False
+A0A1D8PE84	CDR4	A0A1D8PE84_CANAL	Cdr4p	H2O2	down	-1.2	False
+Q5AL63	MHF1	CENPS_CANAL	Inner kinetochore subunit MHF1	H2O2	up	1.2	False
+A0A1D8PE95	CAALFM_C107960WA	A0A1D8PE95_CANAL	Exosome complex protein	H2O2	up	1.19	False
+A0A1D8PT99	CAALFM_CR06680CA	A0A1D8PT99_CANAL	C2H2-type domain-containing protein	H2O2	up	1.19	False
+Q5AC33	CAALFM_C602480WA	Q5AC33_CANAL	NADP-dependent alcohol dehydrogenase	H2O2	up	1.19	True
+Q5A360	SIL1	SIL1_CANAL	Nucleotide exchange factor SIL1	H2O2	up	1.19	True
+Q5AG89	TRR1	Q5AG89_CANAL	Thioredoxin reductase	H2O2	up	1.19	True
+Q9P8E3	SEC61	SC61A_CANAL	Protein transport protein SEC61 subunit alpha	H2O2	down	-1.19	True
+Q59SU1	SAP9	CARP9_CANAL	Secreted aspartic protease 9	H2O2	down	-1.18	True
+A0A1D8PLQ3	CAALFM_C403050CA	A0A1D8PLQ3_CANAL	Gly-Xaa carboxypeptidase	H2O2	down	-1.18	False
+A0A1D8PD50	PDR16	A0A1D8PD50_CANAL	SEC14 homolog 3	H2O2	up	1.17	False
+Q5A500	MET14	Q5A500_CANAL	Adenylyl-sulfate kinase	H2O2	down	-1.17	False
+A0A1D8PG46	CAALFM_C200600CA	A0A1D8PG46_CANAL	Scaffold protein Nfu/NifU N-terminal domain-containing protein	H2O2	up	1.17	False
+A0A1D8PSD7	CAALFM_CR03260WA	A0A1D8PSD7_CANAL	DUF833-domain-containing protein	H2O2	up	1.16	False
+A0A1D8PSZ0	IFE2	A0A1D8PSZ0_CANAL	Ife2p	H2O2	up	1.16	True
+A0A1D8PGL8	ZRC1	A0A1D8PGL8_CANAL	Zn(2+) transporter	H2O2	down	-1.15	False
+A0A1D8PTY0	CAALFM_CR09240CA	A0A1D8PTY0_CANAL	Protein PBDC1 homolog	H2O2	up	1.15	False
+A0A1D8PPE8	COX15	A0A1D8PPE8_CANAL	Cox15p	H2O2	down	-1.15	False
+O74189	PMT1	PMT1_CANAL	Dolichyl-phosphate-mannose--protein mannosyltransferase 1	H2O2	down	-1.15	True
+Q5AD51	ERG28	ERG28_CANAL	Ergosterol biosynthetic protein 28	H2O2	down	-1.14	False
+A0A1D8PRJ0	CAALFM_C704090CA	A0A1D8PRJ0_CANAL	AB hydrolase-1 domain-containing protein	H2O2	up	1.14	False
+A0A1D8PDX1	CAALFM_C106640CA	A0A1D8PDX1_CANAL	Uncharacterized protein	H2O2	down	-1.13	False
+Q59PA0	COX11	Q59PA0_CANAL	Cox11p	H2O2	down	-1.13	False
+A0A1D8PDR9	CAALFM_C106390WA	A0A1D8PDR9_CANAL	Ubiquitin carboxyl-terminal hydrolase	H2O2	up	1.13	True
+A0A1D8PQW4	CAALFM_C701710WA	A0A1D8PQW4_CANAL	Vacuolar sorting protein Vps3844 C-terminal domain-containing protein	H2O2	down	-1.13	False
+A0A1D8PHJ3	COX8	A0A1D8PHJ3_CANAL	Cytochrome c oxidase subunit 8, mitochondrial	H2O2	down	-1.12	False
+Q5ABC5	PSD1	PSD1_CANAL	Phosphatidylserine decarboxylase proenzyme 1, mitochondrial	H2O2	down	-1.12	False
+A0A1D8PGG7	SRD1	A0A1D8PGG7_CANAL	Srd1p	H2O2	down	-1.11	False
+A0A1D8PIN1	CAALFM_C210170CA	A0A1D8PIN1_CANAL	Autophagy-related protein 33	H2O2	down	-1.1	False
+A0A1D8PJ25	ERG4	ERG4_CANAL	Delta(24(24(1)))-sterol reductase	H2O2	down	-1.1	True
+Q5A967	CRC1	Q5A967_CANAL	Mitochondrial thiamine pyrophosphate carrier 1	H2O2	down	-1.1	False
+A0A1D8PLW3	CAALFM_C403720CA	A0A1D8PLW3_CANAL	Fe2OG dioxygenase domain-containing protein	H2O2	down	-1.09	True
+A0A1D8PQ03	CAALFM_C602880WA	A0A1D8PQ03_CANAL	ribonuclease H	H2O2	up	1.09	False
+A0A1D8PT04	CAALFM_CR05480WA	A0A1D8PT04_CANAL	Mitochondrial thiamine pyrophosphate carrier 1	H2O2	down	-1.09	False
+Q5A2T7	MRS4	Q5A2T7_CANAL	Mitochondrial thiamine pyrophosphate carrier 1	H2O2	down	-1.09	False
+A0A1D8PRY9	CAALFM_CR01490CA	A0A1D8PRY9_CANAL	Protein transport protein Sec61 subunit beta	H2O2	down	-1.09	True
+A0A1D8PI17	RNR22	A0A1D8PI17_CANAL	Ribonucleoside-diphosphate reductase	H2O2	down	-1.08	False
+A0A1D8PMZ8	SPE2	A0A1D8PMZ8_CANAL	S-adenosylmethionine decarboxylase proenzyme	H2O2	down	-1.08	False
+Q5A879	LAG1	Q5A879_CANAL	Sphingosine N-acyltransferase	H2O2	down	-1.07	False
+Q59Z14	LIA1	DOHH_CANAL	Deoxyhypusine hydroxylase	H2O2	down	-1.07	False
+Q5A328	CAALFM_CR08610WA	Q5A328_CANAL	Mitochondrial pyruvate carrier	H2O2	down	-1.06	False
+Q5ALV9	COX13	Q5ALV9_CANAL	Cytochrome c oxidase subunit	H2O2	down	-1.06	False
+Q5A4L1	CAALFM_C601560WA	Q5A4L1_CANAL	Uncharacterized protein	H2O2	down	-1.05	False
+Q5A951	MDL1	Q5A951_CANAL	ATP-binding cassette permease	H2O2	down	-1.05	False
+Q59MV4	CAALFM_CR07830CA	Q59MV4_CANAL	Uncharacterized protein	H2O2	down	-1.05	False
+A0A1D8PPB2	NUO3	A0A1D8PPB2_CANAL	Uncharacterized protein	H2O2	down	-1.04	False
+Q59LU0	DBP2	DBP2_CANAL	ATP-dependent RNA helicase DBP2	H2O2	up	1.04	False
+A0A1D8PC56	CAALFM_C100210CA	A0A1D8PC56_CANAL	Glucose-signaling factor 2	H2O2	down	-1.04	True
+A0A1D8PJL8	PNP1	A0A1D8PJL8_CANAL	Purine nucleoside phosphorylase	H2O2	up	1.04	False
+Q5AK42	CAALFM_C504910WA	EFG1P_CANAL	rRNA-processing protein EFG1	H2O2	up	1.04	True
+Q5ALU8	STT3	Q5ALU8_CANAL	Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit STT3	H2O2	down	-1.03	False
+Q5ADM9	PMT2	PMT2_CANAL	Dolichyl-phosphate-mannose--protein mannosyltransferase 2	H2O2	down	-1.03	True
+A0A1D8PEI6	ARG5:6	A0A1D8PEI6_CANAL	Protein ARG5,6, mitochondrial	H2O2	down	-1.03	False
+Q5AA23	PRN4	Q5AA23_CANAL	Prn4p	H2O2	up	1.03	False
+A0A1D8PHH2	PNG2	A0A1D8PHH2_CANAL	Png2p	H2O2	down	-1.03	True
+Q5A762	MLT1	MLT1_CANAL	Multiple drug resistance-associated protein-like transporter 1	H2O2	down	-1.02	False
+A0A1D8PI22	AIF1	AIF1_CANAL	Apoptosis-inducing factor 1	H2O2	down	-1.01	True
+A0A1D8PSW6	CAALFM_CR04870CA	A0A1D8PSW6_CANAL	Aldehyde dehydrogenase domain-containing protein	H2O2	up	1.01	True
+A0A1D8PK87	OST1	A0A1D8PK87_CANAL	Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 1	H2O2	down	-1.01	False
+Q59SS9	CAALFM_C303770CA	Q59SS9_CANAL	Uncharacterized protein	H2O2	up	1.01	False
+Q59NQ5	GLR1	Q59NQ5_CANAL	Glutathione reductase	H2O2	up	1.0	True
+Q5AEC9	NDE1	Q5AEC9_CANAL	NADH:ubiquinone reductase (non-electrogenic)	H2O2	down	-1.0	False
+P46614	CDC19	KPYK_CANAL	Pyruvate kinase	H2O2	down	-1.0	False
+A0A1D8PH63	GDT1	A0A1D8PH63_CANAL	GDT1 family protein	H2O2	down	-1.0	False
+A0A1D8PUA3	CAALFM_CR10800CA	A0A1D8PUA3_CANAL	Uncharacterized protein	H2O2	down	-1.0	False
+Q5ABA8	CAALFM_C100460WA	Q5ABA8_CANAL	Protein MGR2	H2O2	down	-1.0	False
+Q9B8D8	COX2	COX2_CANAL	Cytochrome c oxidase subunit 2	H2O2	down	-0.99	False
+Q5AJG7	CAALFM_C302190CA	Q5AJG7_CANAL	NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit	H2O2	down	-0.98	False
+A0A1D8PRR5	ARG1	A0A1D8PRR5_CANAL	Argininosuccinate synthase	H2O2	down	-0.98	True
+A0A1D8PNS7	CAC2	A0A1D8PNS7_CANAL	Cac2p	H2O2	up	0.98	False
+A0A1D8PN50	CAALFM_C501310WA	A0A1D8PN50_CANAL	U1 small nuclear ribonucleoprotein component SNU71	H2O2	up	0.97	False
+A0A1D8PHY0	CAALFM_C207550WA	A0A1D8PHY0_CANAL	Uncharacterized protein	H2O2	down	-0.97	False
+A0A1D8PC84	CIS2	A0A1D8PC84_CANAL	Glutathione hydrolase	H2O2	up	0.96	False
+A0A1D8PTX6	CAALFM_CR09110CA	A0A1D8PTX6_CANAL	NADH-cytochrome b5 reductase	H2O2	down	-0.96	False
+A0A1D8PCG4	CAALFM_C101360CA	A0A1D8PCG4_CANAL	Glycogenin glucosyltransferase	H2O2	down	-0.96	False
+Q59WC0	CCS1	Q59WC0_CANAL	Superoxide dismutase 1 copper chaperone	H2O2	up	0.96	True
+A0A1D8PT83	CAALFM_CR06510WA	A0A1D8PT83_CANAL	Septicolysin	H2O2	up	0.96	False
+A0A1D8PM19	CAALFM_C404240CA	A0A1D8PM19_CANAL	Uncharacterized protein	H2O2	down	-0.96	True
+Q5AK00	CAALFM_C505270CA	Q5AK00_CANAL	Acinus RNA recognition motif domain-containing protein	H2O2	up	0.95	True
+Q5ACU9	NDT80	NDT80_CANAL	Transcription factor NDT80	H2O2	up	0.95	False
+Q59RB3	ELC1	Q59RB3_CANAL	Elongin-C	H2O2	up	0.95	False
+A0A1D8PHI5	COX9	A0A1D8PHI5_CANAL	Cytochrome c oxidase subunit 9, mitochondrial	H2O2	down	-0.95	False
+Q59XV0	SET2	SET2_CANAL	Histone-lysine N-methyltransferase, H3 lysine-36 specific	H2O2	up	0.94	False
+A0A1D8PPK2	CAALFM_C601210WA	A0A1D8PPK2_CANAL	Uncharacterized protein	H2O2	down	-0.94	False
+A0A1D8PFV4	NPL3	A0A1D8PFV4_CANAL	mRNA-binding protein	H2O2	up	0.94	False
+Q5AGX4	CAALFM_C701600WA	Q5AGX4_CANAL	Membrane insertase	H2O2	down	-0.93	False
+Q5A782	FUN12	Q5A782_CANAL	Eukaryotic translation initiation factor 5B	H2O2	up	0.93	False
+Q5ADM7	TDH3	Q5ADM7_CANAL	Glyceraldehyde-3-phosphate dehydrogenase	H2O2	down	-0.93	False
+Q59R99	VPH1	Q59R99_CANAL	V-type proton ATPase subunit a	H2O2	down	-0.92	False
+A0A1D8PEV5	SAC1	A0A1D8PEV5_CANAL	Phosphatidylinositol-3-phosphatase	H2O2	down	-0.92	False
+Q59QH2	CSH1	Q59QH2_CANAL	Csh1p	H2O2	down	-0.92	True
+A0A1D8PSE7	IFR2	A0A1D8PSE7_CANAL	Ifr2p	H2O2	up	0.91	True
+A0A1D8PQ95	SNQ2	A0A1D8PQ95_CANAL	ATP-binding cassette transporter	H2O2	up	0.91	False
+A0A1D8PPF1	CAALFM_C600680CA	A0A1D8PPF1_CANAL	Uncharacterized protein	H2O2	up	0.9	False
+A0A1D8PJM6	NSG2	A0A1D8PJM6_CANAL	Uncharacterized protein	H2O2	up	0.9	False
+A0A1D8PHJ4	CAALFM_C205980CA	A0A1D8PHJ4_CANAL	Uncharacterized protein	H2O2	up	0.9	False
+A0A1D8PLD8	TAP42	A0A1D8PLD8_CANAL	Type 2A phosphatase-associated protein 42	H2O2	up	0.9	False
+Q59TA9	CAALFM_C102030CA	Q59TA9_CANAL	Cytochrome b5 heme-binding domain-containing protein	H2O2	up	0.89	False
+A0A1D8PI71	ERG9	ERG9_CANAL	Squalene synthase ERG9	H2O2	down	-0.89	False
+Q59W44	TIM50	TIM50_CANAL	Mitochondrial import inner membrane translocase subunit TIM50	H2O2	down	-0.89	False
+Q5AAS4	NOP6	Q5AAS4_CANAL	Nop6p	H2O2	up	0.89	False
+A0A1D8PNJ4	CAALFM_C502830WA	A0A1D8PNJ4_CANAL	Vacuolar protein-sorting-associated protein 46	H2O2	up	0.89	False
+Q5AL11	AGC1	Q5AL11_CANAL	Mitochondrial aspartate-glutamate transporter AGC1	H2O2	down	-0.89	False
+A0A1D8PIF0	CAALFM_C209650WA	A0A1D8PIF0_CANAL	RRM domain-containing protein	H2O2	up	0.88	False
+Q5AH38	ECM42	ARGJ_CANAL	Arginine biosynthesis bifunctional protein ArgJ, mitochondrial	H2O2	down	-0.88	True
+Q59NP5	SUN41	SUN41_CANAL	Secreted beta-glucosidase SUN41	H2O2	down	-0.88	False
+Q59T92	CAALFM_C101840CA	Q59T92_CANAL	Rho GDP-dissociation inhibitor	H2O2	down	-0.87	False
+P46273	PGK1	PGK_CANAL	Phosphoglycerate kinase	H2O2	down	-0.87	False
+A0A1D8PPT5	RPL23A	RL23A_CANAL	Large ribosomal subunit protein uL14	H2O2	down	-0.87	True
+Q5A5P7	CAALFM_C210720CA	NIPA2_CANAL	Probable magnesium transporter	H2O2	down	-0.87	True
+A0A1D8PI00	GDH2	A0A1D8PI00_CANAL	NAD-specific glutamate dehydrogenase	H2O2	up	0.86	True
+A0A1D8PKA6	CAALFM_C305550CA	A0A1D8PKA6_CANAL	Peptidyl-prolyl cis-trans isomerase	H2O2	down	-0.86	False
+Q59WW3	PEX7	Q59WW3_CANAL	Peroxisomal targeting signal 2 receptor	H2O2	up	0.86	False
+Q59TV7	CAALFM_C111790WA	Q59TV7_CANAL	Thymidylate kinase	H2O2	up	0.86	False
+A0A1D8PL78	CRD2	A0A1D8PL78_CANAL	Crd2p	H2O2	up	0.85	True
+A0A1D8PKB6	KRE6	A0A1D8PKB6_CANAL	Beta-glucan synthesis-associated protein	H2O2	down	-0.85	True
+A0A1D8PRR2	BUD22	A0A1D8PRR2_CANAL	Bud22p	H2O2	up	0.85	True
+Q5A477	VRG4	GMT_CANAL	GDP-mannose transporter	H2O2	down	-0.85	False
+Q5APC0	TVP18	TVP18_CANAL	Golgi apparatus membrane protein TVP18	H2O2	down	-0.85	False
+A0A1D8PDL0	SSH1	A0A1D8PDL0_CANAL	Ssh1p	H2O2	down	-0.84	False
+Q5AI97	MGM101	MG101_CANAL	Mitochondrial genome maintenance protein MGM101	H2O2	up	0.84	True
+A0A1D8PKJ4	LYS9	A0A1D8PKJ4_CANAL	Saccharopine dehydrogenase [NADP(+), L-glutamate-forming]	H2O2	down	-0.84	True
+Q5A2T2	KRE30	Q5A2T2_CANAL	ATP-binding cassette family ATPase	H2O2	down	-0.84	True
+Q5A0Z0	MET16	Q5A0Z0_CANAL	phosphoadenylyl-sulfate reductase (thioredoxin)	H2O2	down	-0.83	True
+Q59M30	ATP20	Q59M30_CANAL	F1F0 ATP synthase subunit g	H2O2	down	-0.82	False
+Q59VG6	ERG3	ERG3_CANAL	Delta(7)-sterol 5(6)-desaturase ERG3	H2O2	down	-0.82	False
+P83780	PGI1	G6PI_CANAL	Glucose-6-phosphate isomerase	H2O2	down	-0.82	False
+Q5A044	MIC60	MIC60_CANAL	MICOS complex subunit MIC60	H2O2	down	-0.81	False
+A0A1D8PRH8	MED9	A0A1D8PRH8_CANAL	Mediator of RNA polymerase II transcription subunit 9	H2O2	up	0.81	False
+A0A1D8PMP1	GUT2	A0A1D8PMP1_CANAL	Glycerol-3-phosphate dehydrogenase	H2O2	down	-0.81	False
+Q59S45	CAALFM_C701270CA	CMR1_CANAL	DNA damage-binding protein CMR1	H2O2	up	0.81	False
+A0A1D8PSD6	ERV1	A0A1D8PSD6_CANAL	Sulfhydryl oxidase	H2O2	up	0.8	True
+Q5AEM8	PAM17	PAM17_CANAL	Presequence translocated-associated motor subunit PAM17, mitochondrial	H2O2	down	-0.8	False
+P48990	TIM54	TIM54_CANAL	Mitochondrial import inner membrane translocase subunit TIM54	H2O2	down	-0.8	False
+Q04802	NAG1	NAG1_CANAL	Glucosamine-6-phosphate isomerase	H2O2	up	0.8	True
+A0A1D8PCX0	TCB3	A0A1D8PCX0_CANAL	Uncharacterized protein	H2O2	down	-0.79	False
+A0A1D8PHB8	LEM3	A0A1D8PHB8_CANAL	Lem3p	H2O2	down	-0.79	False
+A0A1D8PS79	IDP2	A0A1D8PS79_CANAL	Isocitrate dehydrogenase [NADP]	H2O2	up	0.78	True
+Q59VR1	SKO1	SKO1_CANAL	Transcriptional regulator SKO1	H2O2	down	-0.78	False
+Q5A0H3	SER2	Q5A0H3_CANAL	phosphoserine phosphatase	H2O2	down	-0.78	True
+A0A1D8PIJ4	CAALFM_C209710CA	A0A1D8PIJ4_CANAL	VHS domain-containing protein	H2O2	up	0.77	False
+A0A1D8PH08	COX6	A0A1D8PH08_CANAL	Cytochrome c oxidase subunit 6, mitochondrial	H2O2	down	-0.77	False
+Q59WW8	GPX2	Q59WW8_CANAL	Glutathione peroxidase	H2O2	up	0.77	False
+A0A1D8PN05	CAALFM_C500790CA	A0A1D8PN05_CANAL	Nrd1 complex RNA-binding subunit	H2O2	up	0.77	False
+A0A1D8PFP3	KEM1	A0A1D8PFP3_CANAL	5'-3' exoribonuclease 1	H2O2	up	0.77	True
+A0A1D8PNY3	CAALFM_C504410CA	A0A1D8PNY3_CANAL	pH-response transcription factor pacC/RIM101	H2O2	down	-0.77	True
+A0A1D8PMQ0	SEM1	A0A1D8PMQ0_CANAL	26S proteasome complex subunit SEM1	H2O2	up	0.77	True
+A0A1D8PP19	CAALFM_C504720CA	A0A1D8PP19_CANAL	GTP cyclohydrolase 1 (Fragment)	H2O2	up	0.77	False
+O94030	MIA40	MIA40_CANAL	Mitochondrial intermembrane space import and assembly protein 40	H2O2	up	0.76	True
+Q59WC6	YPD1	YPD1_CANAL	Phosphorelay intermediate protein YPD1	H2O2	up	0.75	True
+A0A1D8PGA3	COX17	A0A1D8PGA3_CANAL	Copper metallochaperone	H2O2	up	0.75	True
+Q5ANI3	CAALFM_C304620CA	Q5ANI3_CANAL	Uncharacterized protein	H2O2	down	-0.75	False
+A0A1D8PD39	HMG1	HMDH_CANAL	3-hydroxy-3-methylglutaryl-coenzyme A reductase 1	H2O2	down	-0.75	True
+P30575	ENO1	ENO1_CANAL	Enolase 1	H2O2	down	-0.75	False
+Q5ACZ2	DFG5	DFG5_CANAL	Mannan endo-1,6-alpha-mannosidase DFG5	H2O2	down	-0.74	True
+A0A1D8PSF1	CAALFM_CR03330WA	A0A1D8PSF1_CANAL	TRIP4/RQT4 C2HC5-type zinc finger domain-containing protein	H2O2	up	0.74	True
+Q5A7K1	CAALFM_C300100WA	Q5A7K1_CANAL	Splicing factor YJU2	H2O2	up	0.73	False
+Q59V92	SIS1	Q59V92_CANAL	Type II HSP40 co-chaperone	H2O2	up	0.73	False
+Q59K86	BNA1	3HAO_CANAL	3-hydroxyanthranilate 3,4-dioxygenase	H2O2	down	-0.72	True
+A0A1D8PGI9	CAALFM_C202020WA	A0A1D8PGI9_CANAL	Ubiquitin carboxyl-terminal hydrolase	H2O2	up	0.72	False
+A0A1D8PDT3	RPS14B	RS14B_CANAL	Small ribosomal subunit protein uS11	H2O2	down	-0.71	True
+Q9URB4	FBA1	ALF_CANAL	Fructose-bisphosphate aldolase	H2O2	down	-0.71	False
+A0A1D8PE67	ADE5:7	A0A1D8PE67_CANAL	Bifunctional aminoimidazole ribotide synthase/glycinamide ribotide synthase	H2O2	down	-0.71	True
+A0A1D8PPR5	HCH1	A0A1D8PPR5_CANAL	Hch1p	H2O2	up	0.7	False
+A0A1D8PJE6	PSP2	A0A1D8PJE6_CANAL	RRM domain-containing protein	H2O2	up	0.7	False
+A0A1D8PG18	HMA1	A0A1D8PG18_CANAL	tRNA threonylcarbamoyladenosine dehydratase	H2O2	down	-0.69	False
+Q9UVL1	NHP6	NHP6_CANAL	Non-histone chromosomal protein 6	H2O2	down	-0.69	True
+A0A1D8PR52	CAALFM_C702460CA	A0A1D8PR52_CANAL	GPN-loop GTPase	H2O2	up	0.69	True
+Q5A649	ATG1	ATG1_CANAL	Serine/threonine-protein kinase ATG1	H2O2	up	0.69	False
+Q5AFP3	MCM1	MCM1_CANAL	Transcription factor of morphogenesis MCM1	H2O2	down	-0.69	True
+Q5ADN0	ISA2	Q5ADN0_CANAL	Isa2p	H2O2	up	0.69	True
+Q59T93	CAALFM_C101850CA	Q59T93_CANAL	RRM domain-containing protein	H2O2	up	0.68	False
+Q5A644	LYS4	LYS4_CANAL	Homoaconitase, mitochondrial	H2O2	down	-0.68	True
+A0A1D8PJV4	CTP1	A0A1D8PJV4_CANAL	Mitochondrial thiamine pyrophosphate carrier 1	H2O2	down	-0.68	False
+A0A1D8PT84	CAALFM_CR06530WA	A0A1D8PT84_CANAL	Programmed cell death protein 5	H2O2	up	0.67	True
+A0A1D8PKR8	CAALFM_C307380WA	A0A1D8PKR8_CANAL	RING-type domain-containing protein	H2O2	up	0.67	False
+A0A1D8PTW6	ERG13	ERG13_CANAL	Hydroxymethylglutaryl-CoA synthase	H2O2	down	-0.66	True
+Q59KZ3	URA6	Q59KZ3_CANAL	Uridylate kinase	H2O2	down	-0.66	False
+A0A1D8PN90	STI1	A0A1D8PN90_CANAL	Heat shock protein STI1	H2O2	up	0.65	True
+Q5ACI8	CPR6	PPID_CANAL	Peptidyl-prolyl cis-trans isomerase D	H2O2	up	0.65	True
+A0A1D8PSS4	PRE6	A0A1D8PSS4_CANAL	Proteasome subunit alpha type	H2O2	up	0.65	True
+Q5AJZ5	PRE1	Q5AJZ5_CANAL	Proteasome subunit beta	H2O2	up	0.64	True
+Q8X1E6	CDC37	CDC37_CANAL	Hsp90 co-chaperone Cdc37	H2O2	up	0.64	True
+A0A1D8PPX7	NAB3	A0A1D8PPX7_CANAL	Nab3p	H2O2	up	0.63	True
+A0A1D8PRH6	PRE5	A0A1D8PRH6_CANAL	Proteasome subunit alpha type	H2O2	up	0.63	True
+Q5AMQ3	RGA2	Q5AMQ3_CANAL	Rga2p	H2O2	up	0.63	False
+A0A1D8PDK7	CAALFM_C105660CA	A0A1D8PDK7_CANAL	Uncharacterized protein	H2O2	down	-0.62	False
+A0A1D8PR42	YCF1	A0A1D8PR42_CANAL	ATP-binding cassette glutathione S-conjugate transporter	H2O2	down	-0.62	False
+A0A1D8PNB3	CAALFM_C501960CA	A0A1D8PNB3_CANAL	Electron transfer flavoprotein-ubiquinone oxidoreductase	H2O2	down	-0.62	False
+A0A1D8PTY6	PRE8	A0A1D8PTY6_CANAL	Proteasome subunit alpha type	H2O2	up	0.61	True
+A0A1D8PDU9	GLT1	A0A1D8PDU9_CANAL	Glutamate synthase [NADH]	H2O2	down	-0.6	False
+A0A1D8PJ20	SCL1	A0A1D8PJ20_CANAL	Proteasome subunit alpha type	H2O2	up	0.56	False
+A0A1D8PQD6	NOP8	A0A1D8PQD6_CANAL	Nop8p	H2O2	up	0.54	False
+A0A1D8PQE6	CAALFM_C604420WA	A0A1D8PQE6_CANAL	CipC-like antibiotic response protein	acetic acid	down	-5.65	True
+Q9Y872	MET3	MET3_CANAL	Sulfate adenylyltransferase	acetic acid	down	-4.92	True
+O94069	HEM1	HEM1_CANAL	5-aminolevulinate synthase, mitochondrial	acetic acid	down	-4.62	False
+Q59X49	DDR48	DDR48_CANAL	Stress protein DDR48	acetic acid	down	-4.3	True
+A0A1D8PRE9	HIS7	A0A1D8PRE9_CANAL	Imidazole glycerol phosphate synthase hisHF	acetic acid	down	-4.3	False
+Q5A5A0	PRX1	Q5A5A0_CANAL	Thioredoxin peroxidase	acetic acid	down	-4.05	True
+A0A1D8PJF9	ILV2	A0A1D8PJF9_CANAL	Acetolactate synthase	acetic acid	down	-3.94	False
+A0A1D8PT27	ACO2	A0A1D8PT27_CANAL	Aconitate hydratase, mitochondrial	acetic acid	down	-3.57	False
+Q5ABC3	TUF1	Q5ABC3_CANAL	Elongation factor Tu	acetic acid	down	-3.52	False
+P43065	LYS1	LYS1_CANAL	Saccharopine dehydrogenase [NAD(+), L-lysine-forming]	acetic acid	down	-3.5	False
+Q5A8I8	IHD1	IHD1_CANAL	Induced during hyphae development protein 1	acetic acid	up	3.41	False
+A0A1D8PIB7	CAALFM_C208620WA	A0A1D8PIB7_CANAL	MINDY deubiquitinase domain-containing protein	acetic acid	down	-3.29	False
+A0A1D8PIF6	MET10	A0A1D8PIF6_CANAL	assimilatory sulfite reductase (NADPH)	acetic acid	down	-3.24	True
+A0A1D8PPI6	CIP1	A0A1D8PPI6_CANAL	Cip1p	acetic acid	down	-3.05	True
+Q5AL45	MEF1	EFGM_CANAL	Elongation factor G, mitochondrial	acetic acid	down	-3.05	False
+Q5A0Z0	MET16	Q5A0Z0_CANAL	phosphoadenylyl-sulfate reductase (thioredoxin)	acetic acid	down	-3.04	True
+A0A1D8PL78	CRD2	A0A1D8PL78_CANAL	Crd2p	acetic acid	up	2.99	True
+A0A1D8PHL8	ECM17	A0A1D8PHL8_CANAL	Sulfite reductase [NADPH] subunit beta	acetic acid	down	-2.92	True
+A0A1D8PM83	ARG8	A0A1D8PM83_CANAL	Acetylornithine aminotransferase, mitochondrial	acetic acid	down	-2.86	True
+Q5A9D9	LYS12	Q5A9D9_CANAL	homoisocitrate dehydrogenase	acetic acid	down	-2.84	False
+A0A1D8PL68	RPL40B	RL40B_CANAL	Large ribosomal subunit protein eL40	acetic acid	up	2.78	False
+Q5ANH5	RPP2B	Q5ANH5_CANAL	Ribosomal protein P2B	acetic acid	up	2.77	False
+P0C075	ATG8	ATG8_CANAL	Autophagy-related protein 8	acetic acid	down	-2.76	False
+O13426	SHM2	GLYC_CANAL	Serine hydroxymethyltransferase, cytosolic	acetic acid	down	-2.73	False
+A0A1D8PLC3	CAALFM_C401730CA	A0A1D8PLC3_CANAL	Tubulin tyrosine ligase	acetic acid	down	-2.71	False
+A0A1D8PHV8	RPA12	A0A1D8PHV8_CANAL	DNA-directed RNA polymerase subunit	acetic acid	up	2.68	False
+Q5A8A6	CPA2	Q5A8A6_CANAL	Carbamoyl phosphate synthase arginine-specific large chain	acetic acid	down	-2.66	True
+A0A1D8PRL6	POT1	A0A1D8PRL6_CANAL	Acetyl-CoA C-acetyltransferase	acetic acid	down	-2.62	False
+Q5ABU0	ARG3	Q5ABU0_CANAL	ornithine carbamoyltransferase	acetic acid	down	-2.59	False
+A0A1D8PT84	CAALFM_CR06530WA	A0A1D8PT84_CANAL	Programmed cell death protein 5	acetic acid	up	2.54	True
+A0A1D8PCY5	CDC12	A0A1D8PCY5_CANAL	Septin	acetic acid	down	-2.53	False
+A0A1D8PN69	PRC2	A0A1D8PN69_CANAL	Carboxypeptidase	acetic acid	down	-2.53	False
+A0A1D8PFX6	DDI1	A0A1D8PFX6_CANAL	Pepsin A	acetic acid	down	-2.52	False
+Q5AKW8	CAALFM_C113720WA	Q5AKW8_CANAL	DUF4110 domain-containing protein	acetic acid	down	-2.51	False
+Q5A6N1	PIM1	LONM_CANAL	Lon protease homolog, mitochondrial	acetic acid	down	-2.5	False
+A0A1D8PCP8	CAALFM_C102290CA	A0A1D8PCP8_CANAL	ATP synthase complex assembly protein	acetic acid	down	-2.48	False
+Q5AF71	CAALFM_C402620CA	Q5AF71_CANAL	Phosphotransferase	acetic acid	down	-2.43	False
+A0A1D8PLB7	ILV6	A0A1D8PLB7_CANAL	Acetolactate synthase regulatory subunit	acetic acid	down	-2.4	False
+Q59TM0	OSH3	Q59TM0_CANAL	Oxysterol-binding protein related protein	acetic acid	down	-2.39	False
+Q5A948	MET2	Q5A948_CANAL	Homoserine O-acetyltransferase	acetic acid	down	-2.35	False
+Q5AK88	CAALFM_C504470CA	Q5AK88_CANAL	RRM domain-containing protein	acetic acid	down	-2.33	False
+A0A1D8PJF0	CAALFM_C302140CA	A0A1D8PJF0_CANAL	Mannan endo-1,6-alpha-mannosidase	acetic acid	down	-2.32	True
+Q92207	HOG1	HOG1_CANAL	Mitogen-activated protein kinase HOG1	acetic acid	down	-2.29	False
+Q5A0L4	PLC2	Q5A0L4_CANAL	Plc2p	acetic acid	down	-2.28	False
+Q5ABB4	CAALFM_C100520WA	Q5ABB4_CANAL	Phosphoglycerate mutase	acetic acid	down	-2.25	False
+A0A1D8PHH2	PNG2	A0A1D8PHH2_CANAL	Png2p	acetic acid	down	-2.25	True
+A0A1D8PP04	CAALFM_C504640CA	A0A1D8PP04_CANAL	Bromo domain-containing protein	acetic acid	down	-2.25	False
+Q59LQ4	CKS1	Q59LQ4_CANAL	Cyclin-dependent kinases regulatory subunit	acetic acid	down	-2.22	False
+A0A1D8PP00	CAR1	A0A1D8PP00_CANAL	Arginase	acetic acid	up	2.2	False
+A0A1D8PQN3	ACB1	A0A1D8PQN3_CANAL	Long-chain fatty acid transporter	acetic acid	up	2.2	False
+A0A1D8PTV7	CAALFM_CR09010CA	A0A1D8PTV7_CANAL	Cystathionine beta-lyase	acetic acid	down	-2.19	False
+A0A1D8PD47	STR2	A0A1D8PD47_CANAL	cystathionine gamma-synthase	acetic acid	down	-2.19	False
+P53704	GFA1	GFA1_CANAL	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]	acetic acid	down	-2.18	False
+A0A1D8PG16	RPL38	RL38_CANAL	Large ribosomal subunit protein eL38	acetic acid	up	2.16	False
+Q5AGY6	CAALFM_C701720WA	Q5AGY6_CANAL	Sulfhydryl oxidase	acetic acid	up	2.14	False
+Q5AC33	CAALFM_C602480WA	Q5AC33_CANAL	NADP-dependent alcohol dehydrogenase	acetic acid	down	-2.14	True
+A0A1D8PDT0	ACP1	A0A1D8PDT0_CANAL	Acyl carrier protein	acetic acid	up	2.13	False
+P43063	CDC28	CDK1_CANAL	Cyclin-dependent kinase 1	acetic acid	down	-2.12	False
+Q5ADR1	MET8	Q5ADR1_CANAL	precorrin-2 dehydrogenase	acetic acid	down	-2.1	False
+P40953	CHT2	CHI2_CANAL	Chitinase 2	acetic acid	up	2.06	False
+Q5AC29	ISA1	Q5AC29_CANAL	Iron-sulfur assembly protein 1	acetic acid	up	2.06	True
+Q5ADR2	PRO2	Q5ADR2_CANAL	glutamate-5-semialdehyde dehydrogenase	acetic acid	down	-2.06	False
+A0A1D8PMH6	TRP5	A0A1D8PMH6_CANAL	Tryptophan synthase	acetic acid	down	-2.05	False
+A0A1D8PIZ2	CAALFM_C300620CA	A0A1D8PIZ2_CANAL	Mitochondrial protein PET191	acetic acid	up	2.05	False
+A0A1D8PEN6	PTC1	A0A1D8PEN6_CANAL	protein-serine/threonine phosphatase	acetic acid	down	-2.05	False
+A0A1D8PSB9	SRP40	A0A1D8PSB9_CANAL	Srp40p	acetic acid	up	2.03	False
+A0A1D8PJT8	QCR6	QCR6_CANAL	Cytochrome b-c1 complex subunit 6, mitochondrial	acetic acid	up	2.03	False
+A0A1D8PIM4	CAALFM_C210050WA	A0A1D8PIM4_CANAL	Ubiquitin carboxyl-terminal hydrolase	acetic acid	down	-2.01	False
+G1UB61	CDC11	CDC11_CANAL	Septin CDC11	acetic acid	down	-2.01	False
+Q59P03	CBR1	NCB5R_CANAL	NADH-cytochrome b5 reductase 1	acetic acid	down	-1.99	False
+Q5AKX8	CYB2	Q5AKX8_CANAL	L-lactate dehydrogenase (cytochrome)	acetic acid	down	-1.99	False
+A0A1D8PG94	CAALFM_C201030WA	A0A1D8PG94_CANAL	Mitochondrial 54S ribosomal protein YmL47	acetic acid	up	1.98	False
+A0A1D8PQI8	CAALFM_C700240WA	A0A1D8PQI8_CANAL	Transcriptional regulator	acetic acid	down	-1.98	False
+Q5A5U4	RHD3	RHD3_CANAL	Cell wall protein RHD3	acetic acid	up	1.97	False
+A0A1D8PHU2	CAALFM_C207220WA	A0A1D8PHU2_CANAL	Proteasome assembly chaperone 2	acetic acid	down	-1.96	False
+Q59YD9	CFD1	CFD1_CANAL	Cytosolic Fe-S cluster assembly factor CFD1	acetic acid	down	-1.95	False
+A0A1D8PRR5	ARG1	A0A1D8PRR5_CANAL	Argininosuccinate synthase	acetic acid	down	-1.95	True
+Q59MT3	CAALFM_CR06770CA	Q59MT3_CANAL	N-acetyltransferase domain-containing protein	acetic acid	down	-1.95	False
+O94030	MIA40	MIA40_CANAL	Mitochondrial intermembrane space import and assembly protein 40	acetic acid	up	1.95	True
+A0A1D8PTP9	HSP104	A0A1D8PTP9_CANAL	Chaperone ATPase	acetic acid	down	-1.95	False
+A0A1D8PTR7	TPM2	A0A1D8PTR7_CANAL	Tropomyosin	acetic acid	up	1.95	False
+A0A1D8PPT5	RPL23A	RL23A_CANAL	Large ribosomal subunit protein uL14	acetic acid	up	1.95	True
+Q5A5B0	ENA21	Q5A5B0_CANAL	P-type Na(+) transporter	acetic acid	down	-1.94	False
+Q5AJ90	FOX3	Q5AJ90_CANAL	Acetyl-CoA C-acetyltransferase	acetic acid	down	-1.94	False
+A0A1D8PMU5	CAALFM_C500130CA	A0A1D8PMU5_CANAL	Large ribosomal subunit protein uL14m	acetic acid	up	1.93	False
+A0A1D8PMH9	CWH41	A0A1D8PMH9_CANAL	Mannosyl-oligosaccharide glucosidase	acetic acid	down	-1.92	False
+A0A1D8PU09	CAALFM_CR09580CA	A0A1D8PU09_CANAL	Uncharacterized protein	acetic acid	down	-1.91	False
+A0A1D8PEW7	CAALFM_C110500WA	A0A1D8PEW7_CANAL	DOPA-dioxygenase	acetic acid	up	1.91	False
+Q5A6P2	NAT10	Q5A6P2_CANAL	RNA cytidine acetyltransferase	acetic acid	down	-1.91	False
+Q59Z57	PRB1	Q59Z57_CANAL	Subtilisin-like protease	acetic acid	down	-1.9	False
+A0A1D8PD83	CDC3	A0A1D8PD83_CANAL	Septin	acetic acid	down	-1.89	False
+Q5A1D5	CDC68	SPT16_CANAL	FACT complex subunit SPT16	acetic acid	down	-1.89	False
+Q59WB7	RIA1	Q59WB7_CANAL	Ribosome assembly protein 1	acetic acid	down	-1.88	False
+A0A1D8PNV1	RFC3	A0A1D8PNV1_CANAL	Replication factor C subunit 3	acetic acid	down	-1.87	False
+A0A1D8PKD5	ELP3	A0A1D8PKD5_CANAL	Elongator complex protein 3	acetic acid	down	-1.87	False
+A0A1D8PU95	PRO1	A0A1D8PU95_CANAL	Glutamate 5-kinase	acetic acid	down	-1.87	True
+A0A1D8PCD7	CAALFM_C100980WA	A0A1D8PCD7_CANAL	50S ribosomal protein L35	acetic acid	up	1.86	False
+A0A1D8PFD3	SNT1	A0A1D8PFD3_CANAL	Snt1p	acetic acid	down	-1.86	False
+A0A1D8PFU8	CAALFM_C114090WA	A0A1D8PFU8_CANAL	10 kDa heat shock protein, mitochondrial	acetic acid	up	1.86	False
+A0A1D8PEJ4	CAALFM_C109280WA	A0A1D8PEJ4_CANAL	J domain-containing protein	acetic acid	down	-1.85	False
+A0A1D8PRP9	MRPL6	A0A1D8PRP9_CANAL	Mitochondrial 54S ribosomal protein YmL16	acetic acid	up	1.84	False
+A0A1D8PJN7	CAALFM_C303200CA	A0A1D8PJN7_CANAL	Glutaredoxin-like protein	acetic acid	up	1.83	False
+A0A1D8PRN1	CAALFM_CR00290WA	A0A1D8PRN1_CANAL	Uncharacterized protein	acetic acid	down	-1.82	False
+A0A1D8PRR7	ACC1	A0A1D8PRR7_CANAL	Acetyl-CoA carboxylase	acetic acid	down	-1.82	False
+Q5A3N5	CAALFM_C112280CA	Q5A3N5_CANAL	Large ribosomal subunit protein mL50	acetic acid	up	1.81	False
+A0A1D8PNY8	YUH2	A0A1D8PNY8_CANAL	Ubiquitin carboxyl-terminal hydrolase	acetic acid	down	-1.81	False
+A0A1D8PDR9	CAALFM_C106390WA	A0A1D8PDR9_CANAL	Ubiquitin carboxyl-terminal hydrolase	acetic acid	down	-1.8	True
+P78594	FCA1	FCA1_CANAL	Cytosine deaminase	acetic acid	up	1.8	False
+A0A1D8PF79	GAD1	A0A1D8PF79_CANAL	Glutamate decarboxylase	acetic acid	down	-1.8	False
+A0A1D8PD32	CAALFM_C103720CA	A0A1D8PD32_CANAL	Uncharacterized protein	acetic acid	down	-1.79	False
+Q59PD3	CWC15	CWC15_CANAL	Pre-mRNA-splicing factor CWC15	acetic acid	up	1.79	False
+P0CU37;Q59NX9	CAALFM_C503700CA;DPH5	DPH51_CANAL;DPH52_CANAL	Diphthine methyl ester synthase 2	acetic acid	up	1.78	False
+Q5ADM9	PMT2	PMT2_CANAL	Dolichyl-phosphate-mannose--protein mannosyltransferase 2	acetic acid	down	-1.77	True
+A0A1D8PPY6	CAALFM_C602690CA	A0A1D8PPY6_CANAL	RRM domain-containing protein	acetic acid	down	-1.77	False
+A0A1D8PRB0	CAALFM_C703350CA	A0A1D8PRB0_CANAL	2-dehydropantolactone reductase	acetic acid	down	-1.77	False
+A0A1D8PS11	URA5	A0A1D8PS11_CANAL	orotate phosphoribosyltransferase	acetic acid	up	1.77	False
+Q59L72	PGA52	PGA52_CANAL	Probable circularly permuted 1,3-beta-glucanase PGA52	acetic acid	down	-1.76	True
+A0A1D8PNE5	SRG1	A0A1D8PNE5_CANAL	Phosphatidyl synthase	acetic acid	down	-1.76	False
+A0A1D8PK30	RPL35	RL35_CANAL	Large ribosomal subunit protein uL29	acetic acid	up	1.75	False
+Q59ZE6	PEX6	Q59ZE6_CANAL	Peroxisomal ATPase PEX6	acetic acid	down	-1.75	False
+Q5A653	EFM5	Q5A653_CANAL	Protein-lysine N-methyltransferase EFM5	acetic acid	down	-1.75	False
+A0A1D8PKF3	CAALFM_C306240CA	A0A1D8PKF3_CANAL	Large ribosomal subunit protein bL33m	acetic acid	up	1.74	False
+A0A1D8PEV4	RPL44	RL44_CANAL	Large ribosomal subunit protein eL42	acetic acid	up	1.74	False
+A0A1D8PQT4	GCN3	A0A1D8PQT4_CANAL	Translation initiation factor eIF2B subunit alpha	acetic acid	down	-1.74	False
+P53698	CYC1	CYC_CANAL	Cytochrome c	acetic acid	up	1.73	False
+Q59MQ0	MYO5	MYO5_CANAL	Myosin-5	acetic acid	down	-1.72	False
+A0A1D8PMF8	CMD1	A0A1D8PMF8_CANAL	Calmodulin	acetic acid	up	1.71	False
+Q5A900	RPS21	RS2_CANAL	Small ribosomal subunit protein uS5	acetic acid	up	1.7	False
+A0A1D8PNX3	SDC1	A0A1D8PNX3_CANAL	Sdc1p	acetic acid	up	1.7	False
+Q5A2T2	KRE30	Q5A2T2_CANAL	ATP-binding cassette family ATPase	acetic acid	down	-1.69	True
+Q5AMM6	TIM12	Q5AMM6_CANAL	Mitochondrial import inner membrane translocase subunit	acetic acid	up	1.69	False
+Q59U72	HEM15	Q59U72_CANAL	Ferrochelatase	acetic acid	down	-1.69	False
+Q5AGY4	CAALFM_C701700WA	Q5AGY4_CANAL	RCN2,N-terminal domain-containing protein	acetic acid	down	-1.69	False
+Q5AB97	HMX1	Q5AB97_CANAL	Hmx1p	acetic acid	down	-1.68	False
+A0A1D8PN96	TAC1	TAC1_CANAL	Transcription factor TAC1	acetic acid	down	-1.68	False
+Q5ANB2	DBP10	DBP10_CANAL	ATP-dependent RNA helicase DBP10	acetic acid	down	-1.68	False
+Q5A6P9	SRV2	Q5A6P9_CANAL	Adenylyl cyclase-associated protein	acetic acid	down	-1.68	False
+A0A1D8PDT4	RPL39	RL39_CANAL	Large ribosomal subunit protein eL39	acetic acid	up	1.67	False
+Q5AB84	CAALFM_C100160CA	Q5AB84_CANAL	RRM domain-containing protein	acetic acid	up	1.65	True
+Q5AFG1	ALB1	ALB1_CANAL	Ribosome biogenesis protein ALB1	acetic acid	up	1.65	False
+A0A1D8PFC8	TRP3	A0A1D8PFC8_CANAL	Multifunctional tryptophan biosynthesis protein	acetic acid	down	-1.64	False
+Q5AGF9	CAALFM_C502140CA	Q5AGF9_CANAL	Pyridoxal 5'-phosphate synthase	acetic acid	down	-1.64	False
+A0A1D8PPS9	CHC1	A0A1D8PPS9_CANAL	Clathrin heavy chain (Fragment)	acetic acid	down	-1.64	False
+A0A1D8PPV6	CAALFM_C602330WA	A0A1D8PPV6_CANAL	Uncharacterized protein	acetic acid	up	1.64	False
+Q5A5P7	CAALFM_C210720CA	NIPA2_CANAL	Probable magnesium transporter	acetic acid	down	-1.63	True
+Q5AJ93	RPS7A	RS7A_CANAL	Small ribosomal subunit protein eS7	acetic acid	up	1.62	False
+A0A1D8PJP4	ALT1	A0A1D8PJP4_CANAL	Glutamate pyruvate transaminase	acetic acid	down	-1.62	False
+A0A1D8PTS0	RPP2A	A0A1D8PTS0_CANAL	Ribosomal protein P2A	acetic acid	up	1.61	False
+Q5AFN8	SSR1	CCW14_CANAL	Covalently-linked cell wall protein 14	acetic acid	up	1.61	True
+A0A1D8PQL3	THG1	A0A1D8PQL3_CANAL	tRNA(His) guanylyltransferase	acetic acid	up	1.61	False
+Q59US5	MET15	Q59US5_CANAL	Homocysteine/cysteine synthase	acetic acid	down	-1.6	True
+Q59TU5	MRF1	Q59TU5_CANAL	enoyl-[acyl-carrier-protein] reductase	acetic acid	down	-1.6	True
+Q5A668	SCS7	Q5A668_CANAL	Ceramide very long chain fatty acid hydroxylase	acetic acid	down	-1.59	True
+A0A1D8PP79	CAALFM_C505340WA	A0A1D8PP79_CANAL	Nucleolar protein 10-like N-terminal domain-containing protein	acetic acid	down	-1.58	False
+Q5ALW6	CAALFM_C201530CA	Q5ALW6_CANAL	Glutamine-dependent NAD(+) synthetase	acetic acid	up	1.58	False
+A0A1D8PQ94	SBA1	A0A1D8PQ94_CANAL	Hsp90 cochaperone	acetic acid	up	1.58	False
+Q5ACZ2	DFG5	DFG5_CANAL	Mannan endo-1,6-alpha-mannosidase DFG5	acetic acid	down	-1.58	True
+Q59ZX6	UTP10	UTP10_CANAL	U3 small nucleolar RNA-associated protein 10	acetic acid	down	-1.58	False
+Q5AHH7	ACP12	Q5AHH7_CANAL	Acyl carrier protein	acetic acid	up	1.57	False
+A0A1D8PLW3	CAALFM_C403720CA	A0A1D8PLW3_CANAL	Fe2OG dioxygenase domain-containing protein	acetic acid	down	-1.56	True
+Q5ANI8	MAK21	Q5ANI8_CANAL	RNA-binding ribosome biosynthesis protein	acetic acid	down	-1.56	False
+A0A1D8PSZ0	IFE2	A0A1D8PSZ0_CANAL	Ife2p	acetic acid	up	1.56	True
+Q59SN0	RRP36	RRP36_CANAL	rRNA biogenesis protein RRP36	acetic acid	up	1.56	False
+A0A1D8PCR9	CAALFM_C102450CA	A0A1D8PCR9_CANAL	C2H2-type domain-containing protein	acetic acid	up	1.56	False
+P82612	GPM1	PMGY_CANAL	Phosphoglycerate mutase	acetic acid	up	1.56	False
+A0A1D8PC77	UBP6	A0A1D8PC77_CANAL	Ubiquitin carboxyl-terminal hydrolase	acetic acid	down	-1.54	False
+Q59WC6	YPD1	YPD1_CANAL	Phosphorelay intermediate protein YPD1	acetic acid	down	-1.54	True
+A0A1D8PU71	CTM1	A0A1D8PU71_CANAL	Cytochrome c lysine N-methyltransferase	acetic acid	down	-1.54	False
+A0A1D8PH17	VMA7	A0A1D8PH17_CANAL	V-type proton ATPase subunit F	acetic acid	up	1.54	False
+A0A1D8PMX3	CAALFM_C500320WA	A0A1D8PMX3_CANAL	Large ribosomal subunit protein bL34m	acetic acid	up	1.53	False
+Q59RF7	CAALFM_C604650WA	PFF1_CANAL	Vacuolar membrane protease	acetic acid	down	-1.53	True
+A0A1D8PM41	RPL22B	RL22B_CANAL	Large ribosomal subunit protein eL22	acetic acid	up	1.53	False
+A0A1D8PG09	STF2	A0A1D8PG09_CANAL	Stf2p	acetic acid	up	1.53	False
+Q5A4Y4	CAALFM_C500310CA	Q5A4Y4_CANAL	Uncharacterized protein	acetic acid	up	1.53	False
+A0A1D8PQN0	RPS28B	RS28B_CANAL	Small ribosomal subunit protein eS28	acetic acid	up	1.52	False
+Q59R24	TIM9	TIM9_CANAL	Mitochondrial import inner membrane translocase subunit TIM9	acetic acid	up	1.51	False
+A0A1D8PE13	CAALFM_C107340WA	A0A1D8PE13_CANAL	Chromatin-remodeling ATPase	acetic acid	down	-1.51	False
+A0A1D8PG20	ARO8	A0A1D8PG20_CANAL	aromatic-amino-acid transaminase	acetic acid	down	-1.5	False
+P39827	CDC10	CDC10_CANAL	Cell division control protein 10	acetic acid	down	-1.5	False
+Q5AA33	PGA45	PGA45_CANAL	Predicted GPI-anchored protein 45	acetic acid	up	1.5	True
+O94048	HEM3	HEM3_CANAL	Porphobilinogen deaminase	acetic acid	up	1.5	False
+A0A1D8PCQ5	RPL26B	RL26B_CANAL	Large ribosomal subunit protein uL24	acetic acid	up	1.5	False
+A0A1D8PHF5	RPL31B	RL31B_CANAL	Large ribosomal subunit protein eL31	acetic acid	up	1.49	False
+A0A1D8PGS7	ADE8	A0A1D8PGS7_CANAL	Phosphoribosylglycinamide formyltransferase	acetic acid	up	1.49	False
+A0A1D8PPJ2	CAALFM_C601220CA	A0A1D8PPJ2_CANAL	SIR4-interacting protein SIF2	acetic acid	down	-1.49	False
+Q59Y64	CAALFM_C208840WA	Q59Y64_CANAL	Multifunctional methyltransferase subunit trm112	acetic acid	up	1.49	False
+Q5AFB4	GST2	Q5AFB4_CANAL	Gst2p	acetic acid	down	-1.48	False
+A0A1D8PRE8	ENP2	A0A1D8PRE8_CANAL	Ribosome biosynthesis protein	acetic acid	down	-1.48	False
+Q92209	THR1	KHSE_CANAL	Homoserine kinase	acetic acid	down	-1.48	False
+A0A1D8PRK5	CAALFM_C704310CA	A0A1D8PRK5_CANAL	TauD/TfdA-like domain-containing protein	acetic acid	down	-1.48	False
+Q5AHZ7	SRB4	MED17_CANAL	Mediator of RNA polymerase II transcription subunit 17	acetic acid	down	-1.47	False
+A0A1D8PME6	CGT1	A0A1D8PME6_CANAL	mRNA-capping enzyme subunit alpha	acetic acid	down	-1.46	False
+Q5A1M5	CAALFM_C501000CA	Q5A1M5_CANAL	Uncharacterized protein	acetic acid	up	1.46	False
+A0A1D8PHP3	SMD2	A0A1D8PHP3_CANAL	Small nuclear ribonucleoprotein Sm D2	acetic acid	up	1.46	False
+A0A1D8PKH5	UNG1	A0A1D8PKH5_CANAL	Uracil-DNA glycosylase	acetic acid	down	-1.45	False
+A0A1D8PK43	RPL18	RL18_CANAL	Large ribosomal subunit protein eL18	acetic acid	up	1.45	False
+A0A1D8PEW1	GCA2	A0A1D8PEW1_CANAL	Glucan 1,4-alpha-glucosidase	acetic acid	up	1.45	False
+A0A1D8PFL9	RPL14	RL14_CANAL	Large ribosomal subunit protein eL14	acetic acid	up	1.45	False
+Q5A435	CAALFM_C405860WA	Q5A435_CANAL	Prefoldin subunit 4	acetic acid	up	1.45	False
+A0A1D8PTW6	ERG13	ERG13_CANAL	Hydroxymethylglutaryl-CoA synthase	acetic acid	down	-1.45	True
+A0A1D8PQQ5	RPS18	RS18B_CANAL	Small ribosomal subunit protein uS13	acetic acid	up	1.45	False
+Q5AGW8	NUP	NUP_CANAL	Purine nucleoside permease	acetic acid	up	1.45	True
+Q5ANP2	EGD2	NACA_CANAL	Nascent polypeptide-associated complex subunit alpha	acetic acid	up	1.44	False
+A0A1D8PTF3	CAALFM_CR07200WA	A0A1D8PTF3_CANAL	Protein arginine methyltransferase NDUFAF7	acetic acid	down	-1.44	False
+P0CH67	LAB5	LIPA_CANAL	Lipoyl synthase, mitochondrial	acetic acid	down	-1.44	False
+A0A1D8PFZ9	MPP10	A0A1D8PFZ9_CANAL	U3 small nucleolar ribonucleoprotein protein MPP10	acetic acid	down	-1.44	False
+Q59YF2	CAALFM_C209760WA	Q59YF2_CANAL	Uncharacterized protein	acetic acid	up	1.43	False
+A0A1D8PPA5	HET1	A0A1D8PPA5_CANAL	Het1p	acetic acid	down	-1.43	False
+A0A1D8PQP8	CAALFM_C700780WA	A0A1D8PQP8_CANAL	RNA-processing protein	acetic acid	down	-1.43	False
+Q59UF6	CAALFM_CR03160WA	Q59UF6_CANAL	tRNA wybutosine-synthesizing protein 3	acetic acid	up	1.43	False
+A0A1D8PTL2	CAALFM_CR07760WA	A0A1D8PTL2_CANAL	Small ribosomal subunit protein uS19m	acetic acid	up	1.43	False
+A0A1D8PKT1	VAN1	A0A1D8PKT1_CANAL	Van1p	acetic acid	up	1.42	False
+Q5A798	MRPL3	Q5A798_CANAL	Mitochondrial 54S ribosomal protein YmL3	acetic acid	up	1.42	False
+Q59Z50	SPE3	Q59Z50_CANAL	Spermidine synthase	acetic acid	up	1.42	False
+Q5AMP9	CAALFM_C401950WA	Q5AMP9_CANAL	F-actin-capping protein subunit beta	acetic acid	down	-1.42	False
+Q59WH7	UBA4	UBA4_CANAL	Adenylyltransferase and sulfurtransferase UBA4	acetic acid	down	-1.42	False
+Q5ABU8	BMT6	BMT6_CANAL	Beta-mannosyltransferase 6	acetic acid	down	-1.41	True
+A0A1D8PJ25	ERG4	ERG4_CANAL	Delta(24(24(1)))-sterol reductase	acetic acid	down	-1.41	True
+A0A1D8PNX1	CAALFM_C504350CA	A0A1D8PNX1_CANAL	Serine hydrolase	acetic acid	down	-1.41	False
+A0A1D8PMG9	NUM11	A0A1D8PMG9_CANAL	PH domain-containing protein	acetic acid	down	-1.41	False
+A0A1D8PH71	SNU114	A0A1D8PH71_CANAL	U5 snRNP GTPase	acetic acid	down	-1.41	False
+A0A1D8PUC5	CAALFM_CR10830CA	A0A1D8PUC5_CANAL	Mitochondrial 54S ribosomal protein YmL25	acetic acid	up	1.41	False
+Q59QT4	CAALFM_C503410CA	Q59QT4_CANAL	Mitochondrial 54S ribosomal protein YmL20	acetic acid	up	1.41	False
+Q59XW9	IRC22-2	IR222_CANAL	Increased recombination centers protein 22-2	acetic acid	down	-1.41	False
+A0A1D8PD78	IFD6	A0A1D8PD78_CANAL	Ifd6p	acetic acid	up	1.41	False
+A0A1D8PQ38	CAALFM_C603130WA	A0A1D8PQ38_CANAL	Uncharacterized protein	acetic acid	up	1.41	False
+A0A1D8PGP2	UTP21	A0A1D8PGP2_CANAL	rRNA-processing protein	acetic acid	down	-1.4	False
+A0A1D8PU62	CAALFM_CR10280WA	A0A1D8PU62_CANAL	Cytochrome c oxidase assembly factor 6	acetic acid	up	1.4	False
+A0A1D8PHM2	CAALFM_C206080CA	A0A1D8PHM2_CANAL	Nudix hydrolase domain-containing protein	acetic acid	up	1.4	False
+Q5AA47	ARC35	Q5AA47_CANAL	Arp2/3 complex 34 kDa subunit	acetic acid	down	-1.4	False
+Q5AIR7	ENG1	ENG1_CANAL	Glucan endo-1,3-beta-D-glucosidase 1	acetic acid	up	1.4	False
+Q92206	ERG1	ERG1_CANAL	Squalene epoxidase ERG1	acetic acid	down	-1.4	False
+Q59Y38	CAALFM_C208650WA	Q59Y38_CANAL	Zinc finger CHCC-type domain-containing protein	acetic acid	up	1.4	False
+Q59Z11	ARP3	Q59Z11_CANAL	Actin-related protein 3	acetic acid	down	-1.39	False
+A0A1D8PNN9	RMS1	A0A1D8PNN9_CANAL	Ribosomal lysine N-methyltransferase 4	acetic acid	up	1.39	False
+A0A1D8PSV5	RPS3	RS3_CANAL	Small ribosomal subunit protein uS3	acetic acid	up	1.39	False
+A0A1D8PEY6	TCB1	A0A1D8PEY6_CANAL	Tricalbin	acetic acid	down	-1.39	False
+Q59KY7	CAALFM_C104370CA	Q59KY7_CANAL	Small ribosomal subunit protein bS18m	acetic acid	up	1.38	False
+Q5A431	CAALFM_C405890WA	Q5A431_CANAL	SelT/selW/selH selenoprotein domain-containing protein	acetic acid	up	1.38	False
+A0A1D8PFA3	CAALFM_C111610CA	A0A1D8PFA3_CANAL	AB hydrolase-1 domain-containing protein	acetic acid	down	-1.38	False
+Q5A9D8	CAALFM_CR01410CA	Q5A9D8_CANAL	Uncharacterized protein	acetic acid	up	1.38	False
+A0A1D8PDY7	NPR1	A0A1D8PDY7_CANAL	Serine/threonine-protein	acetic acid	down	-1.38	False
+Q59X74	IMP4	Q59X74_CANAL	U3 small nucleolar ribonucleoprotein protein IMP4	acetic acid	down	-1.38	False
+A0A1D8PDA6	PHO85	A0A1D8PDA6_CANAL	Serine/threonine-protein	acetic acid	down	-1.38	False
+Q8TGH6	GDA1	GDA1_CANAL	Guanosine-diphosphatase	acetic acid	up	1.38	False
+Q59YF4	IRC22-1	IR221_CANAL	Increased recombination centers protein 22-1	acetic acid	down	-1.37	False
+Q5A8T4	ALS1	ALS1_CANAL	Agglutinin-like protein 1	acetic acid	up	1.37	False
+A0A1D8PN35	GDS1	A0A1D8PN35_CANAL	Gds1p	acetic acid	up	1.37	False
+A0A1D8PCA4	RPO41	A0A1D8PCA4_CANAL	DNA-directed RNA polymerase	acetic acid	down	-1.37	False
+A0A1D8PQ26	ADO1	A0A1D8PQ26_CANAL	Adenosine kinase	acetic acid	up	1.37	False
+A0A1D8PF50	NEP1	A0A1D8PF50_CANAL	Ribosomal RNA small subunit methyltransferase NEP1	acetic acid	down	-1.37	False
+A0A1D8PP95	CAALFM_C600170CA	A0A1D8PP95_CANAL	Ubiquitin carboxyl-terminal hydrolase	acetic acid	down	-1.36	False
+A0A1D8PH21	RPL36	RL36_CANAL	Large ribosomal subunit protein eL36	acetic acid	up	1.35	False
+Q59LF3	RVS167	RV167_CANAL	Regulator of cytoskeleton and endocytosis RVS167	acetic acid	down	-1.35	False
+A0A1D8PTI7	RPS27	RS27_CANAL	Small ribosomal subunit protein eS27	acetic acid	up	1.35	False
+A0A1D8PFN6	SEC18	A0A1D8PFN6_CANAL	Vesicular-fusion protein SEC18	acetic acid	down	-1.35	False
+A0A1D8PEG3	KEX2	A0A1D8PEG3_CANAL	Subtilisin-like protease	acetic acid	up	1.35	False
+Q59QH2	CSH1	Q59QH2_CANAL	Csh1p	acetic acid	down	-1.35	True
+Q59VF9	RSA3	RSA3_CANAL	Ribosome assembly protein 3	acetic acid	up	1.35	False
+A0A1D8PE36	LHP1	A0A1D8PE36_CANAL	Lhp1p	acetic acid	up	1.35	False
+Q5AH09	CDC34	Q5AH09_CANAL	SCF E2 ubiquitin-protein ligase catalytic subunit	acetic acid	down	-1.35	False
+A0A1D8PGV7	NSP1	A0A1D8PGV7_CANAL	Nucleoporin NSP1	acetic acid	up	1.34	False
+Q5AL34	PSA2	Q5AL34_CANAL	mannose-1-phosphate guanylyltransferase	acetic acid	down	-1.34	False
+A0A1D8PGT3	TOM1	A0A1D8PGT3_CANAL	HECT-type E3 ubiquitin transferase	acetic acid	down	-1.34	False
+Q5A6Q6	CAALFM_CR04140WA	Q5A6Q6_CANAL	Small ribosomal subunit protein uS4m	acetic acid	up	1.34	False
+A0A1D8PJ45	FLC1	A0A1D8PJ45_CANAL	Flavin adenine dinucleotide transporter	acetic acid	down	-1.34	False
+A0A1D8PTR4	CAALFM_CR08480CA	RS29A_CANAL	Small ribosomal subunit protein uS14	acetic acid	up	1.33	False
+A0A1D8PC97	TUB2	A0A1D8PC97_CANAL	Tubulin beta chain	acetic acid	down	-1.33	False
+Q5AHG8	CAALFM_C203950WA	Q5AHG8_CANAL	Large ribosomal subunit protein bL28m	acetic acid	up	1.33	False
+A0A1D8PCX8	RPL6	RL6_CANAL	Large ribosomal subunit protein eL6	acetic acid	up	1.33	False
+Q04802	NAG1	NAG1_CANAL	Glucosamine-6-phosphate isomerase	acetic acid	down	-1.33	True
+Q5ADN1	TPD3	Q5ADN1_CANAL	Protein phosphatase 2A structural subunit	acetic acid	down	-1.33	False
+A0A1D8PSK2	RPS30	RS30_CANAL	Small ribosomal subunit protein eS30	acetic acid	up	1.33	False
+Q5A302	ERV25	TMEDA_CANAL	Endoplasmic reticulum vesicle protein 25	acetic acid	down	-1.33	False
+A0A1D8PNQ3	CAALFM_C503670CA	A0A1D8PNQ3_CANAL	Class II aldolase/adducin N-terminal domain-containing protein	acetic acid	up	1.33	False
+Q59V63	EMP24	Q59V63_CANAL	Emp24p	acetic acid	down	-1.33	False
+A0A1D8PDI3	CAALFM_C105180CA	A0A1D8PDI3_CANAL	Uncharacterized protein	acetic acid	up	1.33	False
+A0A1D8PFE6	CDC54	A0A1D8PFE6_CANAL	DNA replication licensing factor MCM4	acetic acid	down	-1.32	False
+A0A1D8PRY9	CAALFM_CR01490CA	A0A1D8PRY9_CANAL	Protein transport protein Sec61 subunit beta	acetic acid	down	-1.32	True
+A0A1D8PGY8	RPS9B	RS9B_CANAL	Small ribosomal subunit protein uS4	acetic acid	up	1.32	False
+Q59MZ5	ADE6	Q59MZ5_CANAL	Phosphoribosylformylglycinamidine synthase	acetic acid	up	1.32	False
+A0A1D8PTU7	ASR2	A0A1D8PTU7_CANAL	Asr2p	acetic acid	up	1.31	False
+Q5AP53	CBK1	CBK1_CANAL	Serine/threonine-protein kinase CBK1	acetic acid	down	-1.31	False
+A0A1D8PQN1	RTF1	A0A1D8PQN1_CANAL	Rtf1p	acetic acid	down	-1.31	False
+A0A1D8PPE0	RPS13	RS13_CANAL	Small ribosomal subunit protein uS15	acetic acid	up	1.31	False
+Q5AB87	RPL16A	RL16A_CANAL	Large ribosomal subunit protein uL13	acetic acid	up	1.31	False
+A0A1D8PCL4	CAALFM_C101910WA	A0A1D8PCL4_CANAL	Uncharacterized protein	acetic acid	up	1.31	False
+A0A1D8PN49	CAALFM_C501050CA	A0A1D8PN49_CANAL	Mitochondrial 54S ribosomal protein IMG1	acetic acid	up	1.3	False
+Q5AAG6	MKC1	MKC1_CANAL	Mitogen-activated protein kinase MKC1	acetic acid	down	-1.3	False
+A0A1D8PMQ0	SEM1	A0A1D8PMQ0_CANAL	26S proteasome complex subunit SEM1	acetic acid	up	1.3	True
+Q5AIA1	EXG2	EXG2_CANAL	Glucan 1,3-beta-glucosidase 2	acetic acid	up	1.3	False
+A0A1D8PSW8	CDC43	A0A1D8PSW8_CANAL	Geranylgeranyl transferase type-1 subunit beta	acetic acid	up	1.3	False
+Q5ADN0	ISA2	Q5ADN0_CANAL	Isa2p	acetic acid	up	1.3	True
+A0A1D8PTH3	KGD2	A0A1D8PTH3_CANAL	dihydrolipoyllysine-residue succinyltransferase	acetic acid	up	1.3	False
+Q5AFE4	RVS161	RV161_CANAL	Regulator of cytoskeleton and endocytosis RVS161	acetic acid	down	-1.3	False
+Q5AEN2	RPL9B	RL9B_CANAL	Large ribosomal subunit protein uL6	acetic acid	up	1.29	False
+Q59Z17	DQD1	3DHQ_CANAL	Catabolic 3-dehydroquinase	acetic acid	up	1.29	False
+Q59U89	CAALFM_C207630CA	Q59U89_CANAL	Ribosome maturation protein SDO1/SBDS N-terminal domain-containing protein	acetic acid	up	1.29	False
+A0A1D8PD39	HMG1	HMDH_CANAL	3-hydroxy-3-methylglutaryl-coenzyme A reductase 1	acetic acid	down	-1.29	True
+A0A1D8PCK0	SIZ1	A0A1D8PCK0_CANAL	SUMO ligase	acetic acid	down	-1.29	False
+Q5ALU3	CAALFM_C201720CA	Q5ALU3_CANAL	COX assembly mitochondrial protein	acetic acid	up	1.29	False
+A0A1D8PLW7	NUP84	A0A1D8PLW7_CANAL	Nuclear pore complex protein	acetic acid	down	-1.29	False
+Q5AHH0	MED1	Q5AHH0_CANAL	Mediator of RNA polymerase II transcription subunit 1	acetic acid	down	-1.29	False
+Q5ANP6	SBP1	Q5ANP6_CANAL	Sbp1p	acetic acid	up	1.29	False
+A0A1D8PSU1	CAALFM_CR04750WA	A0A1D8PSU1_CANAL	Uncharacterized protein	acetic acid	up	1.29	False
+cRAP-P04264	cRAP-KRT1	cRAP-K2C1_HUMAN	Keratin, type II cytoskeletal 1	acetic acid	up	1.28	False
+Q5AED9	BBP	BBP_CANAL	Branchpoint-bridging protein	acetic acid	down	-1.28	False
+A0A1D8PU46	SIK1	A0A1D8PU46_CANAL	Nucleolar protein 56	acetic acid	down	-1.28	False
+A0A1D8PRB4	CAALFM_C703370CA	A0A1D8PRB4_CANAL	Maintenance of telomere capping protein 1	acetic acid	down	-1.28	False
+A0A1D8PK80	CAALFM_C305300CA	A0A1D8PK80_CANAL	Bifunctional choline kinase/ethanolamine kinase	acetic acid	down	-1.28	False
+Q59U85	VMA10	Q59U85_CANAL	V-type proton ATPase subunit G	acetic acid	up	1.27	False
+A0A1D8PLU5	CSH3	A0A1D8PLU5_CANAL	Csh3p	acetic acid	down	-1.27	False
+A0A1D8PTV4	TUB1	A0A1D8PTV4_CANAL	Tubulin alpha chain	acetic acid	down	-1.27	False
+A0A1D8PT56	ADE13	A0A1D8PT56_CANAL	Adenylosuccinate lyase	acetic acid	up	1.27	False
+A0A1D8PFY5	CAALFM_C114450CA	A0A1D8PFY5_CANAL	Xaa-Pro dipeptidase	acetic acid	up	1.27	False
+A0A1D8PFX7	CAALFM_C114430CA	A0A1D8PFX7_CANAL	NADP-dependent oxidoreductase domain-containing protein	acetic acid	up	1.27	False
+A0A1D8PQ54	CAALFM_C603320WA	A0A1D8PQ54_CANAL	Antisense-enhancing sequence 1	acetic acid	down	-1.27	False
+A0A1D8PLT4	MSN5	A0A1D8PLT4_CANAL	Karyopherin	acetic acid	down	-1.27	False
+Q59SR4	HBR3	Q59SR4_CANAL	20S-pre-rRNA D-site endonuclease NOB1	acetic acid	up	1.26	False
+cRAP-P35908	cRAP-KRT2	cRAP-K22E_HUMAN	Keratin, type II cytoskeletal 2 epidermal	acetic acid	up	1.26	False
+A0A1D8PJP6	RUB1	A0A1D8PJP6_CANAL	NEDD8 family protein	acetic acid	up	1.26	False
+A0A1D8PK40	RPL19A	RL19A_CANAL	Large ribosomal subunit protein eL19	acetic acid	up	1.26	False
+A0A1D8PCG7	RPS21B	RS21B_CANAL	Small ribosomal subunit protein eS21	acetic acid	up	1.26	False
+A0A1D8PCJ1	MRP20	A0A1D8PCJ1_CANAL	Large ribosomal subunit protein uL23m	acetic acid	up	1.26	False
+A0A1D8PTM0	CAALFM_CR08000CA	A0A1D8PTM0_CANAL	Aminotransferase class I/classII large domain-containing protein	acetic acid	down	-1.25	False
+Q5A2V2	RMD9	RMD9_CANAL	RNA-binding protein RMD9, mitochondrial	acetic acid	down	-1.25	False
+A0A1D8PPV3	CAALFM_C602280WA	A0A1D8PPV3_CANAL	Uncharacterized protein	acetic acid	up	1.25	False
+Q9P8E3	SEC61	SC61A_CANAL	Protein transport protein SEC61 subunit alpha	acetic acid	down	-1.25	True
+Q5AQ57	RSM25	RT25_CANAL	Small ribosomal subunit protein mS23	acetic acid	up	1.25	False
+A0A1D8PCW6	RPS16A	RS16A_CANAL	Small ribosomal subunit protein uS9	acetic acid	up	1.25	False
+A0A1D8PJB0	CAALFM_C301720CA	A0A1D8PJB0_CANAL	Coatomer subunit alpha	acetic acid	down	-1.25	False
+Q59NN8	FES1	FES1_CANAL	Hsp70 nucleotide exchange factor FES1	acetic acid	up	1.25	False
+Q59ZV5	TIF35	EIF3G_CANAL	Eukaryotic translation initiation factor 3 subunit G	acetic acid	up	1.25	False
+A0A1D8PGS5	IDH2	A0A1D8PGS5_CANAL	Isocitrate dehydrogenase [NAD] subunit 2, mitochondrial	acetic acid	up	1.25	False
+A0A1D8PMQ1	CAALFM_C406860CA	A0A1D8PMQ1_CANAL	Cytidine deaminase	acetic acid	up	1.24	False
+Q5A222	CAALFM_CR02620CA	Q5A222_CANAL	NADH-ubiquinone oxidoreductase	acetic acid	up	1.24	False
+A0A1D8PKU3	CAALFM_C307580WA	A0A1D8PKU3_CANAL	Uncharacterized protein	acetic acid	up	1.24	False
+A0A1D8PUD2	ATP16	A0A1D8PUD2_CANAL	ATP synthase subunit delta, mitochondrial	acetic acid	up	1.24	False
+A0A1D8PE79	OSH2	A0A1D8PE79_CANAL	Oxysterol-binding protein related protein	acetic acid	down	-1.24	False
+A0A1D8PU08	CAALFM_CR09590WA	A0A1D8PU08_CANAL	Ubiquinone biosynthesis protein	acetic acid	up	1.24	False
+A0A1D8PPR6	CAALFM_C601980CA	A0A1D8PPR6_CANAL	Small ribosomal subunit protein uS11m	acetic acid	up	1.23	False
+Q5ADW3	TIP120	CAND1_CANAL	Cullin-associated NEDD8-dissociated protein 1	acetic acid	down	-1.23	False
+O74261	HSP60	HSP60_CANAL	Heat shock protein 60, mitochondrial	acetic acid	up	1.23	False
+Q5AD21	POT1-2	Q5AD21_CANAL	Pot1-2p	acetic acid	up	1.23	False
+Q5A2U9	VMA5	Q5A2U9_CANAL	V-type proton ATPase subunit C	acetic acid	down	-1.23	False
+A0A1D8PNX4	CAALFM_C504340WA	A0A1D8PNX4_CANAL	Protein disulfide isomerase	acetic acid	down	-1.23	False
+A0A1D8PE62	CAALFM_C107490CA	A0A1D8PE62_CANAL	DNA polymerase alpha subunit B	acetic acid	down	-1.23	False
+A0A1D8PJG9	DCG1	A0A1D8PJG9_CANAL	Dcg1p	acetic acid	down	-1.23	False
+A0A1D8PF57	RPL29	RL29_CANAL	Large ribosomal subunit protein eL29	acetic acid	up	1.23	False
+A0A1D8PU05	CAALFM_CR09640CA	A0A1D8PU05_CANAL	Translation machinery-associated protein 7	acetic acid	up	1.23	False
+A0A1D8PG37	CAALFM_C200400CA	A0A1D8PG37_CANAL	Uncharacterized protein	acetic acid	up	1.23	False
+A0A1D8PDZ1	RPL34B	RL34B_CANAL	Large ribosomal subunit protein eL34	acetic acid	up	1.22	False
+Q5A693	CAALFM_C404820CA	Q5A693_CANAL	Mitochondrial 54S ribosomal protein YmL11	acetic acid	up	1.22	False
+Q5A937	CAALFM_C101090CA	Q5A937_CANAL	Small ribosomal subunit protein mS33	acetic acid	up	1.22	False
+A0A1D8PR64	POL3	A0A1D8PR64_CANAL	DNA polymerase	acetic acid	down	-1.21	False
+Q59ZH9	MAK5	MAK5_CANAL	ATP-dependent RNA helicase MAK5	acetic acid	down	-1.21	False
+Q5AJZ7	MRP2	Q5AJZ7_CANAL	37S ribosomal protein MRP2, mitochondrial	acetic acid	up	1.21	False
+Q59Q46	IMH3	IMDH_CANAL	Inosine-5'-monophosphate dehydrogenase	acetic acid	up	1.21	False
+A0A1D8PLT5	CAALFM_C403290WA	A0A1D8PLT5_CANAL	XPG-I domain-containing protein	acetic acid	down	-1.21	False
+A0A1D8PPC9	FET34	A0A1D8PPC9_CANAL	Ferroxidase	acetic acid	down	-1.21	False
+Q59ZY9	NCS2	CTU2_CANAL	Cytoplasmic tRNA 2-thiolation protein 2	acetic acid	down	-1.21	False
+A0A1D8PTX1	ARP2	A0A1D8PTX1_CANAL	Actin-related protein 2	acetic acid	down	-1.21	False
+Q5A346	TSR1	Q5A346_CANAL	Tsr1p	acetic acid	up	1.21	False
+Q5AFF7	FIS1	FIS1_CANAL	Mitochondrial fission 1 protein	acetic acid	down	-1.21	False
+Q00310	MNT1	MNT1_CANAL	Glycolipid 2-alpha-mannosyltransferase 1	acetic acid	up	1.21	False
+Q5A1Z1	MRP21	Q5A1Z1_CANAL	Mitochondrial 37S ribosomal protein MRP21	acetic acid	up	1.21	False
+A0A1D8PDT3	RPS14B	RS14B_CANAL	Small ribosomal subunit protein uS11	acetic acid	up	1.21	True
+Q5ADP5	YSA1	Q5ADP5_CANAL	ADP-ribose diphosphatase	acetic acid	up	1.21	False
+A0A1D8PT36	MHP1	A0A1D8PT36_CANAL	Mhp1p	acetic acid	down	-1.2	False
+A0A1D8PI53	CAALFM_C208450WA	A0A1D8PI53_CANAL	Uncharacterized protein	acetic acid	down	-1.2	False
+A0A1D8PL32	MUC1	A0A1D8PL32_CANAL	Muc1p	acetic acid	down	-1.2	False
+O74189	PMT1	PMT1_CANAL	Dolichyl-phosphate-mannose--protein mannosyltransferase 1	acetic acid	down	-1.2	True
+A0A1D8PEZ5	CAALFM_C110970WA	A0A1D8PEZ5_CANAL	Uncharacterized protein	acetic acid	up	1.2	False
+Q59LQ6	SUI1	Q59LQ6_CANAL	Translation initiation factor eIF1	acetic acid	up	1.2	False
+Q59N30	CAALFM_C501610WA	Q59N30_CANAL	Pseudouridine synthase	acetic acid	up	1.19	False
+A0A1D8PDP3	RGD1	A0A1D8PDP3_CANAL	Rgd1p	acetic acid	down	-1.19	False
+Q5AGV3	CAALFM_C701440WA	Q5AGV3_CANAL	Bola-like protein	acetic acid	up	1.19	False
+A0A1D8PK22	RPS15	RS15_CANAL	Small ribosomal subunit protein uS19	acetic acid	up	1.19	False
+Q5ALN3	CAALFM_C202260WA	Q5ALN3_CANAL	Uncharacterized protein	acetic acid	up	1.19	False
+A0A1D8PU55	CAALFM_CR10230WA	A0A1D8PU55_CANAL	AHC1-like C2H2 zinc-finger domain-containing protein	acetic acid	down	-1.19	False
+A0A1D8PIL6	CAALFM_C209910CA	A0A1D8PIL6_CANAL	Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 4	acetic acid	down	-1.18	False
+Q59S81	CAALFM_C602190CA	Q59S81_CANAL	Serine/threonine-protein	acetic acid	down	-1.18	False
+Q59S06	NOP58	NOP58_CANAL	Nucleolar protein 58	acetic acid	down	-1.18	False
+Q59MI8	TIM8	TIM8_CANAL	Mitochondrial import inner membrane translocase subunit TIM8	acetic acid	up	1.18	False
+A0A1D8PMF0	CAALFM_C405900CA	A0A1D8PMF0_CANAL	Uncharacterized protein	acetic acid	down	-1.18	False
+Q59VH8	MRPL37	Q59VH8_CANAL	Large ribosomal subunit protein mL54	acetic acid	up	1.18	False
+A0A1D8PCM2	GAL7	A0A1D8PCM2_CANAL	Galactose-1-phosphate uridylyltransferase	acetic acid	up	1.18	False
+Q5AHD3	CAALFM_C203560CA	Q5AHD3_CANAL	Large ribosomal subunit protein mL38	acetic acid	up	1.18	False
+O13318	PHR2	PHR2_CANAL	pH-responsive protein 2	acetic acid	down	-1.18	True
+Q5A4X9	CAALFM_C500280CA	Q5A4X9_CANAL	Endonuclease	acetic acid	up	1.18	False
+A0A1D8PP94	VID27	A0A1D8PP94_CANAL	Vid27p	acetic acid	down	-1.18	False
+A0A1D8PQU2	FMP28	A0A1D8PQU2_CANAL	DNL-type domain-containing protein	acetic acid	up	1.17	False
+Q5AI30	CAALFM_C103280WA	Q5AI30_CANAL	Small ribosomal subunit protein mS35	acetic acid	up	1.17	False
+A0A1D8PSM5	NAT5	A0A1D8PSM5_CANAL	Peptide alpha-N-acetyltransferase subunit	acetic acid	up	1.17	False
+Q5ADQ9	BMT1	BMT1_CANAL	Beta-mannosyltransferase 1	acetic acid	up	1.17	True
+A0A1D8PGP5	SDH8	A0A1D8PGP5_CANAL	Succinate dehydrogenase assembly factor 4, mitochondrial	acetic acid	up	1.17	False
+A0A1D8PJ13	FOX2	A0A1D8PJ13_CANAL	Peroxisomal hydratase-dehydrogenase-epimerase	acetic acid	down	-1.17	False
+A0A1D8PK61	RPS19A	RS19A_CANAL	Small ribosomal subunit protein eS19	acetic acid	up	1.17	False
+Q5AFA8	ABP1	Q5AFA8_CANAL	Abp1p	acetic acid	down	-1.17	False
+A0A1D8PPN6	RPL32	RL32_CANAL	Large ribosomal subunit protein eL32	acetic acid	up	1.17	False
+A0A1D8PFN5	CAALFM_C113370WA	A0A1D8PFN5_CANAL	Assembly chaperone of RPL4 C-terminal domain-containing protein (Fragment)	acetic acid	down	-1.17	False
+A0A1D8PSP5	CAALFM_CR04110WA	A0A1D8PSP5_CANAL	H/ACA ribonucleoprotein complex non-core subunit NAF1	acetic acid	down	-1.17	False
+A0A1D8PRB8	CAALFM_C703380WA	A0A1D8PRB8_CANAL	COX assembly mitochondrial protein	acetic acid	up	1.17	False
+Q59PZ4	NMD3	Q59PZ4_CANAL	60S ribosomal export protein NMD3	acetic acid	up	1.17	False
+Q5AH38	ECM42	ARGJ_CANAL	Arginine biosynthesis bifunctional protein ArgJ, mitochondrial	acetic acid	down	-1.17	True
+A0A1D8PFV1	RPL4B	RL4B_CANAL	Large ribosomal subunit protein uL4	acetic acid	up	1.16	False
+A0A1D8PSH3	CIT1	A0A1D8PSH3_CANAL	Citrate synthase	acetic acid	up	1.16	False
+Q5AM50	NMD4	NMD4_CANAL	Nonsense-mediated decay protein 4	acetic acid	down	-1.16	False
+Q5AIB8	RPL10	RL10_CANAL	Large ribosomal subunit protein uL16	acetic acid	up	1.16	False
+Q5AP67	RPA34	Q5AP67_CANAL	DNA-directed RNA polymerase I subunit	acetic acid	up	1.16	False
+P87219	SOU1	SOU1_CANAL	Sorbose reductase SOU1	acetic acid	up	1.16	False
+Q5AJ84	CAALFM_C301420CA	Q5AJ84_CANAL	Oleate-induced peroxisomal protein POX18	acetic acid	up	1.16	False
+Q5AI07	CAALFM_C103440CA	Q5AI07_CANAL	Aldehyde dehydrogenase domain-containing protein	acetic acid	down	-1.15	False
+A0A1D8PS79	IDP2	A0A1D8PS79_CANAL	Isocitrate dehydrogenase [NADP]	acetic acid	up	1.15	True
+Q5AA13	GIM5	Q5AA13_CANAL	Gim5p	acetic acid	up	1.15	False
+A0A1D8PEM5	IDH1	A0A1D8PEM5_CANAL	Isocitrate dehydrogenase [NAD] subunit 1, mitochondrial	acetic acid	up	1.15	False
+Q5AKX2	OSM2	Q5AKX2_CANAL	Fumarate reductase	acetic acid	down	-1.15	True
+Q5AI37	ARX1	ARX1_CANAL	Probable metalloprotease ARX1	acetic acid	up	1.15	False
+A0A1D8PN90	STI1	A0A1D8PN90_CANAL	Heat shock protein STI1	acetic acid	up	1.15	True
+A0A1D8PHL7	ATP14	A0A1D8PHL7_CANAL	F1F0 ATP synthase subunit h	acetic acid	up	1.15	False
+A0A1D8PH88	ARH2	A0A1D8PH88_CANAL	NADPH-adrenodoxin reductase (Fragment)	acetic acid	up	1.15	False
+A0A1D8PSG9	CAALFM_CR03310CA	A0A1D8PSG9_CANAL	C3H1-type domain-containing protein	acetic acid	down	-1.15	False
+A0A1D8PD24	CAALFM_C103540CA	A0A1D8PD24_CANAL	Protein ILM1	acetic acid	down	-1.14	False
+A0A1D8PRP7	CAALFM_CR00340CA	A0A1D8PRP7_CANAL	IMS import disulfide relay-system CHCH-CHCH-like Cx9C domain-containing protein	acetic acid	up	1.14	False
+A0A1D8PLN7	CAALFM_C402850WA	A0A1D8PLN7_CANAL	Elongator complex protein 2	acetic acid	down	-1.14	False
+A0A1D8PI76	CAALFM_C208160CA	A0A1D8PI76_CANAL	Protein YOP1	acetic acid	down	-1.14	False
+Q5A7P9	DOT5	Q5A7P9_CANAL	thioredoxin-dependent peroxiredoxin	acetic acid	down	-1.14	False
+A0A1D8PDH5	REI1	A0A1D8PDH5_CANAL	Rei1p	acetic acid	up	1.14	False
+A0A1D8PF22	WBP1	A0A1D8PF22_CANAL	Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit WBP1	acetic acid	down	-1.14	False
+A0A1D8PF11	RPL82	RL8A_CANAL	Large ribosomal subunit protein eL8A	acetic acid	up	1.14	False
+A0A1D8PS81	CAALFM_CR02510WA	A0A1D8PS81_CANAL	C2H2-type domain-containing protein	acetic acid	down	-1.14	False
+Q5A1L3	CAALFM_C500850CA	Q5A1L3_CANAL	IMS import disulfide relay-system CHCH-CHCH-like Cx9C domain-containing protein	acetic acid	up	1.14	False
+P87163	GCD6	EI2BE_CANAL	Translation initiation factor eIF2B subunit epsilon	acetic acid	down	-1.14	False
+A0A1D8PJ23	MRPL33	A0A1D8PJ23_CANAL	Large ribosomal subunit protein uL30m	acetic acid	up	1.14	False
+Q5ALL8	POB3	POB3_CANAL	FACT complex subunit POB3	acetic acid	down	-1.14	False
+Q5AG43	RPS5	RS5_CANAL	Small ribosomal subunit protein uS7	acetic acid	up	1.13	False
+A0A1D8PMF7	CAALFM_C405850CA	A0A1D8PMF7_CANAL	LYC1 C-terminal domain-containing protein	acetic acid	up	1.13	False
+Q5AIA2	HOM6	Q5AIA2_CANAL	Homoserine dehydrogenase	acetic acid	down	-1.13	False
+A0A1D8PRJ5	UTP18	A0A1D8PRJ5_CANAL	Utp18p	acetic acid	down	-1.13	False
+A0A1D8PR39	AHP2	A0A1D8PR39_CANAL	Ahp2p	acetic acid	up	1.13	False
+Q5AM80	UTR4	ENOPH_CANAL	Enolase-phosphatase E1	acetic acid	up	1.13	False
+A0A1D8PC56	CAALFM_C100210CA	A0A1D8PC56_CANAL	Glucose-signaling factor 2	acetic acid	down	-1.13	True
+A0A1D8PLC9	RPL20B	RL20B_CANAL	Large ribosomal subunit protein eL20	acetic acid	up	1.13	False
+Q5AGD1	CAALFM_C502400WA	APTH1_CANAL	Acyl-protein thioesterase 1	acetic acid	down	-1.13	False
+A0A1D8PK48	CAALFM_C305120CA	A0A1D8PK48_CANAL	Prefoldin subunit 3	acetic acid	up	1.13	False
+Q59TA2	CAALFM_C101940CA	Q59TA2_CANAL	Signal recognition particle subunit	acetic acid	up	1.13	False
+Q5A8L5	POP2	Q5A8L5_CANAL	CCR4-NOT core DEDD family RNase subunit	acetic acid	down	-1.13	False
+A0A1D8PEY9	RPS17B	RS17B_CANAL	Small ribosomal subunit protein eS17	acetic acid	up	1.12	False
+A0A1D8PLZ5	ECM1	A0A1D8PLZ5_CANAL	Ecm1p	acetic acid	up	1.12	False
+Q5A441	CAALFM_C405810WA	Q5A441_CANAL	J domain-containing protein	acetic acid	down	-1.12	False
+A0A1D8PL01	STE24	A0A1D8PL01_CANAL	CAAX prenyl protease	acetic acid	down	-1.12	False
+A0A1D8PJ43	BMS1	A0A1D8PJ43_CANAL	GTPase	acetic acid	down	-1.12	False
+A0A1D8PT71	FGR50	A0A1D8PT71_CANAL	Fgr50p	acetic acid	up	1.12	False
+P13649	URA3	PYRF_CANAL	Orotidine 5'-phosphate decarboxylase	acetic acid	up	1.12	False
+Q5AK02	CAALFM_C505250CA	Q5AK02_CANAL	Small ribosomal subunit protein uS7m	acetic acid	up	1.12	False
+Q5AL10	COX19	COX19_CANAL	Cytochrome c oxidase assembly protein COX19	acetic acid	up	1.12	False
+Q59NQ9	FYV7	FYV7_CANAL	rRNA-processing protein FYV7	acetic acid	up	1.12	False
+A0A1D8PTY7	UBC7	A0A1D8PTY7_CANAL	E2 ubiquitin-conjugating enzyme	acetic acid	down	-1.12	False
+P83778	MDH1	MDHC_CANAL	Malate dehydrogenase, cytoplasmic	acetic acid	down	-1.12	False
+A0A1D8PH91	CAALFM_C204790CA	A0A1D8PH91_CANAL	Mitochondrial 37S ribosomal protein MRP51	acetic acid	up	1.12	False
+A0A1D8PN61	SNF1	A0A1D8PN61_CANAL	Serine/threonine-protein	acetic acid	down	-1.12	False
+A0A1D8PS34	CAALFM_CR01950WA	A0A1D8PS34_CANAL	DNA-directed RNA polymerase subunit	acetic acid	up	1.11	False
+Q5A389	RPS20	RS20_CANAL	Small ribosomal subunit protein uS10	acetic acid	up	1.11	False
+Q5ALX8	APT1	APT_CANAL	Adenine phosphoribosyltransferase	acetic acid	up	1.11	False
+A0A1D8PIS4	TPS3	A0A1D8PIS4_CANAL	Trehalose 6-phosphate synthase/phosphatase complex subunit	acetic acid	down	-1.11	False
+A0A1D8PI22	AIF1	AIF1_CANAL	Apoptosis-inducing factor 1	acetic acid	down	-1.11	True
+A0A1D8PRL2	CAALFM_C704260WA	A0A1D8PRL2_CANAL	Ribosome dissociation factor GTPase	acetic acid	down	-1.11	False
+Q59WK1	CAALFM_C111150WA	Q59WK1_CANAL	26S proteasome regulatory subunit	acetic acid	down	-1.11	False
+A0A1D8PMU8	CAALFM_C500150CA	A0A1D8PMU8_CANAL	Importin subunit alpha	acetic acid	down	-1.1	False
+Q5ALV8	CDC55	Q5ALV8_CANAL	Protein phosphatase PP2A regulatory subunit B	acetic acid	down	-1.1	False
+A0A1D8PKV4	FUM12	A0A1D8PKV4_CANAL	fumarate hydratase	acetic acid	up	1.1	False
+A0A1D8PLW9	CAALFM_C403770WA	A0A1D8PLW9_CANAL	Uncharacterized protein	acetic acid	up	1.1	False
+A0A1D8PH42	BAT21	A0A1D8PH42_CANAL	Branched-chain-amino-acid aminotransferase	acetic acid	down	-1.1	False
+A0A1D8PQR2	CAALFM_C701020CA	A0A1D8PQR2_CANAL	Mitochondrial 37S ribosomal protein MRPS16	acetic acid	up	1.1	False
+A0A1D8PJL3	CAALFM_C302760CA	A0A1D8PJL3_CANAL	Nucleolar protein Dnt1-like N-terminal domain-containing protein	acetic acid	down	-1.1	False
+A0A1D8PJK2	DTD2	A0A1D8PJK2_CANAL	D-aminoacyl-tRNA deacylase	acetic acid	up	1.1	False
+P31225	CBP1	CBP1_CANAL	Corticosteroid-binding protein	acetic acid	down	-1.1	False
+A0A1D8PDU0	CAALFM_C106560WA	A0A1D8PDU0_CANAL	Uncharacterized conserved protein YGR117C-like C-terminal domain-containing protein	acetic acid	down	-1.09	False
+Q5A0H8	ECS3	Q5A0H8_CANAL	Ubiquitin fusion degradation protein 1	acetic acid	down	-1.09	False
+A0A1D8PF48	ERP5	A0A1D8PF48_CANAL	Erp5p	acetic acid	down	-1.09	False
+Q59Y36	CAALFM_C208630CA	Q59Y36_CANAL	RNA polymerase II-associated protein 1	acetic acid	down	-1.09	False
+A0A1D8PRR9	CRM1	A0A1D8PRR9_CANAL	Exportin	acetic acid	down	-1.09	False
+Q59U67	TAF4	TAF4_CANAL	Transcription initiation factor TFIID subunit 4	acetic acid	down	-1.09	False
+Q5AGZ7	RPL5	RL5_CANAL	Large ribosomal subunit protein uL18	acetic acid	up	1.09	False
+A0A1D8PRI0	NPT1	A0A1D8PRI0_CANAL	Nicotinate phosphoribosyltransferase	acetic acid	up	1.09	False
+Q59RP7	MRPL4	RM04_CANAL	Large ribosomal subunit protein uL29m	acetic acid	up	1.09	False
+Q59P49	CDC46	Q59P49_CANAL	DNA replication licensing factor MCM5	acetic acid	down	-1.09	False
+A0A1D8PN83	orf19.4149.1	RS11A_CANAL	Small ribosomal subunit protein uS17	acetic acid	up	1.09	False
+A0A1D8PPY8	SAC6	A0A1D8PPY8_CANAL	Fimbrin	acetic acid	down	-1.09	False
+Q5ANA9	RHB1	Q5ANA9_CANAL	GTPase	acetic acid	down	-1.09	False
+Q5A5Q4	CAALFM_C210670WA	Q5A5Q4_CANAL	Ubiquitin domain-containing protein DSK2	acetic acid	up	1.09	False
+A0A1D8PCC3	SIN3	A0A1D8PCC3_CANAL	Transcriptional regulator	acetic acid	down	-1.08	False
+Q59M70	MCR1	MCR1_CANAL	NADH-cytochrome b5 reductase 2	acetic acid	up	1.08	False
+A0A1D8PRF5	SLA2	A0A1D8PRF5_CANAL	Sla2p	acetic acid	down	-1.08	False
+Q5A6M6	SEC26	Q5A6M6_CANAL	Coatomer subunit beta	acetic acid	down	-1.08	False
+A0A1D8PHS1	CAALFM_C206850WA	A0A1D8PHS1_CANAL	Ribosome biogenesis protein SLX9	acetic acid	up	1.08	False
+A0A1D8PFU2	CAALFM_C114030WA	A0A1D8PFU2_CANAL	MEMO1 family protein	acetic acid	down	-1.08	False
+A0A1D8PLY2	CAALFM_C403930CA	A0A1D8PLY2_CANAL	Signal recognition particle subunit SRP14	acetic acid	up	1.08	False
+A0A1D8PPB1	ARD	A0A1D8PPB1_CANAL	D-arabinitol 2-dehydrogenase [ribulose-forming]	acetic acid	up	1.08	False
+Q5AKV7	CAALFM_C113820CA	Q5AKV7_CANAL	Uncharacterized protein	acetic acid	up	1.08	False
+Q5A455	SEC23	SEC23_CANAL	Protein transport protein SEC23	acetic acid	down	-1.08	False
+Q5A2W2	DML1	DML1_CANAL	Protein DML1	acetic acid	up	1.08	False
+A0A1D8PEV9	CAALFM_C110470WA	A0A1D8PEV9_CANAL	Small ribosomal subunit protein uS5m	acetic acid	up	1.08	False
+Q59YH5	MRPL36	Q59YH5_CANAL	Mitochondrial 54S ribosomal protein YmL36	acetic acid	up	1.08	False
+Q5AHY8	MRPL27	Q5AHY8_CANAL	Mitochondrial 54S ribosomal protein YmL27	acetic acid	up	1.08	False
+Q5AHY9	HFL1	Q5AHY9_CANAL	DNA polymerase epsilon noncatalytic subunit	acetic acid	up	1.08	False
+A0A1D8PQM4	RPA135	A0A1D8PQM4_CANAL	DNA-directed RNA polymerase subunit beta	acetic acid	up	1.08	False
+Q59RQ4	MRPL8	Q59RQ4_CANAL	Mitochondrial 54S ribosomal protein YmL8	acetic acid	up	1.08	False
+Q59RK3	CAALFM_C600390WA	Q59RK3_CANAL	serine--tRNA ligase	acetic acid	up	1.07	False
+Q5A5S8	CAALFM_C210460CA	Q5A5S8_CANAL	Methylenetetrahydrofolate reductase (NAD(P)H)	acetic acid	up	1.07	False
+A0A1D8PQQ9	YML6	A0A1D8PQQ9_CANAL	Large ribosomal subunit protein uL4m	acetic acid	up	1.07	False
+Q59QT0	RPO26	Q59QT0_CANAL	DNA-directed RNA polymerases I, II, and III subunit RPABC2	acetic acid	up	1.07	False
+A0A1D8PFV7	MDG1	A0A1D8PFV7_CANAL	Mdg1p	acetic acid	up	1.07	False
+A0A1D8PNC8	PRE4	A0A1D8PNC8_CANAL	Proteasome subunit beta	acetic acid	up	1.07	False
+A0A1D8PL99	RPS6A	RS6A_CANAL	Small ribosomal subunit protein eS6	acetic acid	up	1.07	False
+Q5ANA1	RPL8B	RL8B_CANAL	Large ribosomal subunit protein eL8B	acetic acid	up	1.07	False
+Q59PV8	ATP7	Q59PV8_CANAL	ATP synthase subunit d, mitochondrial	acetic acid	up	1.07	False
+A0A1D8PLT6	CAALFM_C403410WA	A0A1D8PLT6_CANAL	Mitochondrial 54S ribosomal protein YmL22	acetic acid	up	1.07	False
+A0A1D8PNJ2	CAALFM_C502920WA	A0A1D8PNJ2_CANAL	Trimethyllysine dioxygenase	acetic acid	up	1.06	False
+Q5A357	CAALFM_CR08400CA	Q5A357_CANAL	Small ribosomal subunit protein uS13m	acetic acid	up	1.06	False
+Q9B8C9	NAD5	NU5M_CANAL	NADH-ubiquinone oxidoreductase chain 5	acetic acid	up	1.06	True
+Q5AK00	CAALFM_C505270CA	Q5AK00_CANAL	Acinus RNA recognition motif domain-containing protein	acetic acid	up	1.06	True
+Q59MA9	CLU1	CLU_CANAL	Clustered mitochondria protein homolog	acetic acid	down	-1.06	False
+A0A1D8PHY2	CAALFM_C207680WA	A0A1D8PHY2_CANAL	Large ribosomal subunit protein uL5m	acetic acid	up	1.06	False
+Q5A7N3	MZM1	MZM1_CANAL	Mitochondrial zinc maintenance protein 1, mitochondrial	acetic acid	up	1.06	False
+A0A1D8PQU3	CAALFM_C701160CA	A0A1D8PQU3_CANAL	Ribosomal protein/NADH dehydrogenase domain-containing protein	acetic acid	up	1.06	False
+Q59SU1	SAP9	CARP9_CANAL	Secreted aspartic protease 9	acetic acid	down	-1.06	True
+A0A1D8PDL6	RPL7A	RL7A_CANAL	Large ribosomal subunit protein uL30	acetic acid	up	1.06	False
+A0A1D8PNA3	CAALFM_C501870WA	A0A1D8PNA3_CANAL	Peptide alpha-N-acetyltransferase complex A subunit	acetic acid	down	-1.06	False
+A0A1D8PKJ4	LYS9	A0A1D8PKJ4_CANAL	Saccharopine dehydrogenase [NADP(+), L-glutamate-forming]	acetic acid	down	-1.06	True
+A0A1D8PNS0	GUK1	A0A1D8PNS0_CANAL	Guanylate kinase	acetic acid	up	1.06	False
+Q59WV8	CAALFM_C600930CA	Q59WV8_CANAL	Uncharacterized protein	acetic acid	down	-1.05	False
+P34948	PMI1	MPI_CANAL	Mannose-6-phosphate isomerase	acetic acid	up	1.05	False
+Q5AK62	SSD1	SSD1_CANAL	Virulence protein SSD1	acetic acid	down	-1.05	False
+P0CU38	ALS2	ALS2_CANAL	Agglutinin-like protein 2	acetic acid	up	1.05	False
+Q5A5P8	TIF11	Q5A5P8_CANAL	Eukaryotic translation initiation factor 1A	acetic acid	up	1.05	False
+A0A1D8PRA8	CAALFM_C703200CA	A0A1D8PRA8_CANAL	Pyridoxamine 5'-phosphate oxidase Alr4036 family FMN-binding domain-containing protein	acetic acid	up	1.05	False
+A0A1D8PDU3	RPS23A	RS23B_CANAL	Small ribosomal subunit protein uS12	acetic acid	up	1.05	False
+Q59ZU1	YPI2	YPI2_CANAL	Type 1 phosphatases regulator YPI2	acetic acid	up	1.05	False
+Q5A943	HMT1	Q5A943_CANAL	Protein-arginine omega-N methyltransferase	acetic acid	up	1.05	False
+A0A1D8PFV8	CAALFM_C114060WA	A0A1D8PFV8_CANAL	17-beta-hydroxysteroid dehydrogenase-like protein	acetic acid	down	-1.05	False
+Q5A213	RRP9	Q5A213_CANAL	Rrp9p	acetic acid	down	-1.04	False
+A0A1D8PS68	CAALFM_CR02420WA	A0A1D8PS68_CANAL	U three protein 23	acetic acid	down	-1.04	False
+A0A1D8PCA8	CMP1	A0A1D8PCA8_CANAL	Serine/threonine-protein phosphatase	acetic acid	down	-1.04	False
+Q5AQ12	CAF20	CAF20_CANAL	Cap-associated protein CAF20	acetic acid	up	1.04	False
+Q5AC00	MRT4	Q5AC00_CANAL	Ribosome assembly factor mrt4	acetic acid	up	1.04	False
+Q5AK82	CAALFM_C504530WA	Q5AK82_CANAL	Mitochondrial 37S ribosomal protein RSM26	acetic acid	up	1.04	False
+A0A1D8PGA3	COX17	A0A1D8PGA3_CANAL	Copper metallochaperone	acetic acid	up	1.04	True
+A0A1D8PEA2	DPM1	A0A1D8PEA2_CANAL	Dolichol-phosphate mannosyltransferase subunit 1	acetic acid	down	-1.04	False
+Q59KZ1	APE2	APE2_CANAL	Aminopeptidase 2	acetic acid	up	1.04	False
+A0A1D8PDC7	CAALFM_C104600CA	A0A1D8PDC7_CANAL	Uncharacterized protein	acetic acid	up	1.04	False
+A0A1D8PIP3	PHO23	A0A1D8PIP3_CANAL	Chromatin modification-related protein	acetic acid	down	-1.04	False
+A0A1D8PSW5	CAALFM_CR04940WA	A0A1D8PSW5_CANAL	Uncharacterized protein	acetic acid	down	-1.04	False
+Q59W04	GON7	GON7_CANAL	EKC/KEOPS complex subunit GON7	acetic acid	up	1.04	False
+Q59X67	EFG1	EFG1_CANAL	Enhanced filamentous growth protein 1	acetic acid	down	-1.04	False
+A0A1D8PTE4	FLC2	A0A1D8PTE4_CANAL	Flavin adenine dinucleotide transporter	acetic acid	down	-1.03	False
+Q59WT0	ARC18	Q59WT0_CANAL	Actin-related protein 2/3 complex subunit 3	acetic acid	down	-1.03	False
+Q59WI7	CGR1	CGR1_CANAL	rRNA-processing protein CGR1	acetic acid	up	1.03	False
+Q5AC35	CAALFM_C602460CA	Q5AC35_CANAL	Ubiquinol-cytochrome c chaperone domain-containing protein	acetic acid	up	1.03	False
+A0A1D8PGX7	CAALFM_C203410WA	A0A1D8PGX7_CANAL	SED5-binding protein 3	acetic acid	down	-1.03	False
+A0A1D8PTI0	SMB1	A0A1D8PTI0_CANAL	Sm protein B	acetic acid	up	1.03	False
+A0A1D8PS15	SHP1	A0A1D8PS15_CANAL	Protein phosphatase regulator	acetic acid	up	1.03	False
+Q5AH90	ROM2	Q5AH90_CANAL	Rho family guanine nucleotide exchange factor	acetic acid	down	-1.03	False
+Q5A6R2	ADE17	Q5A6R2_CANAL	Bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	acetic acid	up	1.03	False
+A0A1D8PPW1	CAALFM_C602370CA	A0A1D8PPW1_CANAL	Small ribosomal subunit protein mS29	acetic acid	up	1.03	False
+A0A1D8PRP6	CAALFM_CR00490WA	A0A1D8PRP6_CANAL	Large ribosomal subunit protein uL3m	acetic acid	up	1.03	False
+A0A1D8PMP5	CAALFM_C406840WA	A0A1D8PMP5_CANAL	Translin	acetic acid	up	1.03	False
+Q5AJ69	CAALFM_C301280WA	Q5AJ69_CANAL	LOG family protein	acetic acid	down	-1.02	False
+A0A1D8PSC5	RPL28	RL28_CANAL	Large ribosomal subunit protein uL15	acetic acid	up	1.02	False
+Q5A034	MCM2	Q5A034_CANAL	DNA replication licensing factor MCM2	acetic acid	down	-1.02	False
+Q5ALV6	RPS26A	RS26A_CANAL	Small ribosomal subunit protein eS26	acetic acid	up	1.02	False
+Q5A0H3	SER2	Q5A0H3_CANAL	phosphoserine phosphatase	acetic acid	up	1.02	True
+A0A1D8PSF5	KTI12	A0A1D8PSF5_CANAL	Kti12p	acetic acid	up	1.02	False
+A0A1D8PJS2	YAH1	A0A1D8PJS2_CANAL	Adrenodoxin	acetic acid	up	1.02	False
+A0A1D8PRB6	PUP3	A0A1D8PRB6_CANAL	Proteasome subunit beta	acetic acid	up	1.02	False
+A0A1D8PS45	ADH5	A0A1D8PS45_CANAL	Adh5p	acetic acid	down	-1.02	True
+Q5AG68	YNK1	Q5AG68_CANAL	Nucleoside diphosphate kinase	acetic acid	up	1.02	False
+A0A1D8PSR2	CAALFM_CR04300WA	A0A1D8PSR2_CANAL	tRNA (Cytosine-5-)-methyltransferase	acetic acid	up	1.02	False
+A0A1D8PHS4	CAALFM_C207000WA	A0A1D8PHS4_CANAL	Uncharacterized protein	acetic acid	up	1.02	False
+Q5A4Z9	MRP17	Q5A4Z9_CANAL	Small ribosomal subunit protein bS6m	acetic acid	up	1.02	False
+A0A1D8PNY3	CAALFM_C504410CA	A0A1D8PNY3_CANAL	pH-response transcription factor pacC/RIM101	acetic acid	down	-1.02	True
+A0A1D8PJD2	CAALFM_C302180CA	A0A1D8PJD2_CANAL	Deoxyhypusine synthase	acetic acid	up	1.01	False
+Q9UVJ4	RPL10A	RL10A_CANAL	Large ribosomal subunit protein uL1	acetic acid	up	1.01	False
+A0A1D8PRU4	ARC19	A0A1D8PRU4_CANAL	Actin-related protein 2/3 complex subunit 4	acetic acid	down	-1.01	False
+Q5A885	SRP54	Q5A885_CANAL	Signal recognition particle 54 kDa protein	acetic acid	down	-1.01	False
+Q5AJS6	MRD1	MRD1_CANAL	Multiple RNA-binding domain-containing protein 1	acetic acid	down	-1.01	False
+A0A1D8PCW3	GOR1	A0A1D8PCW3_CANAL	Glyoxylate reductase	acetic acid	down	-1.0	False
+O59931	RPL13	RL13_CANAL	Large ribosomal subunit protein eL13	acetic acid	up	1.0	False
+A0A1D8PN37	CAALFM_C501190WA	A0A1D8PN37_CANAL	FIST domain-containing protein	acetic acid	up	1.0	False
+A0A1D8PRE2	PNC1	A0A1D8PRE2_CANAL	nicotinamidase	acetic acid	up	1.0	False
+Q59NG6	CAALFM_C600550WA	Q59NG6_CANAL	Mitochondrial 37S ribosomal protein PET123	acetic acid	up	1.0	False
+A0A1D8PD31	RPP1	A0A1D8PD31_CANAL	RNA-binding RNA processing protein	acetic acid	up	1.0	False
+A0A1D8PL37	HIS5	A0A1D8PL37_CANAL	histidinol-phosphate transaminase	acetic acid	down	-1.0	False
+Q5AF03	GLX3	HSP31_CANAL	Glyoxalase 3	acetic acid	down	-1.0	True
+A0A1D8PNG6	UAP1	A0A1D8PNG6_CANAL	UDP-N-acetylglucosamine diphosphorylase	acetic acid	up	1.0	False
+Q5A330	PEX19	Q5A330_CANAL	Pex19p	acetic acid	down	-1.0	False
+Q5A015	CAALFM_CR03740CA	Q5A015_CANAL	Riboflavin kinase	acetic acid	up	1.0	False
+A0A1D8PH96	RHO3	A0A1D8PH96_CANAL	GTP-binding protein RHO3	acetic acid	down	-0.99	False
+Q5APF2	GUA1	GUAA_CANAL	GMP synthase [glutamine-hydrolyzing]	acetic acid	up	0.99	False
+A0A1D8PS57	CAALFM_CR02100CA	A0A1D8PS57_CANAL	tRNA-binding domain-containing protein	acetic acid	up	0.99	False
+Q5A7K0	RPS24	RS24_CANAL	Small ribosomal subunit protein eS24	acetic acid	up	0.99	False
+A0A1D8PEL1	ERG12	ERG12_CANAL	Mevalonate kinase	acetic acid	up	0.99	False
+Q5AG89	TRR1	Q5AG89_CANAL	Thioredoxin reductase	acetic acid	up	0.99	True
+Q5A6K5	CAALFM_CR04580WA	Q5A6K5_CANAL	Large ribosomal subunit protein bL32m	acetic acid	up	0.99	False
+A0A1D8PGY0	RPL21A	RL21A_CANAL	Large ribosomal subunit protein eL21	acetic acid	up	0.99	False
+Q5AJF7	RPL12	RL12_CANAL	Large ribosomal subunit protein uL11	acetic acid	up	0.99	False
+A0A1D8PST9	CAALFM_CR04650WA	A0A1D8PST9_CANAL	Tubulin-specific chaperone A	acetic acid	up	0.99	False
+O94150	MRPS9	RT09_CANAL	Small ribosomal subunit protein uS9m	acetic acid	up	0.98	False
+Q5A893	CAP01	CAPZA_CANAL	F-actin-capping protein subunit alpha	acetic acid	down	-0.98	False
+Q5A7P7	ATP5	Q5A7P7_CANAL	ATP synthase subunit 5, mitochondrial	acetic acid	up	0.98	False
+A0A1D8PF30	CAALFM_C111110CA	A0A1D8PF30_CANAL	Tubulin-binding prefolding complex subunit	acetic acid	up	0.98	False
+A0A1D8PHQ0	CAALFM_C206660WA	A0A1D8PHQ0_CANAL	Exosome non-catalytic core subunit	acetic acid	up	0.98	False
+A0A1D8PCH2	CAALFM_C101470WA	A0A1D8PCH2_CANAL	mRNA-binding protein	acetic acid	up	0.98	False
+Q5ANA3	CDR1	CDR1_CANAL	Pleiotropic ABC efflux transporter of multiple drugs CDR1	acetic acid	down	-0.98	False
+A0A1D8PK71	STM1	STM1_CANAL	Ribosome-associated protein STM1	acetic acid	up	0.98	False
+Q5A644	LYS4	LYS4_CANAL	Homoaconitase, mitochondrial	acetic acid	down	-0.98	True
+Q5A5N0	CAALFM_C210860CA	Q5A5N0_CANAL	Uroporphyrinogen decarboxylase	acetic acid	up	0.98	False
+Q96VB9	MSI3	HSP7F_CANAL	Heat shock protein homolog SSE1	acetic acid	up	0.98	False
+A0A1D8PMT8	CAALFM_C500030WA	A0A1D8PMT8_CANAL	Mitochondrial 54S ribosomal protein MRPL1	acetic acid	up	0.98	False
+Q59SJ6	CAALFM_C400660WA	Q59SJ6_CANAL	Mitochondrial 37S ribosomal protein MRPS17	acetic acid	up	0.98	False
+A0A1D8PI15	RPS10	RS10A_CANAL	Small ribosomal subunit protein eS10	acetic acid	up	0.98	False
+Q5A2K4	CAALFM_C207800WA	Q5A2K4_CANAL	Cytochrome B pre-mRNA-processing protein 6	acetic acid	up	0.98	False
+Q59R31	ARG4	Q59R31_CANAL	Argininosuccinate lyase	acetic acid	down	-0.97	False
+Q9UVL1	NHP6	NHP6_CANAL	Non-histone chromosomal protein 6	acetic acid	up	0.97	True
+Q5A4Q1	ADK1	KAD2_CANAL	Adenylate kinase	acetic acid	up	0.97	False
+Q59TC4	LYS22	Q59TC4_CANAL	homocitrate synthase	acetic acid	down	-0.97	False
+A0A1D8PNS3	MTR10	A0A1D8PNS3_CANAL	Mtr10p	acetic acid	down	-0.97	False
+Q59YG7	CAALFM_C209930WA	Q59YG7_CANAL	TUG ubiquitin-like domain-containing protein	acetic acid	down	-0.97	False
+A0A1D8PLY1	RRP42	A0A1D8PLY1_CANAL	Ribosomal RNA-processing protein 42	acetic acid	up	0.97	False
+Q5AI14	TPS2	Q5AI14_CANAL	Trehalose-phosphatase	acetic acid	down	-0.97	False
+P83774	ASC1	GBLP_CANAL	Small ribosomal subunit protein RACK1	acetic acid	up	0.96	False
+A0A1D8PCG3	TRM2	A0A1D8PCG3_CANAL	tRNA (uracil(54)-C(5))-methyltransferase	acetic acid	up	0.96	False
+A0A1D8PKZ5	CAALFM_C307690CA	A0A1D8PKZ5_CANAL	Translin	acetic acid	up	0.96	False
+Q59TU0	EGD1	NACB_CANAL	Nascent polypeptide-associated complex subunit beta	acetic acid	up	0.96	False
+A0A1D8PRG0	MRP7	A0A1D8PRG0_CANAL	Large ribosomal subunit protein bL27m	acetic acid	up	0.96	False
+A0A1D8PFW6	CAALFM_C114310WA	A0A1D8PFW6_CANAL	Deoxycytidylate deaminase	acetic acid	up	0.96	False
+Q5AIB3	CAALFM_C102510WA	Q5AIB3_CANAL	Protein transport protein BOS1	acetic acid	up	0.96	False
+A0A1D8PSM6	SEC63	A0A1D8PSM6_CANAL	Protein-transporting protein	acetic acid	down	-0.96	False
+Q59PE7	BCP1	BCP1_CANAL	Protein BCP1	acetic acid	down	-0.96	False
+Q59QC1	CAALFM_C108520CA	Q59QC1_CANAL	Large ribosomal subunit protein mL40	acetic acid	up	0.96	False
+Q59S64	HRR25	HRR25_CANAL	Serine/threonine protein kinase HRR25	acetic acid	down	-0.96	False
+A0A1D8PLH1	TIM10	A0A1D8PLH1_CANAL	Mitochondrial import inner membrane translocase subunit	acetic acid	up	0.96	False
+A0A1D8PTD1	URA2	A0A1D8PTD1_CANAL	Pyrimidine-specific carbamoyl phosphate synthase-aspartate carbamoyl transferase	acetic acid	down	-0.95	False
+Q5A1Q0	CAALFM_C501230CA	Q5A1Q0_CANAL	Glucose-6-phosphate 1-epimerase	acetic acid	up	0.95	False
+A0A1D8PRL3	CAALFM_CR00090CA	A0A1D8PRL3_CANAL	NAD(P)-binding domain-containing protein	acetic acid	down	-0.95	False
+Q5AJ92	RKI1	RPIA_CANAL	Ribose-5-phosphate isomerase	acetic acid	up	0.95	False
+A0A1D8PKK1	CAALFM_C306750WA	A0A1D8PKK1_CANAL	Translocon subunit	acetic acid	down	-0.95	False
+A0A1D8PCD2	NMA111	A0A1D8PCD2_CANAL	Pro-apoptotic serine protease NMA111	acetic acid	up	0.95	False
+Q5A109	UBI3	RS31_CANAL	Ubiquitin-ribosomal protein eS31 fusion protein	acetic acid	up	0.95	False
+Q5AK51	SFL2	SFL2_CANAL	Transcription factor SFL2	acetic acid	up	0.95	False
+Q5A0V4	CAALFM_C406670WA	Q5A0V4_CANAL	CASTOR ACT domain-containing protein	acetic acid	down	-0.95	False
+Q5A7P6	CAALFM_C300450CA	Q5A7P6_CANAL	Large ribosomal subunit protein uL2m	acetic acid	up	0.95	False
+Q59PA3	YFH1	Q59PA3_CANAL	ferroxidase	acetic acid	up	0.95	False
+A0A1D8PGT5	ALD5	A0A1D8PGT5_CANAL	Aldehyde dehydrogenase (NAD(P)(+))	acetic acid	up	0.95	False
+Q5APD5	RFA3	Q5APD5_CANAL	Replication factor A protein 3	acetic acid	down	-0.95	False
+Q5AI79	YKT6	Q5AI79_CANAL	Synaptobrevin homolog YKT6	acetic acid	down	-0.95	False
+Q5ACL9	BFR2	BFR2_CANAL	Protein BFR2	acetic acid	down	-0.95	False
+Q5AFB3	TYS1	Q5AFB3_CANAL	Tyrosine--tRNA ligase	acetic acid	up	0.95	False
+A0A1D8PQ89	CAALFM_C603730CA	A0A1D8PQ89_CANAL	Mitochondrial 37S ribosomal protein MRP4	acetic acid	up	0.94	False
+A0A1D8PSU3	MVB12	A0A1D8PSU3_CANAL	Mvb12p	acetic acid	up	0.94	False
+A0A1D8PKH4	CAALFM_C306440WA	A0A1D8PKH4_CANAL	FG-nucleoporin	acetic acid	up	0.94	False
+Q5ABP8	ROT1	ROT1_CANAL	Protein ROT1	acetic acid	down	-0.94	False
+A0A1D8PS48	MCM6	A0A1D8PS48_CANAL	DNA replication licensing factor MCM6	acetic acid	down	-0.94	False
+A0A1D8PHW1	RPL11	RL11_CANAL	Large ribosomal subunit protein uL5	acetic acid	up	0.94	False
+Q5AK46	PUT2	Q5AK46_CANAL	Multifunctional fusion protein	acetic acid	up	0.94	False
+A0A1D8PCJ7	MAK32	A0A1D8PCJ7_CANAL	Mak32p	acetic acid	up	0.94	False
+Q5ALN2	CAALFM_C202270CA	Q5ALN2_CANAL	Small ribosomal subunit protein uS8m	acetic acid	up	0.94	False
+A0A1D8PT66	CAALFM_CR05980WA	A0A1D8PT66_CANAL	Ubiquitin carboxyl-terminal hydrolase	acetic acid	down	-0.94	False
+A0A1D8PI00	GDH2	A0A1D8PI00_CANAL	NAD-specific glutamate dehydrogenase	acetic acid	up	0.94	True
+A0A1D8PRA1	CAALFM_C703000CA	A0A1D8PRA1_CANAL	Large ribosomal subunit protein bL21m	acetic acid	up	0.94	False
+A0A1D8PH93	CAALFM_C204490WA	A0A1D8PH93_CANAL	DUF1014-domain-containing protein	acetic acid	up	0.94	False
+Q59T44	RPS8A	RS8A_CANAL	Small ribosomal subunit protein eS8	acetic acid	up	0.94	False
+A0A1D8PGR5	CAALFM_C202540WA	A0A1D8PGR5_CANAL	rRNA biogenesis protein RRP5	acetic acid	down	-0.94	False
+A0A1D8PSF1	CAALFM_CR03330WA	A0A1D8PSF1_CANAL	TRIP4/RQT4 C2HC5-type zinc finger domain-containing protein	acetic acid	up	0.94	True
+A0A1D8PH20	SMX2	A0A1D8PH20_CANAL	Small nuclear ribonucleoprotein G	acetic acid	up	0.93	False
+Q59N76	BUD7	Q59N76_CANAL	Exomer complex subunit	acetic acid	down	-0.93	False
+A0A1D8PRY0	CAALFM_CR01370CA	A0A1D8PRY0_CANAL	Mitochondrial 37S ribosomal protein MRPS28	acetic acid	up	0.93	False
+Q59ZI7	MRPL10	Q59ZI7_CANAL	Mitochondrial 54S ribosomal protein YmL10/YmL18	acetic acid	up	0.93	False
+Q5APE1	CAALFM_C109610WA	Q5APE1_CANAL	YAL037W N-terminal domain-containing protein	acetic acid	down	-0.93	False
+Q5AJZ5	PRE1	Q5AJZ5_CANAL	Proteasome subunit beta	acetic acid	up	0.93	True
+P83784	SSC1	HSP77_CANAL	Heat shock protein SSC1, mitochondrial	acetic acid	up	0.93	False
+Q5A363	CAALFM_CR08330WA	Q5A363_CANAL	Uncharacterized protein	acetic acid	down	-0.92	False
+A0A1D8PHX2	RCL1	A0A1D8PHX2_CANAL	rRNA-processing endoribonuclease	acetic acid	down	-0.92	False
+A0A1D8PTY6	PRE8	A0A1D8PTY6_CANAL	Proteasome subunit alpha type	acetic acid	up	0.92	True
+Q8TG40	HBR1	KAD6_CANAL	Adenylate kinase isoenzyme 6 homolog HBR1	acetic acid	up	0.92	False
+A0A1D8PP14	RPL43A	RL43A_CANAL	Large ribosomal subunit protein eL43	acetic acid	up	0.92	False
+Q5AJC0	UTR2	UTR2_CANAL	Crh-like protein UTR2	acetic acid	down	-0.92	False
+A0A1D8PQG5	SAC7	A0A1D8PQG5_CANAL	Sac7p	acetic acid	down	-0.92	False
+A0A1D8PHW4	MCM3	A0A1D8PHW4_CANAL	DNA replication licensing factor MCM3	acetic acid	down	-0.92	False
+P83783	SAH1	SAHH_CANAL	Adenosylhomocysteinase	acetic acid	up	0.92	False
+Q5ANH3	CAALFM_C304700WA	Q5ANH3_CANAL	FG-nucleoporin	acetic acid	up	0.91	False
+A0A1D8PNP6	CAALFM_C503550WA	A0A1D8PNP6_CANAL	Nucleoporin	acetic acid	up	0.91	False
+Q5AH60	TRM82	TRM82_CANAL	tRNA (guanine-N(7)-)-methyltransferase non-catalytic subunit TRM82	acetic acid	up	0.91	False
+A0A1D8PT02	PST3	PST3_CANAL	NAD(P)H quinone oxidoreductase PST3	acetic acid	down	-0.91	False
+Q5AA46	CAALFM_C106070WA	Q5AA46_CANAL	Mitochondrial 37S ribosomal protein MRPS12	acetic acid	up	0.91	False
+A0A1D8PSN8	CAALFM_CR04170WA	A0A1D8PSN8_CANAL	Nucleolar protein 2	acetic acid	down	-0.91	False
+A0A1D8PHE0	CAALFM_C205300CA	A0A1D8PHE0_CANAL	Mitochondrial 37S ribosomal protein MRPS35	acetic acid	up	0.91	False
+A0A1D8PCT0	GSC1	A0A1D8PCT0_CANAL	1,3-beta-glucan synthase	acetic acid	down	-0.91	False
+Q5A2A0	RPT1	Q5A2A0_CANAL	26S proteasome regulatory subunit 7 homolog	acetic acid	down	-0.91	False
+A0A1D8PMK3	NUP60	A0A1D8PMK3_CANAL	FG-nucleoporin	acetic acid	up	0.91	False
+Q5ADW1	CAALFM_C307600WA	Q5ADW1_CANAL	WKF domain-containing protein	acetic acid	up	0.91	False
+P40910	RPS1	RS3A_CANAL	Small ribosomal subunit protein eS1	acetic acid	up	0.91	False
+Q5AJY5	PGA4	PGA4_CANAL	1,3-beta-glucanosyltransferase PGA4	acetic acid	up	0.91	True
+A0A1D8PSJ6	VTC3	A0A1D8PSJ6_CANAL	Vacuolar transporter chaperone	acetic acid	down	-0.91	False
+A0A1D8PPH3	AIP5	A0A1D8PPH3_CANAL	Uncharacterized protein	acetic acid	up	0.91	False
+A0A1D8PCI6	RPS42	RS4_CANAL	Small ribosomal subunit protein eS4	acetic acid	up	0.9	False
+Q5APR8	CLA4	CLA4_CANAL	Serine/threonine-protein kinase CLA4	acetic acid	down	-0.9	False
+A0A1D8PEX3	RPA190	A0A1D8PEX3_CANAL	DNA-directed RNA polymerase subunit	acetic acid	up	0.9	False
+Q59SJ2	SEC72	Q59SJ2_CANAL	Sec63 complex subunit	acetic acid	down	-0.9	False
+A0A1D8PM19	CAALFM_C404240CA	A0A1D8PM19_CANAL	Uncharacterized protein	acetic acid	down	-0.9	True
+A0A1D8PND4	CAALFM_C502190CA	A0A1D8PND4_CANAL	Mitochondrial 37S ribosomal protein YMR31	acetic acid	up	0.9	False
+A0A1D8PC43	MVD	MVD1_CANAL	Diphosphomevalonate decarboxylase	acetic acid	up	0.9	False
+Q59VX1	CAALFM_C102300WA	Q59VX1_CANAL	Prefolding complex chaperone subunit	acetic acid	up	0.9	False
+Q5A2L2	PRS5	Q5A2L2_CANAL	ribose-phosphate diphosphokinase	acetic acid	up	0.9	False
+Q5ALU1	CAALFM_C201740CA	Q5ALU1_CANAL	Large ribosomal subunit protein mL60	acetic acid	up	0.9	False
+Q5AND4	RDI1	Q5AND4_CANAL	Rho GDP-dissociation inhibitor	acetic acid	up	0.9	False
+A0A1D8PKI3	CAALFM_C306490WA	A0A1D8PKI3_CANAL	Acetyltransferase	acetic acid	down	-0.9	False
+Q9P840	YAE1	YAE1_CANAL	Protein YAE1	acetic acid	up	0.9	False
+A0A1D8PJ76	CAALFM_C301520CA	A0A1D8PJ76_CANAL	Zinc finger CCCH domain-containing protein 15	acetic acid	up	0.89	False
+A0A1D8PF97	CAALFM_C111930WA	A0A1D8PF97_CANAL	PH domain-containing protein	acetic acid	down	-0.89	False
+Q5A895	HSE1	HSE1_CANAL	Class E vacuolar protein-sorting machinery protein HSE1	acetic acid	down	-0.89	False
+A0A1D8PM75	RPL30	RL30_CANAL	Large ribosomal subunit protein eL30	acetic acid	up	0.89	False
+A0A1D8PTG5	SMX4	A0A1D8PTG5_CANAL	LSM complex subunit LSM3	acetic acid	up	0.89	False
+Q59NQ5	GLR1	Q59NQ5_CANAL	Glutathione reductase	acetic acid	up	0.89	True
+Q59X93	CAALFM_C500820WA	Q59X93_CANAL	Large ribosomal subunit protein mL46	acetic acid	up	0.89	False
+Q5AD27	TAH18	NDOR1_CANAL	NADPH-dependent diflavin oxidoreductase 1	acetic acid	up	0.89	False
+Q5AAR2	CAALFM_C106600WA	Q5AAR2_CANAL	Protein SCD6	acetic acid	up	0.89	False
+Q5ABB8	CNS1	Q5ABB8_CANAL	HSP70/90 family co-chaperone	acetic acid	up	0.89	False
+Q5AD31	CAALFM_C200880WA	Q5AD31_CANAL	D-xylose 1-dehydrogenase (NADP(+), D-xylono-1,5-lactone-forming)	acetic acid	up	0.89	False
+Q59TN2	CAALFM_C403740WA	Q59TN2_CANAL	Exosome non-catalytic core subunit	acetic acid	up	0.89	False
+Q59MG2	CAALFM_C205830CA	Q59MG2_CANAL	Hsp90 cochaperone	acetic acid	up	0.89	False
+Q5AHF9	GNA1	Q5AHF9_CANAL	Glucosamine 6-phosphate N-acetyltransferase	acetic acid	up	0.89	False
+Q59ZZ8	CAALFM_CR03470WA	Q59ZZ8_CANAL	CIP1 helical domain-containing protein	acetic acid	down	-0.88	False
+A0A1D8PGR8	MUD2	A0A1D8PGR8_CANAL	RRM domain-containing protein	acetic acid	down	-0.88	False
+A0A1D8PCI5	CAALFM_C101530CA	A0A1D8PCI5_CANAL	arginine--tRNA ligase	acetic acid	up	0.88	False
+A0A1D8PNW1	SCW11	A0A1D8PNW1_CANAL	Glucan endo-1\3-beta-D-glucosidase	acetic acid	up	0.88	False
+Q5A8X7	FYV4	FYV4_CANAL	Small ribosomal subunit protein mS41	acetic acid	up	0.88	False
+Q59QT3	FUR1	Q59QT3_CANAL	uracil phosphoribosyltransferase	acetic acid	up	0.88	False
+P10613	ERG11	CP51_CANAL	Lanosterol 14-alpha demethylase	acetic acid	down	-0.88	False
+Q5A8Z4	SOD2	Q5A8Z4_CANAL	Superoxide dismutase	acetic acid	up	0.88	False
+A0A1D8PH52	ERG10	ERG10_CANAL	Acetyl-CoA acetyltransferase	acetic acid	up	0.88	False
+A0A1D8PKC7	CAALFM_C305940CA	A0A1D8PKC7_CANAL	RRM domain-containing protein	acetic acid	up	0.88	False
+Q5AGY0	CAALFM_C701660CA	Q5AGY0_CANAL	Protein transport protein SEC23	acetic acid	down	-0.87	False
+A0A1D8PSW9	CAALFM_CR05150WA	A0A1D8PSW9_CANAL	Large ribosomal subunit protein mL53	acetic acid	up	0.87	False
+A0A1D8PH56	CAALFM_C204380CA	A0A1D8PH56_CANAL	Folylpolyglutamate synthase	acetic acid	down	-0.87	False
+A0A1D8PMK4	CAALFM_C406470WA	A0A1D8PMK4_CANAL	Uncharacterized protein	acetic acid	down	-0.87	False
+Q5ADT9	RSM10	RT10_CANAL	Small ribosomal subunit protein uS10m	acetic acid	up	0.87	False
+Q5AI21	SEC62	SEC62_CANAL	Translocation protein SEC62	acetic acid	down	-0.87	False
+A0A1D8PSY1	GLN1	A0A1D8PSY1_CANAL	Glutamine synthetase	acetic acid	up	0.87	False
+Q5AFT3	CFT1	CFT1_CANAL	Protein CFT1	acetic acid	down	-0.87	False
+A0A1D8PQR7	CAALFM_C700910CA	A0A1D8PQR7_CANAL	PWWP domain-containing protein	acetic acid	down	-0.87	False
+A0A1D8PH53	CAK1	A0A1D8PH53_CANAL	Serine/threonine-protein	acetic acid	up	0.87	False
+Q59VX8	SEP7	SHS1_CANAL	Septation protein 7	acetic acid	down	-0.87	False
+Q59XQ1	HAL22	HAL22_CANAL	3'(2'),5'-bisphosphate nucleotidase 2	acetic acid	up	0.87	False
+A0A1D8PIA6	SLP2	A0A1D8PIA6_CANAL	Slp2p	acetic acid	up	0.87	False
+Q5ACI8	CPR6	PPID_CANAL	Peptidyl-prolyl cis-trans isomerase D	acetic acid	up	0.87	True
+Q59WG3	CDC48	Q59WG3_CANAL	AAA family ATPase involved in ubiquitin-mediated protein degradation CDC48	acetic acid	down	-0.87	False
+Q5A0W7	RVB1	RUVB1_CANAL	RuvB-like helicase 1	acetic acid	down	-0.87	False
+A0A1D8PD97	CAALFM_C104360CA	A0A1D8PD97_CANAL	ATPase inhibitor, mitochondrial	acetic acid	up	0.86	False
+Q5A318	ECI1	Q5A318_CANAL	Dodecenoyl-CoA isomerase	acetic acid	down	-0.86	True
+A0A1D8PLP8	UBR1	A0A1D8PLP8_CANAL	E3 ubiquitin-protein ligase	acetic acid	down	-0.86	False
+A0A1D8PF45	RPL37B	RL37B_CANAL	Large ribosomal subunit protein eL37	acetic acid	up	0.86	False
+A0A1D8PFG4	RPL27A	RL27A_CANAL	Large ribosomal subunit protein eL27	acetic acid	up	0.86	False
+A0A1D8PS97	PAN6	A0A1D8PS97_CANAL	Pantoate--beta-alanine ligase	acetic acid	up	0.86	False
+A0A1D8PPM0	OYE2	A0A1D8PPM0_CANAL	Probable NADPH dehydrogenase	acetic acid	down	-0.86	True
+A0A1D8PQD5	CAALFM_C604250WA	A0A1D8PQD5_CANAL	Cytochrome c oxidase subunit	acetic acid	up	0.86	False
+Q5AK79	URA7	Q5AK79_CANAL	CTP synthase	acetic acid	up	0.86	False
+P46587	SSA2	HSP72_CANAL	Heat shock protein SSA2	acetic acid	up	0.86	False
+Q5A2T0	NSA1	NSA1_CANAL	Ribosome biogenesis protein NSA1	acetic acid	up	0.86	False
+Q5AF81	GRX3	Q5AF81_CANAL	Monothiol glutaredoxin	acetic acid	down	-0.86	False
+Q5A6A1	RPL24A	RL24A_CANAL	Large ribosomal subunit protein eL24	acetic acid	up	0.86	False
+Q59M28	CAALFM_C112570CA	Q59M28_CANAL	Elongator complex protein 4	acetic acid	down	-0.85	False
+A0A1D8PSS4	PRE6	A0A1D8PSS4_CANAL	Proteasome subunit alpha type	acetic acid	up	0.85	True
+A0A1D8PE97	GCV2	A0A1D8PE97_CANAL	Glycine cleavage system P protein	acetic acid	up	0.85	False
+A0A1D8PSW6	CAALFM_CR04870CA	A0A1D8PSW6_CANAL	Aldehyde dehydrogenase domain-containing protein	acetic acid	up	0.85	True
+Q5AF54	TIM13	TIM13_CANAL	Mitochondrial import inner membrane translocase subunit TIM13	acetic acid	up	0.85	False
+A0A1D8PKZ3	SUB2	A0A1D8PKZ3_CANAL	ATP-dependent RNA helicase SUB2	acetic acid	down	-0.85	False
+Q5ACW5	CKB1	Q5ACW5_CANAL	Casein kinase II subunit beta	acetic acid	down	-0.84	False
+A0A1D8PPX7	NAB3	A0A1D8PPX7_CANAL	Nab3p	acetic acid	up	0.84	True
+Q5AG73	MDE1	MTNB_CANAL	Methylthioribulose-1-phosphate dehydratase	acetic acid	up	0.84	False
+Q5A4W7	FAS1	Q5A4W7_CANAL	Fatty acid synthase subunit beta	acetic acid	up	0.84	False
+A0A1D8PKJ5	CAALFM_C306610WA	A0A1D8PKJ5_CANAL	BNI5 helical domain-containing protein	acetic acid	up	0.84	False
+A0A1D8PR61	CAALFM_C702560WA	A0A1D8PR61_CANAL	Uncharacterized protein	acetic acid	down	-0.84	False
+Q5ANE3	NCE102	NCE2_CANAL	Non-classical export protein 102	acetic acid	down	-0.84	False
+A0A1D8PRQ4	CAALFM_CR00430CA	A0A1D8PRQ4_CANAL	BolA-like protein	acetic acid	up	0.84	False
+Q5A0V9	NOP1	Q5A0V9_CANAL	rRNA 2'-O-methyltransferase fibrillarin	acetic acid	down	-0.84	False
+Q59XW4	ACS1	Q59XW4_CANAL	Acetyl-coenzyme A synthetase	acetic acid	up	0.84	False
+Q5AKX1	GCV3	Q5AKX1_CANAL	Glycine cleavage system H protein	acetic acid	up	0.84	False
+Q59P50	YSH1	YSH1_CANAL	Endoribonuclease YSH1	acetic acid	down	-0.84	False
+Q5ADU2	KRS1	Q5ADU2_CANAL	Lysine--tRNA ligase	acetic acid	up	0.84	False
+Q5AGF0	CAALFM_C502220CA	Q5AGF0_CANAL	Polyphosphatase	acetic acid	up	0.84	False
+A0A1D8PTZ1	CAALFM_CR09330CA	A0A1D8PTZ1_CANAL	Uncharacterized protein	acetic acid	down	-0.84	False
+A0A1D8PLE6	CAALFM_C401460CA	A0A1D8PLE6_CANAL	Thioredoxin-like fold domain-containing protein	acetic acid	up	0.84	False
+A0A1D8PHP8	FRP3	A0A1D8PHP8_CANAL	Ammonium permease	acetic acid	down	-0.84	True
+Q5A3M0	CAALFM_C112140WA	Q5A3M0_CANAL	CoA-binding domain-containing protein	acetic acid	down	-0.83	False
+A0A1D8PND9	RET2	A0A1D8PND9_CANAL	Coatomer subunit delta	acetic acid	down	-0.83	False
+A0A1D8PRI6	CAALFM_C704140CA	A0A1D8PRI6_CANAL	Uncharacterized protein	acetic acid	up	0.83	False
+Q5AQ76	SEC24	SEC24_CANAL	Protein transport protein SEC24	acetic acid	down	-0.83	False
+Q5AEN6	MED7	MED7_CANAL	Mediator of RNA polymerase II transcription subunit 7	acetic acid	down	-0.83	False
+Q5A359	GSH2	Q5A359_CANAL	Glutathione synthetase	acetic acid	up	0.83	False
+A0A1D8PDC6	DUR1:2	A0A1D8PDC6_CANAL	Urea amidolyase	acetic acid	up	0.83	False
+A0A1D8PL14	CAR2	A0A1D8PL14_CANAL	Ornithine aminotransferase	acetic acid	up	0.83	False
+Q5A4X7	CAALFM_C500260WA	Q5A4X7_CANAL	Ribose-phosphate pyrophosphokinase 1	acetic acid	up	0.83	False
+Q59QD0	CAF16	Q59QD0_CANAL	ATP-binding cassette family ATPase	acetic acid	up	0.83	False
+A0A1D8PSD6	ERV1	A0A1D8PSD6_CANAL	Sulfhydryl oxidase	acetic acid	up	0.83	True
+A0A1D8PEJ8	GRP1	A0A1D8PEJ8_CANAL	Grp1p	acetic acid	up	0.83	False
+P87206	TIF1	IF4A_CANAL	ATP-dependent RNA helicase eIF4A	acetic acid	down	-0.83	False
+A0A1D8PDX5	MMD1	A0A1D8PDX5_CANAL	Isoleucine biosynthesis protein	acetic acid	up	0.83	False
+Q5AHH6	SDS22	Q5AHH6_CANAL	Type 1 protein phosphatase-activating protein	acetic acid	up	0.83	False
+A0A1D8PDW1	CAALFM_C106540CA	A0A1D8PDW1_CANAL	Exosome non-catalytic core subunit	acetic acid	up	0.83	False
+A0A1D8PQ56	NAM2	A0A1D8PQ56_CANAL	leucine--tRNA ligase	acetic acid	up	0.83	False
+Q5A2A2	MHR1	MHR1_CANAL	Large ribosomal subunit protein mL67	acetic acid	up	0.83	False
+A0A1D8PQK5	LEU2	A0A1D8PQK5_CANAL	3-isopropylmalate dehydrogenase	acetic acid	up	0.83	False
+A0A1D8PP33	CAALFM_C504950CA	A0A1D8PP33_CANAL	PhoD-like phosphatase domain-containing protein	acetic acid	down	-0.83	True
+Q5ADQ6	RPS12	RS12_CANAL	Small ribosomal subunit protein eS12	acetic acid	up	0.83	False
+Q5ABD0	SNF7	SNF7_CANAL	Vacuolar-sorting protein SNF7	acetic acid	up	0.83	False
+Q5AA01	RIM1	Q5AA01_CANAL	Single-stranded DNA-binding protein	acetic acid	up	0.82	False
+A0A1D8PCI9	ABC1	A0A1D8PCI9_CANAL	Protein kinase	acetic acid	up	0.82	False
+Q5A6L1	FUM11	Q5A6L1_CANAL	fumarate hydratase	acetic acid	up	0.82	False
+A0A1D8PQM1	GBP2	A0A1D8PQM1_CANAL	Single-stranded telomeric DNA-binding/mRNA-binding protein	acetic acid	up	0.82	False
+O42817	RPS0	RSSA_CANAL	Small ribosomal subunit protein uS2	acetic acid	up	0.82	False
+A0A1D8PMD0	CAALFM_C405640CA	A0A1D8PMD0_CANAL	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase	acetic acid	up	0.82	False
+A0A1D8PJF3	CAALFM_C302350WA	A0A1D8PJF3_CANAL	Kri1-like C-terminal domain-containing protein	acetic acid	down	-0.82	False
+A0A1D8PUB0	LTV1	A0A1D8PUB0_CANAL	Ltv1p	acetic acid	down	-0.82	False
+Q5A6S0	MRPL40	Q5A6S0_CANAL	Mitochondrial 54S ribosomal protein YmL40	acetic acid	up	0.82	False
+Q5A017	TAL1	Q5A017_CANAL	Transaldolase	acetic acid	up	0.82	False
+Q5AMM1	TOA2	Q5AMM1_CANAL	Transcription initiation factor IIA subunit 2	acetic acid	up	0.82	False
+Q5AEF2	SEC13	SEC13_CANAL	Protein transport protein SEC13	acetic acid	down	-0.82	False
+Q59M32	CAALFM_C112610WA	Q59M32_CANAL	Mitochondrial 54S ribosomal protein YmL15	acetic acid	up	0.82	False
+A0A1D8PU06	YKE2	A0A1D8PU06_CANAL	Tubulin-binding prefolding complex subunit	acetic acid	up	0.82	False
+A0A1D8PR52	CAALFM_C702460CA	A0A1D8PR52_CANAL	GPN-loop GTPase	acetic acid	down	-0.82	True
+A0A1D8PRR4	CAALFM_CR00570WA	A0A1D8PRR4_CANAL	Trans-hexaprenyltranstransferase	acetic acid	down	-0.82	False
+A0A1D8PKZ9	ATP2	A0A1D8PKZ9_CANAL	ATP synthase subunit beta	acetic acid	up	0.81	False
+Q59N42	GLC7	Q59N42_CANAL	Serine/threonine-protein phosphatase	acetic acid	up	0.81	False
+A0A1D8PCE7	CAALFM_C101160CA	A0A1D8PCE7_CANAL	Exosome non-catalytic core subunit	acetic acid	up	0.81	False
+A0A1D8PQL1	CAALFM_C700490CA	A0A1D8PQL1_CANAL	Alpha N-terminal protein methyltransferase 1	acetic acid	up	0.81	False
+Q59LT9	RPC19	Q59LT9_CANAL	DNA-directed RNA polymerase core subunit	acetic acid	up	0.81	False
+Q9HGT6	SES1	SYSC_CANAL	Serine--tRNA ligase, cytoplasmic	acetic acid	up	0.81	False
+Q5A692	TRM8	TRMB_CANAL	tRNA (guanine-N(7)-)-methyltransferase	acetic acid	up	0.81	False
+A0A1D8PE30	CAALFM_C107510WA	A0A1D8PE30_CANAL	Pyridoxal phosphate homeostasis protein	acetic acid	up	0.81	False
+A0A1D8PQ05	POP4	A0A1D8PQ05_CANAL	Ribonuclease P protein subunit	acetic acid	up	0.81	False
+A0A1D8PNP0	CAALFM_C503290CA	A0A1D8PNP0_CANAL	Small ribosomal subunit protein mS37	acetic acid	up	0.81	False
+A0A1D8PTN4	NOP10	A0A1D8PTN4_CANAL	H/ACA ribonucleoprotein complex subunit NOP10	acetic acid	up	0.81	False
+A0A1D8PRH6	PRE5	A0A1D8PRH6_CANAL	Proteasome subunit alpha type	acetic acid	up	0.81	True
+A0A1D8PU93	RFC4	A0A1D8PU93_CANAL	Replication factor C subunit 4	acetic acid	down	-0.81	False
+Q5ANE2	CAALFM_C304920CA	Q5ANE2_CANAL	Uncharacterized protein	acetic acid	up	0.81	True
+Q5A513	UBC13	Q5A513_CANAL	E2 ubiquitin-conjugating enzyme	acetic acid	down	-0.81	False
+A0A1D8PMZ4	HMS1	A0A1D8PMZ4_CANAL	Hms1p	acetic acid	down	-0.8	False
+A0A1D8PIL3	SMM1	A0A1D8PIL3_CANAL	Smm1p	acetic acid	up	0.8	False
+Q59ZX3	RBE1	RBE1_CANAL	Repressed by EFG1 protein 1	acetic acid	up	0.8	False
+Q5AAS9	MRPL19	Q5AAS9_CANAL	Large ribosomal subunit protein uL11m	acetic acid	up	0.8	False
+A0A1D8PRG5	RPP1B	A0A1D8PRG5_CANAL	Ribosomal protein P1B	acetic acid	up	0.8	False
+A0A1D8PD11	CAALFM_C103510CA	A0A1D8PD11_CANAL	Uncharacterized protein	acetic acid	up	0.8	False
+A0A1D8PE63	GCS1	A0A1D8PE63_CANAL	Glutamate--cysteine ligase	acetic acid	up	0.8	False
+A0A1D8PIF1	CAALFM_C209040WA	A0A1D8PIF1_CANAL	SAP domain-containing protein	acetic acid	up	0.8	False
+A0A1D8PDE3	SEC21	A0A1D8PDE3_CANAL	Coatomer subunit gamma	acetic acid	down	-0.8	False
+P83776	HXK2	HXKB_CANAL	Hexokinase-2	acetic acid	up	0.8	False
+A0A1D8PU53	CAALFM_CR10040WA	A0A1D8PU53_CANAL	Uncharacterized protein	acetic acid	up	0.8	False
+Q5A217	CAALFM_CR02670CA	Q5A217_CANAL	Uncharacterized protein	acetic acid	up	0.79	False
+Q59TB1	CAALFM_C204340CA	Q59TB1_CANAL	Gluconokinase	acetic acid	down	-0.79	False
+Q5A884	COX23	COX23_CANAL	Cytochrome c oxidase-assembly factor COX23, mitochondrial	acetic acid	up	0.79	False
+Q5A501	VPS2	Q5A501_CANAL	ESCRT-III subunit protein	acetic acid	up	0.79	False
+P82610	MET6	METE_CANAL	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase	acetic acid	up	0.79	False
+Q8X1E6	CDC37	CDC37_CANAL	Hsp90 co-chaperone Cdc37	acetic acid	up	0.79	True
+Q5AA50	NPL4	NPL4_CANAL	Nuclear protein localization protein 4	acetic acid	down	-0.79	False
+Q5ADL2	CAALFM_C306740WA	Q5ADL2_CANAL	Uncharacterized protein	acetic acid	down	-0.79	False
+A0A1D8PFW3	RSC8	A0A1D8PFW3_CANAL	Chromatin structure-remodeling complex protein RSC8	acetic acid	down	-0.79	False
+A0A1D8PS00	CAALFM_CR01550CA	A0A1D8PS00_CANAL	3'-5'-exodeoxyribonuclease (Fragment)	acetic acid	down	-0.79	False
+Q5AND9	ARF2	Q5AND9_CANAL	ADP-ribosylation factor	acetic acid	up	0.79	False
+A0A1D8PE67	ADE5:7	A0A1D8PE67_CANAL	Bifunctional aminoimidazole ribotide synthase/glycinamide ribotide synthase	acetic acid	up	0.79	True
+Q59R27	SDD3	Q59R27_CANAL	Uncharacterized protein	acetic acid	up	0.79	False
+Q5A927	CAALFM_C101190CA	Q5A927_CANAL	N,N-dimethylaniline monooxygenase	acetic acid	up	0.78	False
+A0A1D8PD99	NOP4	A0A1D8PD99_CANAL	mRNA-binding ribosome biosynthesis protein	acetic acid	down	-0.78	False
+A0A1D8PJ26	KGD1	A0A1D8PJ26_CANAL	2-oxoglutarate dehydrogenase, mitochondrial	acetic acid	up	0.78	False
+A0A1D8PSA9	PGM2	A0A1D8PSA9_CANAL	phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)	acetic acid	up	0.78	False
+Q5AMP4	MDH1-1	Q5AMP4_CANAL	Malate dehydrogenase	acetic acid	up	0.78	False
+A0A1D8PIP0	SLR1	A0A1D8PIP0_CANAL	Slr1p	acetic acid	up	0.78	False
+Q59R18	DED81	Q59R18_CANAL	asparagine--tRNA ligase	acetic acid	up	0.78	False
+Q5AK42	CAALFM_C504910WA	EFG1P_CANAL	rRNA-processing protein EFG1	acetic acid	up	0.78	True
+A0A1D8PPK1	EBP1	EBP1_CANAL	Probable NADPH dehydrogenase	acetic acid	down	-0.78	True
+Q59X89	VPS21	Q59X89_CANAL	Rab family GTPase	acetic acid	down	-0.78	False
+A0A1D8PMG0	NIF3	A0A1D8PMG0_CANAL	Nif3p	acetic acid	up	0.78	False
+A0A1D8PF62	PLD1	A0A1D8PF62_CANAL	Phospholipase	acetic acid	down	-0.78	False
+Q59X53	CAALFM_C209160WA	Q59X53_CANAL	Exosome non-catalytic core subunit	acetic acid	up	0.78	False
+O74161	CHS5	CHS5_CANAL	Chitin biosynthesis protein CHS5	acetic acid	down	-0.78	False
+A0A1D8PMJ7	CAALFM_C406290WA	A0A1D8PMJ7_CANAL	Chromatin DNA-binding EKC/KEOPS complex subunit	acetic acid	up	0.78	False
+A0A1D8PP30	CAALFM_C504840CA	A0A1D8PP30_CANAL	Uncharacterized protein	acetic acid	up	0.77	False
+Q59NB8	LKH1	LKHA4_CANAL	Leucine aminopeptidase 2	acetic acid	up	0.77	False
+A0A1D8PL85	AAT22	A0A1D8PL85_CANAL	Aspartate aminotransferase	acetic acid	up	0.77	False
+Q59ZE0	ATP4	Q59ZE0_CANAL	ATP synthase subunit 4	acetic acid	up	0.77	False
+A0A1D8PI86	CAALFM_C208180CA	A0A1D8PI86_CANAL	Ribosome biosynthesis protein	acetic acid	up	0.77	False
+Q59YL9	ESF2	ESF2_CANAL	Pre-rRNA-processing protein ESF2	acetic acid	up	0.77	False
+A0A1D8PSW2	CAALFM_CR04880WA	A0A1D8PSW2_CANAL	low-specificity L-threonine aldolase	acetic acid	up	0.77	False
+Q5A3J1	MRPL51	RM51_CANAL	Large ribosomal subunit protein mL43	acetic acid	up	0.77	False
+P82611	ACO1	ACON_CANAL	Aconitate hydratase, mitochondrial	acetic acid	up	0.77	False
+Q5A922	AIM9	AIM9_CANAL	Altered inheritance of mitochondria protein 9, mitochondrial	acetic acid	up	0.77	False
+A0A1D8PRR2	BUD22	A0A1D8PRR2_CANAL	Bud22p	acetic acid	up	0.77	True
+Q5A7M1	GLO3	Q5A7M1_CANAL	ADP-ribosylation factor GTPase-activating protein	acetic acid	down	-0.76	False
+Q92210	ADE2	PUR6_CANAL	Phosphoribosylaminoimidazole carboxylase	acetic acid	up	0.76	False
+P0CU35;Q96W54	RPS22A;RPS22B	RS22A_CANAL;RS22B_CANAL	Small ribosomal subunit protein uS8B	acetic acid	up	0.76	False
+Q59K86	BNA1	3HAO_CANAL	3-hydroxyanthranilate 3,4-dioxygenase	acetic acid	up	0.76	True
+A0A1D8PHI7	CAALFM_C205750WA	A0A1D8PHI7_CANAL	Ribosome biogenesis protein NOP53	acetic acid	up	0.76	False
+A0A1D8PN03	FOL1	A0A1D8PN03_CANAL	Folic acid synthesis protein fol1	acetic acid	up	0.76	False
+Q59WB3	GAP4	GAP4_CANAL	S-adenosylmethionine permease GAP4	acetic acid	up	0.76	False
+Q59X24	PPX1	Q59X24_CANAL	Exopolyphosphatase	acetic acid	up	0.76	False
+Q5A8Y6	CAALFM_C101580WA	Q5A8Y6_CANAL	Large ribosomal subunit protein uL13m	acetic acid	up	0.76	False
+A0A1D8PF68	SAM2	A0A1D8PF68_CANAL	S-adenosylmethionine synthase	acetic acid	up	0.76	False
+A0A1D8PLK1	PRE7	A0A1D8PLK1_CANAL	Proteasome subunit beta	acetic acid	up	0.76	False
+Q59PT0	VMA2	VATB_CANAL	V-type proton ATPase subunit B	acetic acid	down	-0.76	False
+Q5AK60	HYS2	Q5AK60_CANAL	DNA-directed DNA polymerase	acetic acid	down	-0.76	False
+Q5A6R1	RPL15A	RL15A_CANAL	Large ribosomal subunit protein eL15	acetic acid	up	0.76	False
+A0A1D8PK65	FAS2	A0A1D8PK65_CANAL	Fatty acid synthase subunit alpha	acetic acid	up	0.75	False
+A0A1D8PHI0	RFC1	A0A1D8PHI0_CANAL	Replication factor C subunit 1	acetic acid	down	-0.75	False
+A0A1D8PSA6	RPD3	A0A1D8PSA6_CANAL	Histone deacetylase	acetic acid	down	-0.75	False
+Q59RW5	HXK1	HXK1_CANAL	N-acetylglucosamine kinase 1	acetic acid	down	-0.75	False
+A0A1D8PSB0	APL4	A0A1D8PSB0_CANAL	AP-1 complex subunit gamma	acetic acid	down	-0.75	False
+A0A1D8PKY1	CNH1	A0A1D8PKY1_CANAL	Cnh1p	acetic acid	up	0.75	False
+A0A1D8PRG2	CAALFM_C703780CA	A0A1D8PRG2_CANAL	Nitronate monooxygenase	acetic acid	down	-0.75	False
+Q59LZ4	CAALFM_C702630WA	Q59LZ4_CANAL	Arrestin-like N-terminal domain-containing protein	acetic acid	down	-0.75	False
+A0A1D8PHT4	SNF12	A0A1D8PHT4_CANAL	SWIFT domain-containing protein	acetic acid	down	-0.75	False
+A0A1D8PRA6	CAALFM_C703270WA	A0A1D8PRA6_CANAL	Uncharacterized protein	acetic acid	up	0.74	False
+Q5ANB6	CAALFM_C305140CA	Q5ANB6_CANAL	tRNA (guanine(10)-N(2))-methyltransferase	acetic acid	up	0.74	False
+A0A1D8PNL5	CAALFM_C503170CA	A0A1D8PNL5_CANAL	NBA1 C-terminal domain-containing protein	acetic acid	up	0.74	False
+A0A1D8PTY9	CAALFM_CR09440CA	A0A1D8PTY9_CANAL	Uncharacterized protein	acetic acid	up	0.74	False
+A0A1D8PND7	CAALFM_C502210WA	A0A1D8PND7_CANAL	Golgi to ER traffic protein 4	acetic acid	down	-0.74	False
+A0A1D8PGG5	CAALFM_C202000WA	A0A1D8PGG5_CANAL	Vacuolar protein sorting-associated protein 74	acetic acid	down	-0.74	False
+A0A1D8PPZ9	CAALFM_C602800WA	A0A1D8PPZ9_CANAL	L-methionine (R)-S-oxide reductase	acetic acid	up	0.74	False
+Q5A331	CAALFM_CR08590WA	Q5A331_CANAL	AAA family ATPase	acetic acid	up	0.74	False
+A0A1D8PLD7	CAALFM_C401840CA	A0A1D8PLD7_CANAL	Dienelactone hydrolase domain-containing protein	acetic acid	up	0.74	False
+Q5A0I8	SGT2	Q5A0I8_CANAL	Sgt2p	acetic acid	up	0.73	False
+Q5AMT2	BGL2	BGL2_CANAL	Glucan 1,3-beta-glucosidase BGL2	acetic acid	up	0.73	True
+A0A1D8PRS1	CAALFM_CR00690CA	A0A1D8PRS1_CANAL	Uncharacterized protein	acetic acid	down	-0.73	False
+Q59YH1	CAALFM_C209970CA	Q59YH1_CANAL	Glucosamine/galactosamine-6-phosphate isomerase domain-containing protein	acetic acid	up	0.73	False
+P87185	NFS1	NFS1_CANAL	Cysteine desulfurase	acetic acid	down	-0.73	False
+Q5APD2	MLS1	Q5APD2_CANAL	Malate synthase	acetic acid	down	-0.73	False
+Q5AK43	CAALFM_C504900CA	Q5AK43_CANAL	Ribosome-interacting GTPase 2	acetic acid	down	-0.73	False
+A0A1D8PQS2	CAALFM_C701210CA	A0A1D8PQS2_CANAL	DNA-directed RNA polymerase III subunit	acetic acid	up	0.73	False
+A0A1D8PIH5	CAALFM_C209500WA	A0A1D8PIH5_CANAL	tRNA-dihydrouridine(16/17) synthase [NAD(P)(+)]	acetic acid	up	0.73	False
+Q5AMR4	CAALFM_C402090CA	Q5AMR4_CANAL	Ribosomal RNA-processing protein 41	acetic acid	up	0.73	False
+Q5AG40	VPS4	VPS4_CANAL	Vacuolar protein sorting-associated protein 4	acetic acid	down	-0.73	False
+A0A1D8PRQ3	YRB1	A0A1D8PRQ3_CANAL	Ran GTPase-binding protein	acetic acid	up	0.72	False
+A0A1D8PIG2	PHO13	A0A1D8PIG2_CANAL	Phosphoglycolate phosphatase	acetic acid	down	-0.72	False
+A0A1D8PIV7	RPT2	A0A1D8PIV7_CANAL	26S proteasome regulatory subunit 4 homolog	acetic acid	down	-0.72	False
+A0A1D8PMH8	GDH3	A0A1D8PMH8_CANAL	Glutamate dehydrogenase	acetic acid	up	0.72	False
+A0A1D8PKC3	CAM1	A0A1D8PKC3_CANAL	Translation elongation factor EF1B gamma	acetic acid	up	0.72	False
+A0A1D8PCQ3	CAALFM_C102430CA	A0A1D8PCQ3_CANAL	Eukaryotic translation initiation factor 2A	acetic acid	down	-0.72	False
+Q59UQ4	CAALFM_C400390WA	Q59UQ4_CANAL	Chromatin-binding transcription coactivator	acetic acid	up	0.72	False
+A0A1D8PSX0	VMA13	A0A1D8PSX0_CANAL	V-type proton ATPase subunit H	acetic acid	down	-0.72	False
+A0A1D8PLW8	RPN6	A0A1D8PLW8_CANAL	Proteasome regulatory particle lid subunit	acetic acid	down	-0.72	False
+A0A1D8PHU4	CAALFM_C207010WA	A0A1D8PHU4_CANAL	DUF1682 family protein	acetic acid	down	-0.72	False
+A0A1D8PPE1	CAALFM_C600360CA	A0A1D8PPE1_CANAL	Mitochondrial intermembrane space cysteine motif-containing protein MIX23	acetic acid	up	0.72	False
+Q59LS1	RPL3	RL3_CANAL	Large ribosomal subunit protein uL3	acetic acid	up	0.72	False
+A0A1D8PL15	CAALFM_C400380WA	A0A1D8PL15_CANAL	D-arabinose 1-dehydrogenase (NAD(P)(+))	acetic acid	up	0.72	False
+Q59WU2	CAALFM_C601050WA	Q59WU2_CANAL	Tyrosine--tRNA ligase	acetic acid	up	0.72	False
+Q5A863	TRM1	Q5A863_CANAL	tRNA (guanine(26)-N(2))-dimethyltransferase	acetic acid	up	0.72	False
+Q5A2A7	PRD1	Q5A2A7_CANAL	Metalloendopeptidase	acetic acid	up	0.71	False
+A0A1D8PH05	SNF6	A0A1D8PH05_CANAL	Uncharacterized protein	acetic acid	down	-0.71	False
+Q5AAT0	RAI1	DXO_CANAL	Decapping nuclease RAI1	acetic acid	up	0.71	False
+Q59WG6	CAALFM_C110820CA	Q59WG6_CANAL	aspartyl aminopeptidase	acetic acid	up	0.71	False
+A0A1D8PGL6	ENT3	A0A1D8PGL6_CANAL	Ent3p	acetic acid	up	0.71	False
+A0A1D8PMH1	MED3	A0A1D8PMH1_CANAL	Med3p	acetic acid	up	0.71	False
+Q59WF0	NIT3	Q59WF0_CANAL	Hydrolase	acetic acid	down	-0.71	False
+A0A1D8PNX9	GLN3	A0A1D8PNX9_CANAL	Nitrogen-responsive transcriptional regulator	acetic acid	down	-0.7	False
+A0A1D8PLI2	IDI1	IDI1_CANAL	Isopentenyl-diphosphate delta-isomerase	acetic acid	up	0.7	False
+Q59S78	SAR1	SAR1_CANAL	Small COPII coat GTPase SAR1	acetic acid	down	-0.7	False
+Q5AKW4	AGM1	Q5AKW4_CANAL	Phosphoacetylglucosamine mutase	acetic acid	up	0.7	False
+Q5AIA6	SNZ1	Q5AIA6_CANAL	pyridoxal 5'-phosphate synthase (glutamine hydrolyzing)	acetic acid	down	-0.7	False
+A0A1D8PH00	ASR3	A0A1D8PH00_CANAL	Asr3p	acetic acid	up	0.7	False
+A0A1D8PUC1	SMD1	A0A1D8PUC1_CANAL	Small nuclear ribonucleoprotein Sm D1	acetic acid	up	0.7	False
+A0A1D8PH78	ERG20	ERG20_CANAL	Farnesyl pyrophosphate synthase	acetic acid	up	0.7	False
+Q5AMH1	ASK1	ASK1_CANAL	DASH complex subunit ASK1	acetic acid	up	0.7	False
+A0A1D8PF90	CAALFM_C111860WA	A0A1D8PF90_CANAL	K Homology domain-containing protein	acetic acid	down	-0.7	False
+Q5A4N6	CAALFM_C601780CA	Q5A4N6_CANAL	Formate/nitrite transporter	acetic acid	down	-0.69	False
+Q59WC0	CCS1	Q59WC0_CANAL	Superoxide dismutase 1 copper chaperone	acetic acid	down	-0.69	True
+Q5AEI0	MET13	Q5AEI0_CANAL	Methylenetetrahydrofolate reductase (NAD(P)H)	acetic acid	up	0.69	False
+A0A1D8PTQ2	DCP2	A0A1D8PTQ2_CANAL	Decapping enzyme complex catalytic subunit	acetic acid	down	-0.69	False
+Q59N40	AAT21	Q59N40_CANAL	Aspartate aminotransferase	acetic acid	up	0.69	False
+A0A1D8PCV8	RSC2	A0A1D8PCV8_CANAL	Chromatin structure-remodeling complex subunit RSC1	acetic acid	down	-0.69	False
+Q5AI97	MGM101	MG101_CANAL	Mitochondrial genome maintenance protein MGM101	acetic acid	up	0.69	True
+Q59Z54	CAALFM_C206920CA	Q59Z54_CANAL	Smr domain-containing protein	acetic acid	down	-0.69	False
+A0A1D8PKB4	YCK2	YCK2_CANAL	Serine/threonine protein kinase YCK2	acetic acid	down	-0.69	False
+A0A1D8PLA3	PWP1	A0A1D8PLA3_CANAL	rRNA-processing protein	acetic acid	up	0.68	False
+Q5ALV5	COX4	Q5ALV5_CANAL	Cytochrome c oxidase subunit 4, mitochondrial	acetic acid	up	0.68	False
+Q59Q39	TRM10	TRM10_CANAL	tRNA (guanine(9)-N1)-methyltransferase	acetic acid	up	0.68	False
+A0A1D8PQR0	PHM5	A0A1D8PQR0_CANAL	Endopolyphosphatase	acetic acid	up	0.68	False
+A0A1D8PJ36	CAALFM_C301140WA	A0A1D8PJ36_CANAL	Thioredoxin domain-containing protein	acetic acid	up	0.68	False
+A0A1D8PPM1	CAALFM_C601460CA	A0A1D8PPM1_CANAL	DnaJ-related protein SCJ1	acetic acid	down	-0.68	False
+A0A1D8PM86	IMG2	A0A1D8PM86_CANAL	Large ribosomal subunit protein mL49	acetic acid	up	0.68	False
+A0A1D8PF08	RPL2	RL2_CANAL	Large ribosomal subunit protein uL2	acetic acid	up	0.68	False
+A0A1D8PD30	CAALFM_C103690WA	A0A1D8PD30_CANAL	PDZ GRASP-type domain-containing protein	acetic acid	up	0.68	False
+A0A1D8PSE7	IFR2	A0A1D8PSE7_CANAL	Ifr2p	acetic acid	up	0.68	True
+A0A1D8PJC7	CAALFM_C302090CA	A0A1D8PJC7_CANAL	DUF1749-domain-containing protein	acetic acid	down	-0.67	False
+Q5AFP3	MCM1	MCM1_CANAL	Transcription factor of morphogenesis MCM1	acetic acid	down	-0.67	True
+Q5A2A5	GRS1	Q5A2A5_CANAL	glycine--tRNA ligase	acetic acid	up	0.67	False
+Q5A287	SFL1	SFL1_CANAL	Transcription factor SFL1	acetic acid	down	-0.67	False
+A0A1D8PKZ6	CAALFM_C307920WA	A0A1D8PKZ6_CANAL	Uncharacterized protein	acetic acid	down	-0.66	False
+A0A1D8PIC6	CAALFM_C209070CA	A0A1D8PIC6_CANAL	Phospholipid/glycerol acyltransferase domain-containing protein	acetic acid	down	-0.66	False
+A0A1D8PFM7	CGA1	A0A1D8PFM7_CANAL	FAR1 domain-containing protein	acetic acid	up	0.66	False
+Q59WC5	PHO15	Q59WC5_CANAL	Phosphoglycolate phosphatase	acetic acid	up	0.66	False
+Q5AC28	CAALFM_C602530CA	Q5AC28_CANAL	Uncharacterized protein	acetic acid	up	0.66	False
+A0A1D8PDA0	CAALFM_C104430CA	A0A1D8PDA0_CANAL	benzil reductase [(S)-benzoin forming]	acetic acid	down	-0.66	False
+A0A1D8PHU0	CAALFM_C207030CA	A0A1D8PHU0_CANAL	Mitochondrial 54S ribosomal protein MRPL50	acetic acid	up	0.66	False
+A0A1D8PKB0	CAALFM_C305760WA	A0A1D8PKB0_CANAL	Phosphopantothenate--cysteine ligase	acetic acid	up	0.66	False
+A0A1D8PT60	ARC40	A0A1D8PT60_CANAL	Actin-related protein 2/3 complex subunit	acetic acid	down	-0.65	False
+A0A1D8PU27	CAALFM_CR09800CA	A0A1D8PU27_CANAL	U3 small nucleolar RNA-associated protein 14	acetic acid	down	-0.65	False
+A0A1D8PNK0	DAP2	A0A1D8PNK0_CANAL	Dipeptidyl-peptidase IV	acetic acid	up	0.65	False
+A0A1D8PR11	CAALFM_C702100WA	A0A1D8PR11_CANAL	Peptidase M24 domain-containing protein	acetic acid	up	0.65	False
+A0A1D8PJB1	CAALFM_C301850WA	A0A1D8PJB1_CANAL	Mitochondrial 37S ribosomal protein MRP1	acetic acid	up	0.65	False
+Q59TN1	TRM5	TRM5_CANAL	tRNA (guanine(37)-N(1))-methyltransferase	acetic acid	up	0.64	False
+Q5A744	SDS24	SDS24_CANAL	Protein SDS23	acetic acid	down	-0.64	False
+A0A1D8PHH4	RPL33A	RL33A_CANAL	Large ribosomal subunit protein eL33	acetic acid	up	0.64	False
+A0A1D8PQP1	CAALFM_C700810WA	A0A1D8PQP1_CANAL	Growth regulation protein	acetic acid	down	-0.64	False
+A0A1D8PFD4	ATP19	A0A1D8PFD4_CANAL	F1F0 ATP synthase subunit k	acetic acid	up	0.63	False
+Q59TE0	RPL17B	RL17B_CANAL	Large ribosomal subunit protein uL22	acetic acid	up	0.63	False
+Q5AJF1	LOC1	LOC1_CANAL	60S ribosomal subunit assembly/export protein LOC1	acetic acid	up	0.63	False
+A0A1D8PLR5	CAALFM_C403040WA	A0A1D8PLR5_CANAL	DNA-directed RNA polymerases I, II, and III subunit RPABC5	acetic acid	up	0.63	False
+A0A1D8PCC8	RRS1	A0A1D8PCC8_CANAL	Ribosome biogenesis regulatory protein	acetic acid	up	0.63	False
+A0A1D8PDV5	RAC1	A0A1D8PDV5_CANAL	small monomeric GTPase	acetic acid	down	-0.63	False
+A0A1D8PHF1	SNP1	A0A1D8PHF1_CANAL	U1 snRNP complex subunit	acetic acid	up	0.63	False
+A0A1D8PF20	RTG3	A0A1D8PF20_CANAL	Rtg3p	acetic acid	up	0.63	False
+Q8NJN3	ACS2	ACS2_CANAL	Acetyl-coenzyme A synthetase 2	acetic acid	down	-0.62	False
+A0A1D8PFP3	KEM1	A0A1D8PFP3_CANAL	5'-3' exoribonuclease 1	acetic acid	down	-0.62	True
+A0A1D8PRP0	LSM6	A0A1D8PRP0_CANAL	U4/U6-U5 snRNP complex subunit	acetic acid	up	0.62	False
+A0A1D8PG40	DPB4	A0A1D8PG40_CANAL	DNA polymerase epsilon subunit D	acetic acid	up	0.62	False
+Q59NQ6	SMD3	Q59NQ6_CANAL	Small nuclear ribonucleoprotein Sm D3	acetic acid	up	0.61	False
+Q5AMT7	BFR1	Q5AMT7_CANAL	Bfr1p	acetic acid	up	0.61	False
+A0A1D8PQS0	RPP0	A0A1D8PQS0_CANAL	60S acidic ribosomal protein P0	acetic acid	up	0.61	False
+Q5AD02	CAALFM_C200630CA	Q5AD02_CANAL	allantoicase	acetic acid	down	-0.61	False
+Q5AMP2	TYR1	Q5AMP2_CANAL	Prephenate dehydrogenase [NADP(+)]	acetic acid	up	0.61	False
+Q5AGZ8	PFK2	Q5AGZ8_CANAL	ATP-dependent 6-phosphofructokinase	acetic acid	up	0.61	False
+A0A1D8PSQ3	YDJ1	A0A1D8PSQ3_CANAL	Type I HSP40 co-chaperone	acetic acid	down	-0.61	False
+A0A1D8PHE6	CAALFM_C204960CA	A0A1D8PHE6_CANAL	Altered inheritance rate of mitochondria protein 29	acetic acid	up	0.61	False
+A0A1D8PRA4	CAALFM_C703210WA	A0A1D8PRA4_CANAL	Uncharacterized protein	acetic acid	up	0.61	False
+Q5AKV6	PDX1	Q5AKV6_CANAL	Dihydrolipoamide dehydrogenase-binding protein of pyruvate dehydrogenase complex	acetic acid	up	0.61	False
+A0A1D8PRG4	MAM33	A0A1D8PRG4_CANAL	Mam33p	acetic acid	up	0.61	False
+A0A1D8PTV1	LSM1	A0A1D8PTV1_CANAL	U6 snRNA-associated Sm-like protein LSm1	acetic acid	up	0.6	False
+Q59SE2	STB3	Q59SE2_CANAL	Stb3p	acetic acid	down	-0.6	False
+Q5ADU3	CAALFM_C307420WA	Q5ADU3_CANAL	Eukaryotic translation initiation factor 3 subunit H	acetic acid	up	0.59	False
+Q5A5V6	PDB1	Q5A5V6_CANAL	Pyruvate dehydrogenase E1 component subunit beta	acetic acid	up	0.58	False
+Q5AI80	VTS1	VTS1_CANAL	RNA-binding protein VTS1	acetic acid	down	-0.58	False
+Q5A360	SIL1	SIL1_CANAL	Nucleotide exchange factor SIL1	acetic acid	up	0.58	True
+A0A1D8PKG5	CAALFM_C306370CA	A0A1D8PKG5_CANAL	Uncharacterized protein	acetic acid	down	-0.58	False
+Q5AGZ9	RVB2	RUVB2_CANAL	RuvB-like helicase 2	acetic acid	down	-0.58	False
+Q59RI1	ILS1	Q59RI1_CANAL	Isoleucine--tRNA ligase, cytoplasmic	acetic acid	up	0.58	False
+A0A1D8PG26	CAALFM_C200360CA	A0A1D8PG26_CANAL	Xaa-Pro aminopeptidase	acetic acid	up	0.58	False
+Q5AEE1	HTZ1	H2AZ_CANAL	Histone H2A.Z	acetic acid	down	-0.57	False
+A0A1D8PJG4	STH1	A0A1D8PJG4_CANAL	RSC chromatin remodeling complex ATPase subunit	acetic acid	down	-0.57	False
+A0A1D8PMQ4	RPT5	A0A1D8PMQ4_CANAL	26S proteasome regulatory subunit 6A	acetic acid	down	-0.57	False
+A0A1D8PEX2	DJP1	A0A1D8PEX2_CANAL	Djp1p	acetic acid	up	0.56	False
+Q5A4M8	SUR7	SUR7_CANAL	Protein SUR7	acetic acid	down	-0.56	False
+Q5A5N9	RPC11	Q5A5N9_CANAL	DNA-directed RNA polymerase subunit	acetic acid	up	0.56	False
+A0A1D8PD15	RPN3	A0A1D8PD15_CANAL	Proteasome regulatory particle lid subunit	acetic acid	down	-0.56	False
+A0A1D8PMB7	OFD1	A0A1D8PMB7_CANAL	uS12 prolyl 3,4-dihydroxylase	acetic acid	up	0.56	False
+A0A1D8PHC9	AAT1	A0A1D8PHC9_CANAL	Aspartate transaminase	acetic acid	up	0.55	False
+A0A1D8PQN6	CAALFM_C700830CA	A0A1D8PQN6_CANAL	Uncharacterized protein	acetic acid	up	0.54	False
+A0A1D8PCT4	FRS2	A0A1D8PCT4_CANAL	Phenylalanine--tRNA ligase alpha subunit	acetic acid	up	0.54	False
+Q5AKA5	DUG1	DUG1_CANAL	Cys-Gly metallodipeptidase DUG1	acetic acid	up	0.54	False
+A0A1D8PNL1	MIG1	A0A1D8PNL1_CANAL	Regulatory protein MIG1	acetic acid	up	0.51	False
+A0A1D8PKB6	KRE6	A0A1D8PKB6_CANAL	Beta-glucan synthesis-associated protein	acetic acid	down	-0.51	True
